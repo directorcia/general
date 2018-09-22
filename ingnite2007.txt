@@ -1,0 +1,249 @@
+## Session list from Ignite 2017
+
+Microsoft Ignite Vision keynote 
+Empower IT and developer productivity with Microsoft Azure
+Create a modern workplace with Microsoft 365
+Power transformative change with Microsoft Business
+Microsoft 365: modern management and deployment
+Microsoft 365 Business under the hood: How to configure, deploy and manage in your organization
+GS09 - Microsoft 365: Unlock creativity and empower teamwork in the modern workplace - https://www.youtube.com/watch?v=UCQCzWIFt20
+BRK1037 - State of the union for Microsoft Azure Networking: New network services, features and scenarios - https://www.youtube.com/watch?v=9JydC6LHCJg
+BRK1019 - Simply and organize with Microsoft OneNote - https://www.youtube.com/watch?v=aKo8DhZ054U
+BRK1051 - Locking down access to the Azure Cloud using SSO, Roles based access control and conditional access - https://www.youtube.com/watch?v=FKBoWWKRnvI
+BRK1074 - What you can do with Office 365 Groups in Outlook - https://www.youtube.com/watch?v=EXYszpHxRjw
+BRK2001 - Analyze the anatomy of an advanced attacks - https://www.youtube.com/watch?v=_tPIdFug1fQ
+BRK2009 - Collaborate in a chat based workspace with Microsoft Teams - https://www.youtube.com/watch?v=B2v5jH6pYOc
+BRK2010 - Call quality management for Skype for Business and Microsoft Teams - https://www.youtube.com/watch?v=335OuqsTiNA
+BRK2011 - What’s new in Office 365 reporting - https://www.youtube.com/watch?v=zexjg6O3I5M
+BRK2015 - Mobile device and app management overview with Microsoft Intune - https://www.youtube.com/watch?v=s3cckQzx3PI
+BRK2017 - Say goodbye to passwords - https://www.youtube.com/watch?v=xtMeMaJOvCs
+BRK2018 - Share corporate resources with your partners using Azure Active Directory B2B collaboration - https://www.youtube.com/watch?v=jgdxtBk8vDI
+BRK2019 - Productivity and protection for your employees, partners and customers with Azure Active Directory - https://www.youtube.com/watch?v=GuJXyzFSN-4
+BRK2020 - Azure Information Protection Strategy and Roadmap - https://www.youtube.com/watch?v=GPe6o0Z2fBM
+BRK2031 - Real time communications with Network Planner
+BRK2043 - Architect a modern and secure desktop for your organization - https://www.youtube.com/watch?v=8LOC-R1iodE
+BRK2047 - Embrace Office 365 Groups: Overview and roadmap - https://www.youtube.com/watch?v=ZWu73ZTlQk8
+BRK2058 - Investigate and hit down attacks more precisely than ever before with Windows Defender ATP - https://www.youtube.com/watch?v=-P8fkyIsc7g
+BRK2059 - You attacker thinks like my attacker: A common threat model to create better defense
+BRK2060 - How Microsoft uses Windows Defender ATP - Welcome to a SecOps world!
+BRK2061 - Manage and optimize your cloud spend with Azure Cost Management by Cloudyn
+BRK2067 - The core value of Windows 10 app in the enterprise - https://www.youtube.com/watch?v=UZe0KZy6Adw
+BRK2072 - Next-gen preventative protection with Windows Defender ATP
+BRK2075 - Extending Windows Hello with trusted signals
+BRK2076 - Windows Hello for Business: What's new in 2017 - https://www.youtube.com/watch?v=TU9gSpO8Btk
+BRK2078 - Microsoft's guide for going password-less - https://www.youtube.com/watch?v=mXJS615IGLM
+BRK2079 - Secure Windows 10 with Intune, Azure AD and System Center configuration manager - https://www.youtube.com/watch?v=i7Qdmtdz344
+BRK2082 - What's new in Windows 10 Security? Raising your security bar with the Fall Creators Update! - https://www.youtube.com/watch?v=K6cfC43DUZQ
+BRK2083 - Drill Down: What’s new in the Fall Creator's update for Windows Defender ATP - https://www.youtube.com/watch?v=44fOYDqDm38
+BRK2084 - Windows Defender Exploit Guard: reducing the surface area of applications while balancing security and productivity - https://www.youtube.com/watch?v=ABuFjGBbyWA
+BRK2087 - Yammer insights and community management - https://www.youtube.com/watch?v=XDrlyQ1kn9Q
+BRK2088 - Yammer data, security and compliance - https://www.youtube.com/watch?v=WqhbOsQ7sls
+BRK2090 - Insights into your Office 365 mail flow - https://www.youtube.com/watch?v=PGJ9poMrYhc
+BRK2098 - Deliver sophisticated apps in days: Learn how PowerApps, Microsoft Flow & Common Data model
+BRK2100 - How we build Yammer 
+BRK2101 - Business continuity for your business running in IaaS -  https://www.youtube.com/watch?v=V33DyVfR71Q
+BRK2103 - Yammer Vision and Roadmap - https://www.youtube.com/watch?v=IbLPgcTw8HM
+BRK2129 - GDPR and Office 365 - https://www.youtube.com/watch?v=x1pzj4e9Fwc
+BRK2113 - Drive Yammer usage and adoption - https://www.youtube.com/watch?v=wr5nf1aGucg
+BRK2132 - Hostage negotiation (Yammer) - https://www.youtube.com/watch?v=HdZ0PLzxirY
+BRK2135 - National Australia Bank (Yammer)
+BRK2140 - Yammer collaboration as a platform for Digital Transformation - https://www.youtube.com/watch?v=3lQPVAVLj6A
+BRK2145 - Optimize Azure for Disaster Recovery
+BRK2147 - Microsoft Teams and Yammer: Velocity meets community - https://www.youtube.com/watch?v=qjv5VoSNdXw 
+BRK2148 - Mining Yammer data for gold - https://www.youtube.com/watch?v=hzXFGtF5HCk
+BRK2154 - Real world cases: Custom solution build with PowerApps, Microsoft Flow and Common Data Service
+BRK2158 - Windows Server Fall release technical foundation
+BRK2160 - Use IaaS as a starting point in your cloud journey - https://www.youtube.com/watch?v=RZPeN5CWGAE
+BRK2161 - Maximize storage efficiency and conquer distributed file access with Windows Server and Azure Files - https://www.youtube.com/watch?v=mlparvq434I
+BRK2162 - Achieve more in Yammer through O365 integrations - https://www.youtube.com/watch?v=92QqccLQRTE
+BRK2163 - GlaxoSmithKline
+BRK2164 - Yammer MVP panel
+BRK2165 - Mars, Bots, AI and analytics
+BRK2166 - Bankwest (Yammer)
+BRK2167 - Path to Business value (Yammer) - https://www.youtube.com/watch?v=5wgzbl2QoV0
+BRK2184 - Accelerate your digital transformation with SharePoint and OneDrive - https://www.youtube.com/watch?v=NYJZGMMEt4Y
+BRK2185 - Build your personalized and social intranet with SharePoint, Yammer, Delve, OneDrive and Teams - https://www.youtube.com/watch?v=N2V8L4U5cCs
+BRK2193 - Governance and compliance with Office 365 Groups - https://www.youtube.com/watch?v=qHyKE1o5PIM
+BRK2205 - Onedrive - past, present future - https://www.youtube.com/watch?v=t39_Sk-n_Yk
+BRK2206 - Share and work together on the Intranet with SharePoint Team Sites - https://www.youtube.com/watch?v=RDNhf5h-CN4
+BRK2207 - Inform and engage employees with SharePoint communications sites and news - https://www.youtube.com/watch?v=1DFlW1-m-bU
+BRK2210 - Everything you need to know about Microsoft Azure Security - https://www.youtube.com/watch?v=LpLiwHdECn4
+BRK2212 - Gain visibility into network performance and availability with network monitoring solutions in Azure - https://www.youtube.com/watch?v=09UW5TDbyGU
+BRK2224 - Transform business process with SharePoint, PowerApps and Flow for biz apps, forms and automation - https://www.youtube.com/watch?v=N-jyX5oHMzM
+BRK2226 - Harness collective knowledge with SharePoint content services (EOM)
+BRK2228 - Migration to SharePoint and OneDrive in Office 365 - https://www.youtube.com/watch?v=yz6hrv25KMw
+BRK2229 - Security you can trust, control you can count on with SharePoint and OneDrive - https://www.youtube.com/watch?v=d9OpngghxAw
+BRK2232 - Microsoft Azure and Office 365 together: The modern business development platform - https://www.youtube.com/watch?v=r4Gb71J7aoQ
+BRK2233 - Migrating your applications, data and workloads to Microsoft Azure
+BRK2237 - Overview of the Microsoft Azure serverless platform - https://www.youtube.com/watch?v=aDBLh1Wf0L0
+BRK2240 - Containers as infrastructure: Getting started with Azure Container Instances - https://www.youtube.com/watch?v=2DazXdU2F_Q
+BRK2241 - Learn how to make SharePoint accessible and inclusive - https://www.youtube.com/watch?v=c2x_KvV78F0 
+BRK2244 - Build a modern intranet. Real-world planning, information architecture, governance and adoption - https://www.youtube.com/watch?v=dos
+BRK2245 - Enable external sharing and collaboration with OneDrive and SharePoint - https://www.youtube.com/watch?v=5M9wrNtMSFs
+BRK2247 - Learn from MVPs: panel on SharePoint and OneDrive
+BRK2251 - What can you do with Office 365 groups in Outlook?
+BRK2252 - Group collaboration in Microsoft Outlook
+BRK2254 - New capabilities for data integration in the cloud
+BRK2256 - Azure Blob Storage: Scalable, efficient storage for PBs of unstructured data - https://www.youtube.com/watch?v=YTkrHKIVzyI
+BRK2262 - Getting started with Azure Reserved VM Instances (Ris) - https://www.youtube.com/watch?v=DsEWCjgWNOo
+BRK2265 - Backup/DR partners on Azure Cost effective Backup using Blobs
+BRK2273 - Design big data applications using Azure storage
+BRK2274 - Diageo
+BRK2276 - Modernize your customer identity management with Azure Active Directory B2C
+BRK2278 - What's new in Windows Server version 1709 for the software defined datacenter
+BRK2281 - Protect, detect and respond to cyber attacks with threat protection - https://www.youtube.com/watch?v=q9bgLLWBkI4
+BRK2282 - Protecting complete data lifecycle using Microsoft information protection capabilities - https://www.youtube.com/watch?v=9mQKO1lVzOI
+BRK2283 - You bought some Azure, now what? - https://www.youtube.com/watch?v=mIDp_38kXLc
+BRK2285 - Windows Server and hybrid cloud
+BRK2286 - Microsoft Azure File Sync - seamlessly extend file services across servers and cloud - https://myignite.microsoft.com/videos/54963, https://www.youtube.com/watch?v=r26jWDGF_rg
+BRK2288 - Azure Storage: Digital transformation in key industries
+BRK2294 - How to enable and configure Microsoft Teams for your users - https://www.youtube.com/watch?v=qHcCuYsYVwU
+BRK2371 - Best of both worlds: The benefits of cloud object storage
+BRK2372 - Azure Disks: Scale, performance, and ease of use - https://www.youtube.com/watch?v=FteSNmHY-Oo
+BRK2376 - Five SharePoint Migration tips that can save you from disaster - https://www.youtube.com/watch?v=H4T0yQDwCl8
+BRK2378 - Understanding multi-geo capabilities in Office 365 - https://www.youtube.com/watch?v=BuWoaqUDWPU
+BRK2393 - What's new and what’s coming for branding and organizing your SharePoint sites - https://www.youtube.com/watch?v=YBGYl35oU0k
+BRK2396 - Protect Azure IaaS deployments using Microsoft Azure Security Center - https://www.youtube.com/watch?v=9kuRifn5tn4
+BRK2405 - Azure security and management for hybrid environments
+BRK2406 - Implement a secure and well-managed strategy for your Azure resources - https://www.youtube.com/watch?v=fKpHjdN4C1I
+BRK2419 - Microsoft 365 Business under the hood: How to deploy & manage in your organization - https://www.youtube.com/watch?v=RO9qNEJkWpc
+BRK2421 - Tyson employees hungry for perfectly cooked intranet - https://www.youtube.com/watch?v=T-q6GkjZ3EQ
+BRK2242 - Discover SharePoint Server 2016 Feature Pack 2 and Beyond
+BRK2423 - Microsoft 365 Business: Is it right for you? - https://www.youtube.com/watch?v=CtCule9PKPc
+BRK2434 - No team site left behind: Bring the latest features to your existing SharePoint sites - https://www.youtube.com/watch?v=Sh9bCtyul-E
+BRK2436 - Servicing Windows 10 in the Real World - https://www.youtube.com/watch?v=Pekf96vzBtU
+BRK2438 - Ransomware: Don't pay the ransom - https://www.youtube.com/watch?v=SKkMYGzwLKE
+BRK2442 - How to get Office 365 to the next level with Azure Active Directory Premium - https://www.youtube.com/watch?v=XjpKFlVQW2A
+BRK3002 - Virtualize Office 365 ProPlus - https://www.youtube.com/watch?v=RhCyEP1J8oI
+BRK3006 - Drive successful adoption of Microsoft Teams - https://www.youtube.com/watch?v=QAfOhfPnXFU
+BRK3008 - Microsoft Cloud App Security: Learn how to deploy and manage = https://www.youtube.com/watch?v=8et4mw6QOtg
+BRK3009 - System Center Configuration Manager Overview and roadmap
+BRK3010 - Conduct a successful pilot deployment of Microsoft Intune - https://www.youtube.com/watch?v=nG7X5YlOpt0
+BRK3011 - Manage and secure Android, iOS and MacOs devices and apps with Microsoft Intune - https://www.youtube.com/watch?v=py2BcDX1YP8
+BRK3012 - Secure access to Office 365, SaaS and on prem apps with Microsoft EMS - https://www.youtube.com/watch?v=1VN47TgdDGA
+BRK3013 - Ensure users have the right access with Azure Active Directory - https://www.youtube.com/watch?v=mJAomsLN-pQ
+BRK3014 - Azure AD Best practices from around the world - https://www.youtube.com/watch?v=jLBzAW4r17A
+BRK3015 - Deep-dive: Azure Active Directory Authentication and Single Sign on - https://www.youtube.com/watch?v=6RHbDriZRVc
+BRK3016 - Shut the door to cybercrime with Azure Active Directory risk based identity protection - https://www.youtube.com/watch?v=62144uFy-wA
+BRK3017 - Accelerate Azure Information Protection deployment and adoption - https://www.youtube.com/watch?v=zvAfqR0Ijb8
+BRK3018 - Microsoft Teams Behind the Scenes - https://www.youtube.com/watch?v=_tbSpM3DIi0
+BRK3020 - What's new and upcoming in AD FS to securely sign in your users to Office 365 and other applications - https://www.youtube.com/watch?v=set0NwKRW7c
+BRK3026 - Troubleshooting Microsoft Teams - https://www.youtube.com/watch?v=4O4d_7uZTQY
+BRK3029 - Demystifying internet connectivity to Skype for Business Online and Microsoft Teams
+BRK3030 - Deploying Windows 10: An overview of what's new and the future direction - https://www.youtube.com/watch?v=EukCq7y7fNU
+BRK3031 - Deploying Windows 10: User-driven cloud deployment with Windows 10 Autopilot - https://www.youtube.com/watch?v=_kMvHWZlreA
+BRK3040 - Deliver management and security at scale to Office 365 with Azure Active Directory
+BRK3042 - Implement best practices with Office 365 Groups - https://www.youtube.com/watch?v=NgE42HoluIk
+BRK3044 - Expert Windows 10 deployment - https://www.youtube.com/watch?v=H9HGSVEaqQk
+BRK3053 - Troubleshooting Office 365 Identity: how modern authentication works and what to do when it doesn't - https://www.youtube.com/watch?v=j9jG9jDhlJI
+BRK3054 - Unleash Office 365 Groups: Deep Dive - https://www.youtube.com/watch?v=qXiz0nB0Lek
+BRK3057 - Overview: Modern Windows 10 and Office Pro Plus management with Enterprise Mobility + Security - https://www.youtube.com/watch?v=EZPgADAvRdc
+BRK3059 - Manage and protect Office 365 mobile apps with Microsoft Intune - https://www.youtube.com/watch?v=dONqeElkg_c
+BRK3062 - Automated response with Windows Defender ATP - https://www.youtube.com/watch?v=nM3BOwjymG4
+BRK3063 - Next-Gen AV: Windows Defender AV unleashed
+BRK3064 - Windows Defender ATP now extends beyond Windows clients
+BRK3068 - A real world cyber security journey
+BRK3071 - Get an overview of Microsoft Teams architecture - https://www.youtube.com/watch?v=IUFhRBX3YoU
+BRK3072 - Halt Hackers: Do those tricks still work with Windows 10? - https://www.youtube.com/watch?v=zKjX7QxIJZY
+BRK3075 - Modernize deployment and servicing of Windows 10 and Office ProPlus with EMS
+BRK3076 - Transition to cloud based management of Windows 10 and Office ProPlus with EMS
+BRK3082 - Anti-phishing with Office 365 Advanced Threat Protection - https://www.youtube.com/watch?v=iD_pvVV49bM
+BRK3085 - Azure Compute: New features and roadmap
+BRK3093 - Keep what you need but don’t horde everything with intelligent data governance
+BRK3102 - Conduct a successful pilot deployment of Microsoft Intune - https://www.youtube.com/watch?v=ZfHhXYLGYe0 (2016??)
+BRK3108 - Share corporate resources with your partners using Azure AD B2B collaboration - https://www.youtube.com/watch?v=jtBaQHvAUsQ
+BRK3111 - Protect your data in Office 365 with Data Loss Prevention - https://www.youtube.com/watch?v=3Ln9SkU2PWw
+BRK3119 - Learn how to use Intune with the new admin console and Graph API - https://www.youtube.com/watch?v=gRdAH0OECN0
+BRK3125 - Advanced Threat Protection for your Office 365 environment - https://www.youtube.com/watch?v=mWySal_pWp4
+BRK3126 - Stay ahead of cyberattacks with Office 365 threat intelligence
+BRK3132 - Protect your data with Microsoft Azure Backup - https://www.youtube.com/watch?v=FDaPyalExUs
+BRK3136 - Office 365 Security and Compliance overview - https://www.youtube.com/watch?v=otqv2G6I-f0 
+BRK3139 - Respond quickly to threats with next generation security operations and investigation
+BRK3146 - The power of common identity across any cloud - https://www.youtube.com/watch?v=MREWkFXoILU
+BRK3157 - Exchange and Outlook mega 'ask the experts
+BRK3166 - Exam Prep 70-532: Developing Azure Solutions - https://www.youtube.com/watch?v=LxAEHnTPFOQ
+BRK3167 - Tips and tricks with Azure Resource Manager - https://www.youtube.com/watch?v=c2FcmGtAcqE
+BRK3168 - Cert Exam Prep: Exam 70-533: Implementing Azure Solutions
+BRK3170 - Cert Exam Prep: exam 70-534: Architecting Azure Solutions
+BRK3178 - Cost savings with Azure Virtual Machines - https://www.youtube.com/watch?v=qupzZYNwAcQ
+BRK3179 - Building advanced business processes with Logic Apps
+BRK3201 - Simplify hybrid cloud protection with Microsoft Azure Security Center
+BRK3203 - Inside Microsoft Azure datacenter hardware and software architecture with Mark Russinovich
+BRK3204 - Azure app service inside your virtual network
+BRK3205 - Tips and tricks: Build and deploy modern applications using Azure App Service
+BRK3207 - The keys to the cloud. Use Microsoft identities to sign in and access API from your mobile+web apps
+BRK3210 - Defense against the dark (cloud) arts: Azure security deep dive
+BRK3212 - Cloud attacks illustrated - How unique insights from Microsoft help you defend against cloud attacks
+BRK3214 - Containers: From infrastructure to applications
+BRK3216 - How Graph power intelligent experiences in SharePoint and Office 365
+BRK3220 - Microsoft Azure virtual machine infrastructure innovation and automation - https://www.youtube.com/watch?v=goWKwIxNWAE
+BRK3222 - Implement Exchange Online protection - https://www.youtube.com/watch?v=fEmkHZxzwqo
+BRK3224 - Manage and secure Microsoft OneDrive web, desktop and mobile - https://www.youtube.com/watch?v=FrFIXfgCChI
+BRK3225 - Office development: Authentication demystified
+BRK3226 - Create beautiful, fast, interactive pages in SharePoint Online: Deep dive with the product team - https://www.youtube.com/watch?v=Y5ho_NL0aKY
+BRK3228 - Move your data to Microsoft Office 365 - https://www.youtube.com/watch?v=9ddwK98wtEY
+BRK3231 - Deploy Microsoft OneDrive across users and devices - https://www.youtube.com/watch?v=ftZzOZhB4BE
+BRK3235 - Manage SharePoint and OneDrive in Office 365: A field guide for administrators - https://www.youtube.com/watch?v=B46-pN2TD2o
+BRK3236 - Support data residency in global organizations with multi-geo support for OneDrive - https://www.youtube.com/watch?v=_l68KIEzzAg
+BRK3243 - Migrate to Azure using Azure Migrate and Azure Site Recovery - https://www.youtube.com/watch?v=u5eAuNotZFU
+BRK3244 - OneDrive unplugged
+BRK3252 - Geek out with the product team on SharePoint lists and libraries
+BRK3257 - The secrets to getting the best experience out of SharePoint Online - https://www.youtube.com/watch?v=7h4nHo21q5o
+BRK3258 - SharePoint unplugged
+BRK3259 - Transitioning from distribution lists to Office 365 Groups in Outlook
+BRK3260 - Manage Windows devices in the complex hybrid cloud of - https://www.youtube.com/watch?v=TwhaOer0lqU
+BRK3264 - Troubleshooting complex Exchange operational issues - https://www.youtube.com/watch?v=X90HcZvnrw0
+BRK3271 - Master VMs in Microsoft Azure Resource Manager - https://www.youtube.com/watch?v=MqORWgGgUrw
+BRK3279 - Dive deep into the VM Marketplace in Azure: Single VM images, solution templates, and VM extensions
+BRK3295 - What's new in Azure Active Directory Domain Services
+BRK3310 - Azure IaaS design and performance considerations: Best practices and learnings from the field - https://www.youtube.com/watch?v=1hoIHXQTSbo
+BRK3333 - Understanding meetings in Microsoft Teams - https://www.youtube.com/watch?v=5lX_ghJ2ccA
+BRK3348 - Create custom forms and digital experiences in SharePoint using Microsoft PowerApps - https://www.youtube.com/watch?v=sGFo6XslZ2I
+BRK3351 - Achieving a modern workplace with Windows 10, Enterprise Mobility + Security, and Office 365 - https://www.youtube.com/watch?v=n5K87Ype2zc
+BRK3352 - Windows Devices in Azure AD: Why should I care? - https://www.youtube.com/watch?v=n87jJU-3crI
+BRK3353 - Bringing the Modern Workplace to Life with Surface and Microsoft 365 - Bringing the Modern Workplace to Life with Surface and Microsoft 365 - BRK3353
+BRK3354 - Using custom themes and designs to standardize the creation of clean, functional SharePoint sites
+BRK3359 - Deep dive: Compare SharePoint Designer and Microsoft Flow scenarios
+BRK3375 - Windows Defender ATP machine learning: Detecting new and unusual breach activity
+BRK3376 - Managing ongoing Microsoft Office 365 ProPlus client health and applications compatibility
+BRK3386 - Windows 10 Management 101 things you need to know - https://www.youtube.com/watch?v=Wa9Jc8hpImM
+BRK3388 - Build Applications to secure and manage your enterprise using Microsoft Graph
+BRK3391 - Best practices to secure Windows 10 with already included features - https://www.youtube.com/watch?v=zqUwgLDmCqY
+BRK4000 - Enterprise Security and Compliance with Microsoft Teams - https://www.youtube.com/watch?v=cpMhjhjvaQU
+BRK4003 - Deploy and get started with Microsoft Advanced Threat Analytics
+BRK4004 - Understanding Media Flow in Microsoft Teams and Skype for Business
+BRK4005 - Configure custom policies in Skype for Business Online and Microsoft Teams
+BRK4006 - Deep Dive into Branch Cache - https://www.youtube.com/watch?v=UpY_KZVP4Fc
+BRK4007 - Case of the unexplained: Windows troubleshooting with Mark Russinovich - https://www.youtube.com/watch?v=qouxznNC2XU
+BRK4017 - High performance data center expansion with Azure Networking - https://www.youtube.com/watch?v=g3a1XnhXKk0
+BRK4019 - Network security for applications with Microsoft Azure - https://www.youtube.com/watch?v=2HVNbA_4u0M
+BRK4032 - Monitoring, diagnosing and debugging with Azure networking - https://www.youtube.com/watch?v=s7ZHS93gAVY
+BRK4040 - Deep Dive: Advanced workflow automation with Microsoft Flow - https://www.youtube.com/watch?v=JoLT3qoW71E
+BRK4333 - Understanding meetings in Microsoft Teams
+
+THR1003 - Ask us anything about Office 365 Groups
+THR1015 - Yammer for education
+THR1016 - Yammer for IT
+THR1017 - Security and Adoption (Yammer)
+THR1018R - Virtual machine diagnostics on Microsoft Azure - https://www.youtube.com/watch?v=VOJ8ALvh5ig
+THR2007 - How to get Office 365 to the next level with Azure Active Directory Premium
+THR2018 - Mobile rockstar
+THR2019 - The value of Yammer
+THR2022R - Getting started with Microsoft Azure and Azure Portal - https://www.youtube.com/watch?v=q4VgVmHVtnA
+THR2035R - Learn best practices for SharePoint Site Owners - https://www.youtube.com/watch?v=KVPjATscFRA
+THR2036 - See us build a beautiful, mobile SharePoint communications site from scratch, live on stage
+THR2041 - Using Outlook in Office 365 for Education
+THR2042 - Collaborate with people outside your company with Office 365 Groups in Outlook
+THR2066 - Social Business
+THR2071 - Managing enterprise applications, permissions and consent in Azure Active Directory
+THR2072 - Migrating your apps from legacy APIs to Microsoft Graph
+THR2081 - Microsoft Teams and SharePoint for every kind of teamwork - https://www.youtube.com/watch?v=sHl_ZGO1Q-k
+THR2089R - Getting the most out of Azure resources with Azure Advisor - https://www.youtube.com/watch?v=8bwfbPVIA5k
+THR2105R - Azure Managed Disks and Files: Great additions to your storage IT Toolkit on Azure - https://www.youtube.com/watch?v=UD3A-moIlJc
+THR2126 - Azure Active Directory: Your options explained from AD sync to pass through authentication and more - https://www.youtube.com/watch?v=vt2R4P4xLQA
+THR2199R - Manage mobile productivity with Microsoft Enterprise + Security - https://www.youtube.com/watch?v=rSJKDE_7M2c
+THR2216 - Windows 10 management with Microsoft 365 Business - https://www.youtube.com/watch?v=Xgk4Iagjo4E
+THR2217R - Containers as infrastructure: Getting started with Azure Container Instances
+THR3024 - The keys to Office 365 Groups management - https://www.youtube.com/watch?v=7qUQF8yeO4M
+THR3043R - The new planned maintenance experience in Microsoft Azure
+THR3091 - How Microsoft does IT: Deploying an Office 365 Groups expiration policy to enable lifecycle management
