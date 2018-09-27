@@ -1,0 +1,1 @@
+BRK2387 - Automate tasks using Azure Cloud Shell or Azure PowerShell - https://www.youtube.com/watch?v=rhYHdYn5jdQ
