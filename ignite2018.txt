@@ -3,3 +3,4 @@
 BRK2387 - Automate tasks using Azure Cloud Shell or Azure PowerShell - https://www.youtube.com/watch?v=rhYHdYn5jdQ
 BRK2438 - Azure Administrator role based exam prep: AZ-100 infrastructure and deployment - https://www.youtube.com/watch?v=xL6aWuzwy0Q
 BRK2451 - Content collaboration in the Modern Workplace - https://www.youtube.com/watch?v=mv7LfI-zNeA
+THR2302 - A tour of Windows Virtual Desktop - https://www.youtube.com/watch?v=ua9P4VsICFM
