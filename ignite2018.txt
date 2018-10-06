@@ -1,5 +1,6 @@
 ## Session list from Ignite 2018
 
+BRK2022 - Become more productive with Azure - tips and tricks - https://www.youtube.com/watch?v=mRdXu-y0-pE
 BRK2103 - Accelerate productivity with search and discovery in SharePoint Bing for Business - https://www.youtube.com/watch?v=kPTc7RJ8zq8
 BRK2379 - Azure files in 2018: Bigger, faster, better! - https://www.youtube.com/watch?v=GMzh2M66E9o
 BRK2387 - Automate tasks using Azure Cloud Shell or Azure PowerShell - https://www.youtube.com/watch?v=rhYHdYn5jdQ
