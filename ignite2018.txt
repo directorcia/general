@@ -2,6 +2,9 @@
 
 BRK2022 - Become more productive with Azure - tips and tricks - https://www.youtube.com/watch?v=mRdXu-y0-pE
 BRK2103 - Accelerate productivity with search and discovery in SharePoint Bing for Business - https://www.youtube.com/watch?v=kPTc7RJ8zq8
+BRK2131 - Driving Adoption and Usage with OneDrive: You've deployed it but can you get folks - https://www.youtube.com/watch?v=ECfxaTtnedQ
+BRK2133 - What's new and coming to Microsoft OneDrive - https://www.youtube.com/watch?v=RlNHPqTVo-s
+BRK2300 - Windows virtual desktop overview - https://www.youtube.com/watch?v=Y4-ZFzC9GKE
 BRK2379 - Azure files in 2018: Bigger, faster, better! - https://www.youtube.com/watch?v=GMzh2M66E9o
 BRK2387 - Automate tasks using Azure Cloud Shell or Azure PowerShell - https://www.youtube.com/watch?v=rhYHdYn5jdQ
 BRK2438 - Azure Administrator role based exam prep: AZ-100 infrastructure and deployment - https://www.youtube.com/watch?v=xL6aWuzwy0Q
@@ -9,6 +12,10 @@ BRK2451 - Content collaboration in the Modern Workplace - https://www.youtube.co
 BRK3023 - Getting started with Microsoft Search - https://www.youtube.com/watch?v=6m0Nqk2ZNgM
 BRK3408 - Azure Active Directory best practices from around the world - https://www.youtube.com/watch?v=wGk0J4z90GI
 BRK4010 - Anatomy of an attack in Microsoft 365 - https://www.youtube.com/watch?v=ynFadacc8HY
+BRK4012 - How to manage Team effectively - https://www.youtube.com/watch?v=3TZruIk-kV8
+DT1003 - Service degraded: Recognizing mental burnout in your colleagues and yourself - https://www.youtube.com/watch?v=EcYZl75nmqM
+THR1067 - Introduction to PowerShell for the anxious IT Pro - https://www.youtube.com/watch?v=jNKb2lFG-Ko
 THR1142 - A quick overview and demo of how simple it is to backup and restore Office 365 data - https://www.youtube.com/watch?v=VMUbv9JSU_Q
 THR2302 - A tour of Windows Virtual Desktop - https://www.youtube.com/watch?v=ua9P4VsICFM
 THR3093 - introduction to Microsoft Managed Desktop - https://www.youtube.com/watch?v=Pe75tc8YwKM
+THR3123 - Getting stuff done: Solving Office 365 problems with PowerShell - https://www.youtube.com/watch?v=yUY2_fwKmoY
