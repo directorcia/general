@@ -4,12 +4,14 @@ BRK2022 - Become more productive with Azure - tips and tricks - https://www.yout
 BRK2103 - Accelerate productivity with search and discovery in SharePoint Bing for Business - https://www.youtube.com/watch?v=kPTc7RJ8zq8
 BRK2131 - Driving Adoption and Usage with OneDrive: You've deployed it but can you get folks - https://www.youtube.com/watch?v=ECfxaTtnedQ
 BRK2133 - What's new and coming to Microsoft OneDrive - https://www.youtube.com/watch?v=RlNHPqTVo-s
+BRK2136 - SharePoint innovations for intranets and portals: Live on stage! - https://www.youtube.com/watch?v=-Mdkr9CxwPc
 BRK2300 - Windows virtual desktop overview - https://www.youtube.com/watch?v=Y4-ZFzC9GKE
 BRK2379 - Azure files in 2018: Bigger, faster, better! - https://www.youtube.com/watch?v=GMzh2M66E9o
 BRK2387 - Automate tasks using Azure Cloud Shell or Azure PowerShell - https://www.youtube.com/watch?v=rhYHdYn5jdQ
 BRK2438 - Azure Administrator role based exam prep: AZ-100 infrastructure and deployment - https://www.youtube.com/watch?v=xL6aWuzwy0Q
 BRK2451 - Content collaboration in the Modern Workplace - https://www.youtube.com/watch?v=mv7LfI-zNeA
 BRK3023 - Getting started with Microsoft Search - https://www.youtube.com/watch?v=6m0Nqk2ZNgM
+BRK3090 - Customizing Modern SharePoint Sites: Branding Site Scripts and Site Designs - https://www.youtube.com/watch?v=FKCWFpxLXcs
 BRK3408 - Azure Active Directory best practices from around the world - https://www.youtube.com/watch?v=wGk0J4z90GI
 BRK4010 - Anatomy of an attack in Microsoft 365 - https://www.youtube.com/watch?v=ynFadacc8HY
 BRK4012 - How to manage Team effectively - https://www.youtube.com/watch?v=3TZruIk-kV8
