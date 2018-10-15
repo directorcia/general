@@ -12,6 +12,7 @@ BRK2438 - Azure Administrator role based exam prep: AZ-100 infrastructure and de
 BRK2451 - Content collaboration in the Modern Workplace - https://www.youtube.com/watch?v=mv7LfI-zNeA
 BRK3023 - Getting started with Microsoft Search - https://www.youtube.com/watch?v=6m0Nqk2ZNgM
 BRK3090 - Customizing Modern SharePoint Sites: Branding Site Scripts and Site Designs - https://www.youtube.com/watch?v=FKCWFpxLXcs
+BRK3320 - The value of the Microsoft Managed Desktop - https://www.youtube.com/watch?v=K0H1UfARHW0
 BRK3408 - Azure Active Directory best practices from around the world - https://www.youtube.com/watch?v=wGk0J4z90GI
 BRK4010 - Anatomy of an attack in Microsoft 365 - https://www.youtube.com/watch?v=ynFadacc8HY
 BRK4012 - How to manage Team effectively - https://www.youtube.com/watch?v=3TZruIk-kV8
