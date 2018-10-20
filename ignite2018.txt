@@ -1,7 +1,9 @@
 ## Session list from Ignite 2018
 
 BRK2022 - Become more productive with Azure - tips and tricks - https://www.youtube.com/watch?v=mRdXu-y0-pE
+BRK2102 - Better teamwork together: Sharepoint and OneDrive integration with Microsoft Teams - https://www.youtube.com/watch?v=0YEPy7HRf60
 BRK2103 - Accelerate productivity with search and discovery in SharePoint Bing for Business - https://www.youtube.com/watch?v=kPTc7RJ8zq8
+BRK2125 - Getting the most out of SharePoint: 7 habits of highly effective users - https://www.youtube.com/watch?v=uk3jXUsPVp8
 BRK2131 - Driving Adoption and Usage with OneDrive: You've deployed it but can you get folks - https://www.youtube.com/watch?v=ECfxaTtnedQ
 BRK2133 - What's new and coming to Microsoft OneDrive - https://www.youtube.com/watch?v=RlNHPqTVo-s
 BRK2136 - SharePoint innovations for intranets and portals: Live on stage! - https://www.youtube.com/watch?v=-Mdkr9CxwPc
@@ -19,6 +21,7 @@ BRK4012 - How to manage Team effectively - https://www.youtube.com/watch?v=3TZru
 DT1003 - Service degraded: Recognizing mental burnout in your colleagues and yourself - https://www.youtube.com/watch?v=EcYZl75nmqM
 THR1067 - Introduction to PowerShell for the anxious IT Pro - https://www.youtube.com/watch?v=jNKb2lFG-Ko
 THR1142 - A quick overview and demo of how simple it is to backup and restore Office 365 data - https://www.youtube.com/watch?v=VMUbv9JSU_Q
+THR2025 - SharePoint Mobile App: Find and Discover Information on the Go - https://www.youtube.com/watch?v=WzKGVNOnM_A
 THR2302 - A tour of Windows Virtual Desktop - https://www.youtube.com/watch?v=ua9P4VsICFM
 THR3093 - introduction to Microsoft Managed Desktop - https://www.youtube.com/watch?v=Pe75tc8YwKM
 THR3123 - Getting stuff done: Solving Office 365 problems with PowerShell - https://www.youtube.com/watch?v=yUY2_fwKmoY
