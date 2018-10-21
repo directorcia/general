@@ -1,6 +1,7 @@
 ## Session list from Ignite 2018
 
 BRK2022 - Become more productive with Azure - tips and tricks - https://www.youtube.com/watch?v=mRdXu-y0-pE
+BRK2076 - Build your communities using SharePoint and Yammer - https://www.youtube.com/watch?v=eu1pZFozxlI
 BRK2102 - Better teamwork together: Sharepoint and OneDrive integration with Microsoft Teams - https://www.youtube.com/watch?v=0YEPy7HRf60
 BRK2103 - Accelerate productivity with search and discovery in SharePoint Bing for Business - https://www.youtube.com/watch?v=kPTc7RJ8zq8
 BRK2125 - Getting the most out of SharePoint: 7 habits of highly effective users - https://www.youtube.com/watch?v=uk3jXUsPVp8
