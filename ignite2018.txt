@@ -1,4 +1,6 @@
 ## Session list from Ignite 2018
+https://myignite.techcommunity.microsoft.com/videos?t=%257B%2522from%2522%253A%25222018-09-23T08%253A00%253A00-04%253A00%2522%252C%2522to%2522%253A%25222018-09-28T19%253A00%253A00-04%253A00%2522%257D
+https://www.youtube.com/channel/UCrhJmfAGQ5K81XQ8_od1iTg
 
 BRK2022 - Become more productive with Azure - tips and tricks - https://www.youtube.com/watch?v=mRdXu-y0-pE
 BRK2076 - Build your communities using SharePoint and Yammer - https://www.youtube.com/watch?v=eu1pZFozxlI
