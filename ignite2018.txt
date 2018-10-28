@@ -4,9 +4,11 @@ https://www.youtube.com/channel/UCrhJmfAGQ5K81XQ8_od1iTg
 
 BRK2022 - Become more productive with Azure - tips and tricks - https://www.youtube.com/watch?v=mRdXu-y0-pE
 BRK2076 - Build your communities using SharePoint and Yammer - https://www.youtube.com/watch?v=eu1pZFozxlI
+BRK2094 - The future of Yammer: Vision and roadmap - https://www.youtube.com/watch?v=3CTKG-01RFo
 BRK2102 - Better teamwork together: Sharepoint and OneDrive integration with Microsoft Teams - https://www.youtube.com/watch?v=0YEPy7HRf60
 BRK2103 - Accelerate productivity with search and discovery in SharePoint Bing for Business - https://www.youtube.com/watch?v=kPTc7RJ8zq8
 BRK2125 - Getting the most out of SharePoint: 7 habits of highly effective users - https://www.youtube.com/watch?v=uk3jXUsPVp8
+BRK2126 - How to build OneDrive habits that will make users happier and more productive - https://www.youtube.com/watch?v=1Vy71CP6Pw4
 BRK2131 - Driving Adoption and Usage with OneDrive: You've deployed it but can you get folks - https://www.youtube.com/watch?v=ECfxaTtnedQ
 BRK2133 - What's new and coming to Microsoft OneDrive - https://www.youtube.com/watch?v=RlNHPqTVo-s
 BRK2136 - SharePoint innovations for intranets and portals: Live on stage! - https://www.youtube.com/watch?v=-Mdkr9CxwPc
@@ -17,7 +19,10 @@ BRK2438 - Azure Administrator role based exam prep: AZ-100 infrastructure and de
 BRK2451 - Content collaboration in the Modern Workplace - https://www.youtube.com/watch?v=mv7LfI-zNeA
 BRK3023 - Getting started with Microsoft Search - https://www.youtube.com/watch?v=6m0Nqk2ZNgM
 BRK3090 - Customizing Modern SharePoint Sites: Branding Site Scripts and Site Designs - https://www.youtube.com/watch?v=FKCWFpxLXcs
+BRK3221 - Combat advanced cyber attacks with Microsoft Cloud App security - https://www.youtube.com/watch?v=a3vcA0SpabA
+BRK3263 - Top ten mistakes companies make in getting started with Azure - https://www.youtube.com/watch?v=pTfCND3pvLo
 BRK3320 - The value of the Microsoft Managed Desktop - https://www.youtube.com/watch?v=K0H1UfARHW0
+BRK3368 - Successfully deploy Microsoft 365 Business in your SMB - https://www.youtube.com/watch?v=FTaIvBLgw-I
 BRK3408 - Azure Active Directory best practices from around the world - https://www.youtube.com/watch?v=wGk0J4z90GI
 BRK4010 - Anatomy of an attack in Microsoft 365 - https://www.youtube.com/watch?v=ynFadacc8HY
 BRK4012 - How to manage Team effectively - https://www.youtube.com/watch?v=3TZruIk-kV8
