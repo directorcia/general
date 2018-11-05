@@ -12,18 +12,26 @@ BRK2126 - How to build OneDrive habits that will make users happier and more pro
 BRK2131 - Driving Adoption and Usage with OneDrive: You've deployed it but can you get folks - https://www.youtube.com/watch?v=ECfxaTtnedQ
 BRK2133 - What's new and coming to Microsoft OneDrive - https://www.youtube.com/watch?v=RlNHPqTVo-s
 BRK2136 - SharePoint innovations for intranets and portals: Live on stage! - https://www.youtube.com/watch?v=-Mdkr9CxwPc
+BRK2256 - What's new and coming up next in Microsoft Office mobile apps - https://www.youtube.com/watch?v=dfSfRhTsZeU
 BRK2300 - Windows virtual desktop overview - https://www.youtube.com/watch?v=Y4-ZFzC9GKE
 BRK2379 - Azure files in 2018: Bigger, faster, better! - https://www.youtube.com/watch?v=GMzh2M66E9o
 BRK2387 - Automate tasks using Azure Cloud Shell or Azure PowerShell - https://www.youtube.com/watch?v=rhYHdYn5jdQ
+BRK2434 - Microsoft 365 Enterprise Admin role-based exam prep: MS-101 Mobility & Security - https://www.youtube.com/watch?v=-b0d6mwu4Y8
 BRK2438 - Azure Administrator role based exam prep: AZ-100 infrastructure and deployment - https://www.youtube.com/watch?v=xL6aWuzwy0Q
 BRK2451 - Content collaboration in the Modern Workplace - https://www.youtube.com/watch?v=mv7LfI-zNeA
+BRK2482 - End-to-end security for SMBs with Microsoft 365 Business - https://www.youtube.com/watch?v=UvPpOGBOzYU
 BRK3023 - Getting started with Microsoft Search - https://www.youtube.com/watch?v=6m0Nqk2ZNgM
+BRK3087 - Office in Virtual Desktop environments - https://www.youtube.com/watch?v=0Uli_gQjh1M
 BRK3090 - Customizing Modern SharePoint Sites: Branding Site Scripts and Site Designs - https://www.youtube.com/watch?v=FKCWFpxLXcs
+BRK3100 - What's new in External sharing and collaboration w/ OneDrive & SharePoint - https://www.youtube.com/watch?v=KvcYz3ERZSY
+BRK3118 - Microsoft Teams architecture - https://techcommunity.microsoft.com/t5/Microsoft-Teams-Events-Blog/Ignite-Live-Blog-BRK3118-Microsoft-Teams-Architecture/ba-p/263802
+BRK3148 - Securing Exchange Online from modern threats - https://www.youtube.com/watch?v=jnUUioUU_eY
 BRK3221 - Combat advanced cyber attacks with Microsoft Cloud App security - https://www.youtube.com/watch?v=a3vcA0SpabA
 BRK3241 - Enable Azure Active Directory Conditional Access to secure user access while - https://www.youtube.com/watch?v=eLAYBwjCGoA
 BRK3263 - Top ten mistakes companies make in getting started with Azure - https://www.youtube.com/watch?v=pTfCND3pvLo
 BRK3320 - The value of the Microsoft Managed Desktop - https://www.youtube.com/watch?v=K0H1UfARHW0
 BRK3368 - Successfully deploy Microsoft 365 Business in your SMB - https://www.youtube.com/watch?v=FTaIvBLgw-I
+BRK3385 - Microsoft 365 Enterprise Admin role-based exam prep: MS-100 Identity and Services - https://www.youtube.com/watch?v=MFmM6C7XuYc
 BRK3408 - Azure Active Directory best practices from around the world - https://www.youtube.com/watch?v=wGk0J4z90GI
 BRK4010 - Anatomy of an attack in Microsoft 365 - https://www.youtube.com/watch?v=ynFadacc8HY
 BRK4012 - How to manage Team effectively - https://www.youtube.com/watch?v=3TZruIk-kV8
