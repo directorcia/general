@@ -7,7 +7,7 @@ BRK1018	- Embrace digital transformation with Office 365: See how customers use 
 BRK1040	- Real customers, real challenges, and the real power of Microsoft Threat Protection - https://www.youtube.com/watch?v=i0KDemzl7Ms
 BRK1041	- Built in and cloud powered - elevate your endpoint security with Microsoft Defender ATP - https://www.youtube.com/watch?v=QBhEU6zT4yA
 BRK1048	- EXAM PREP: MS-900 | Microsoft 365 Fundamentals - https://www.youtube.com/watch?v=3MXiGfg9yMQ
-BRK1056	- Session Title: Breaking the mold: The tech career journey guide - https://www.youtube.com/watch?v=fFhZ_5oEa2E
+BRK1056	- Breaking the mold: The tech career journey guide - https://www.youtube.com/watch?v=fFhZ_5oEa2E
 BRK1107	- Closing the Skills Gap ??? A Panel Discussion - https://www.youtube.com/watch?v=RzUN5XATnpY
 BRK2053 - The latest innovations in SharePoint, OneDrive, and Office for content collaboration in Microsoft 365 - https://www.youtube.com/watch?v=tbxn9GUnDfg
 BRK2084 - Windows Virtual Desktop Overview - https://www.youtube.com/watch?v=4Jk8fwPYx4U
@@ -39,7 +39,7 @@ THR2046	- Microsoft Defender Advanced Threat Protection in 20 minutes - https://
 THR2058	- Discover shadow IT across all your SaaS, IaaS, and PaaS resources - https://www.youtube.com/watch?v=YLDeC0Naqgs
 THR2084 - Five easy steps to securing Azure AD identities - https://www.youtube.com/watch?v=lAsSknYKQdI
 THR2253	- Help your users find content and information they need using SharePoint and Microsoft Search - https://www.youtube.com/watch?v=dmVpi3Xy-C0
-THR3026	Session Title: Keep it simple: the unified administrative experience in Microsoft Endpoint Manager - https://www.youtube.com/watch?v=60ohQ-QUaeI
+THR3026	- Keep it simple: the unified administrative experience in Microsoft Endpoint Manager - https://www.youtube.com/watch?v=60ohQ-QUaeI
 THR3031	- Ignite the spark! CloudApp Security tips and tricks - https://www.youtube.com/watch?v=ctJsf-1nLIM
 THR3037	- Moving corporate user data to OneDrive for Business: How hard can it be? https://www.youtube.com/watch?v=7mrkeg_D4kY
 THR3042	- The importance of Windows 10, OneDrive, SharePoint and Microsoft Teams together - https://www.youtube.com/watch?v=IyNVi7z3iCQ
