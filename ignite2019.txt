@@ -22,6 +22,7 @@ BRK3095	- Understanding the importance of  collaboration in modern work and the 
 BRK3149	- Managing a virtual workplace using Windows Virtual Desktop and Microsoft 365 - https://www.youtube.com/watch?v=FtWBBwah33Q
 BRK3156	- Security in overdrive: best practices for configuring Microsoft Defender ATP - https://www.youtube.com/watch?v=cQsSU_3w1bA
 BRK3264	- Transform collaboration and fight shadow IT with Office 365 groups - https://www.youtube.com/watch?v=Bhf_bKx3lAg
+BRK3266	- Make the predators your prey: Explore advanced threat hunting across identities, endpoints, and Office 365 with Microsoft Threat Protection - https://www.youtube.com/watch?v=sTcCHrSULPk
 BRK3269	- Detect the undetectable: Quickly identify compromised users and sophisticated campaigns with O365 ATP - https://www.youtube.com/watch?v=iZ5dy1lSbNU
 BRK3286	- Connecting the dots with M365: Automate onboarding, protection, detection and response for endpoints - https://www.youtube.com/watch?v=ex890BreZ_U
 BRK4016	- Real detection stories! See how Microsoft Threat Protection defeated actual attacks and adheres to the MITRE framework - https://www.youtube.com/watch?v=o28Ssb47Aj8
