@@ -6,6 +6,7 @@ BRK011 - Microsoft Security for your entire environment - https://www.youtube.co
 BRK1018	- Embrace digital transformation with Office 365: See how customers use O365 features to work more effectively together and learn about the latest with AI and collaboration in Word, Excel and PowerPoint - https://www.youtube.com/watch?v=_2HhPsuaR-M
 BRK1040	- Real customers, real challenges, and the real power of Microsoft Threat Protection - https://www.youtube.com/watch?v=i0KDemzl7Ms
 BRK1041	- Built in and cloud powered - elevate your endpoint security with Microsoft Defender ATP - https://www.youtube.com/watch?v=QBhEU6zT4yA
+BRK1047	- EXAM PREP: AZ-900 | Microsoft Azure Fundamentals - https://www.youtube.com/watch?v=kl0any3WFb0
 BRK1048	- EXAM PREP: MS-900 | Microsoft 365 Fundamentals - https://www.youtube.com/watch?v=3MXiGfg9yMQ
 BRK1056	- Breaking the mold: The tech career journey guide - https://www.youtube.com/watch?v=fFhZ_5oEa2E
 BRK1107	- Closing the Skills Gap ??? A Panel Discussion - https://www.youtube.com/watch?v=RzUN5XATnpY
@@ -23,6 +24,7 @@ BRK3156	- Security in overdrive: best practices for configuring Microsoft Defend
 BRK3264	- Transform collaboration and fight shadow IT with Office 365 groups - https://www.youtube.com/watch?v=Bhf_bKx3lAg
 BRK3269	- Detect the undetectable: Quickly identify compromised users and sophisticated campaigns with O365 ATP - https://www.youtube.com/watch?v=iZ5dy1lSbNU
 BRK3286	- Connecting the dots with M365: Automate onboarding, protection, detection and response for endpoints - https://www.youtube.com/watch?v=ex890BreZ_U
+BRK4016	- Real detection stories! See how Microsoft Threat Protection defeated actual attacks and adheres to the MITRE framework - https://www.youtube.com/watch?v=o28Ssb47Aj8
 BRK4017	- The science behind Azure Active Directory Identity Protection - https://www.youtube.com/watch?v=-jFwMz1AaCE
 
 SECI20 - Shut the door to cybercrime with identity-driven security - https://www.youtube.com/watch?v=KqEcKNtpgV4
