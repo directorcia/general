@@ -25,8 +25,11 @@ BRK3264	- Transform collaboration and fight shadow IT with Office 365 groups - h
 BRK3266	- Make the predators your prey: Explore advanced threat hunting across identities, endpoints, and Office 365 with Microsoft Threat Protection - https://www.youtube.com/watch?v=sTcCHrSULPk
 BRK3269	- Detect the undetectable: Quickly identify compromised users and sophisticated campaigns with O365 ATP - https://www.youtube.com/watch?v=iZ5dy1lSbNU
 BRK3286	- Connecting the dots with M365: Automate onboarding, protection, detection and response for endpoints - https://www.youtube.com/watch?v=ex890BreZ_U
+BRK4004	- Architecting your intelligent intranet with SharePoint hubs, branding, and site designs - https://www.youtube.com/watch?v=7DsSebBxWS8
 BRK4016	- Real detection stories! See how Microsoft Threat Protection defeated actual attacks and adheres to the MITRE framework - https://www.youtube.com/watch?v=o28Ssb47Aj8
 BRK4017	- The science behind Azure Active Directory Identity Protection - https://www.youtube.com/watch?v=-jFwMz1AaCE
+
+MLS1002 - Outpacing change and staying challenged - https://www.youtube.com/watch?v=l2pzy1qPcuY
 
 SECI20 - Shut the door to cybercrime with identity-driven security - https://www.youtube.com/watch?v=KqEcKNtpgV4
 SECI30 - Tips, tricks, and best practices from the experts for deploying Microsoft Threat Protection - https://www.youtube.com/watch?v=o2dKJEK8TjU
@@ -51,4 +54,5 @@ THR3049	- Protect against waves of email attacks - Introducing campaign views in
 THR3050	- Compromise is co$$$$tly! Detect account compromise early and stop the attackers in their tracks with O365 ATP - https://www.youtube.com/watch?v=JFPxxSun504
 THR3074	- MSIX app attach: The future of app delivery in virtual environments - https://www.youtube.com/watch?v=WeiUUp1nFuQ
 THR3151 - #CYaaS and STOP Ransomware! Make Your Microsoft-Powered Multi-Cloud Strategy Bulletproof - https://www.youtube.com/watch?v=VmxGZd4oBl8
+THR3167 - Cloud security: Defense in depth with DivvyCloud - https://www.youtube.com/watch?v=5c1Je5o23Pk
 THR3158 - BEC: The inner-workings of West African cybercriminal gangs - https://www.youtube.com/watch?v=WxMaSu-gT0M
