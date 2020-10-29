@@ -1,0 +1,812 @@
+ATE400 - Ask the Expert: Build -  deploy -  and manage a security-focused hybrid environment with Red Hat and Microsoft
+ATE401 - Ask the Expert: Why backup matters in a hybrid-cloud world!
+ATE402 - Ask the Expert: Making Microsoft Teams Room even smarter ??? Explore how system-integration and IoT can turn your MTR into a truly intelligent space
+ATE403 - Ask the Expert: Custom fitting Microsoft Business Apps for your industry
+ATE404 - Ask the Expert: Intelligent Manufacturing with Intel and Microsoft Technology Experts
+ATE405 - Ask the Expert: Troubleshoot your organization???s Microsoft 365 document and creative workflows with Adobe
+ATE406 - Ask the Expert: VMware and Microsoft: Coming Together to Drive Azure -  O365 -  and More
+ATE407 - Ask the Expert: Hybrid Cloud with Azure
+ATE408 - Ask the Expert: Top Challenges of Hybrid Active Directory Security
+ATE409 - Ask the Expert: Cloud in 2020: Predictions vs Reality
+ATE410 - Ask the Expert: Pragmatic Azure Security - Lessons Learned from the Largest Azure Security Projects
+ATE411 - Ask the Expert: Make resilience a reality in Azure: Easily Migrate Your Complex File Workloads
+ATE412 - Ask the Expert: Everything you ever wanted to know about PowerShell
+ATE413 - Ask the Expert: Why You Can't Live Without Comprehensive Cloud Native Security
+ATE414 - Ask the Experts: Succeeding with Microsoft Teams in mixed technology communications environments
+ATE-DB101 - Ask the Expert: Learn how Lockheed Martin is advancing spaceflight with the HoloLens and mixed reality
+ATE-DB101-R1 - Ask the Expert: Learn how Lockheed Martin is advancing spaceflight with the HoloLens and mixed reality
+ATE-DB103 - Ask the Expert: Building AI-powered applications with Azure Cognitive Search
+ATE-DB104 - Ask the Expert: Building a Hybrid data platform with Azure Arc enabled data services
+ATE-DB105 - Ask the Expert: .NET App Modernization and Migration from End to end -  using data migration tools and Azure SQL
+ATE-DB105-R1 - Ask the Expert: .NET App Modernization and Migration from End to end -  using data migration tools and Azure SQL
+ATE-DB106 - Ask the Expert: What???s new in Azure Cognitive Services
+ATE-DB106-R1 - Ask the Expert: What???s new in Azure Cognitive Services
+ATE-DB107 - Ask the Expert: Ask us anything on Windows Virtual Desktop
+ATE-DB107-R1 - Ask the Expert: Ask us anything on Windows Virtual Desktop
+ATE-DB108 - Ask the Expert: Linux and PowerShell on Azure
+ATE-DB108-R1 - Ask the Expert:  Linux and PowerShell on Azure
+ATE-DB109 - Ask the Expert: Migrate -  Modernize .NET applications on Azure
+ATE-DB109-R1 - Ask the Expert: Migrate -  Modernize .NET applications on Azure
+ATE-DB110 - Ask the Expert: Enterprise-grade Kubernetes on Azure
+ATE-DB110-R1 - Ask the Expert: Enterprise-grade Kubernetes on Azure
+ATE-DB111 - Ask the Expert: Building real-time enterprise analytics solutions with Azure Synapse Analytics
+ATE-DB112-R1 - Ask the Expert: How to manage your cloud costs in Azure Cost Management + Billing???
+ATE-DB113 - Ask the Expert: Running real-time data analytics on the edge with Azure SQL Edge
+ATE-DB114 - Ask the Expert: Ask us anything on Azure Arc
+ATE-DB114-R1 - Ask the Expert: Ask us anything on Azure Arc
+ATE-DB115 - Ask the Expert: Be prepared for what???s next: kick start your cloud journey with Azure Migration Program 
+ATE-DB115-R1 - Ask the Expert: Be prepared for what???s next: kick start your cloud migration with Azure tools 
+ATE-DB116 - Ask the Expert: Azure IoT: From connected assets to connected environments with Digital Twins
+ATE-DB116-R1 - Ask the Expert: Azure IoT: From connected assets to connected environments with IoT Plug and Play
+ATE-DB117 - Ask the Expert: disk storage -  core compute??and networking
+ATE-DB117-R1 - Ask the Expert: disk storage -  core compute??and networking
+ATE-DB118 - Ask the Expert: E2E machine learning for enterprises in a secure way
+ATE-DB119 - Ask the Expert: New innovations on Azure Database for MySQL and Azure Database for PostgreSQL to turbo charge application development
+ATE-DB119-R1 - Ask the Expert: New innovations on Azure Database for MySQL and Azure Database for PostgreSQL to turbo charge application development
+ATE-DB120 - Ask the Expert: Fast-Track development of production-ready ML models with Azure Machine Learning
+ATE-DB121 - Ask the Expert:  Innovate with Azure Communication Services
+ATE-DB121-R1 - Ask the Expert: Innovate with Azure Communication Services
+ATE-DB122 - Ask the Expert: Transform your Windows Server workloads in Azure  
+ATE-DB122-R1 - Ask the Expert: Transform your Windows Server workloads in Azure??
+ATE-DB123 - Ask the Expert: .NET Team
+ATE-DB124 - Protect revenue and drive performance with D365 Finance & Fraud protection
+ATE-DB125 - Ask the Expert: Automate your desktop with Power Automate
+ATE-DB126 - Ask the Expert: Microsoft Cloud for Healthcare: Empowering health organizations to deliver better experiences -  better insights -  and better care
+ATE-DB127 - Ask the Expert: Future of Customer Care: What's new and what's next for Dynamics 365 Customer and Field Service
+ATE-DB127-R1 - Ask the Expert: Future of Customer Care: What's new and what's next for Dynamics 365 Customer and Field Service
+ATE-DB128 - Ask the Expert: Leverage Microsoft Project and the Project Accelerator to take your projects to the next level 
+ATE-DB129 - Ask the Expert: Power Platform Center of Excellence
+ATE-DB129-R1 - Ask the Expert: How to responsibly scale Power Apps in your organization with a Low Code Center of Excellence
+ATE-DB129-R2 - Ask the Expert: How to responsibly scale Power Apps in your organization with a Low Code Center of Excellence
+ATE-DB130 - Ask the Expert: Build Agile Business Processes with Power Apps
+ATE-DB130-R1 - Ask the Expert: Build Agile Business Processes with Power Apps
+ATE-DB131 - Ask the Expert: Building systems of insights for enterprise scale with Power BI and Azure
+ATE-DB131-R1 - Ask the Expert: Building systems of insights for enterprise scale with Power BI and Azure
+ATE-DB132 - Ask the Expert: Amplify your pro developer skills with Power Platform
+ATE-DB133 - Ask the Expert: How to activate Digital Selling: from raw data to insights
+ATE-DB133-R1 - Ask the Expert: How to activate Digital Selling: from raw data to insights
+ATE-DB134 - Ask the Expert: Deliver insights where decisions are made with Power BI
+ATE-DB134-R1 - Ask the Expert: Deliver insights where decisions are made with Power BI
+ATE-DB135 - Ask the Expert: Microsoft Dynamics 365 Supply Chain Management for Distribution and Manufacturing 
+ATE-DB136 - Ask the Expert: Embrace a New Way of Work with Microsoft 365
+ATE-DB136-R1 - Ask the Expert: Embrace a New Way of Work with Microsoft 365
+ATE-DB137 - Ask the Expert: Driving Innovation for Modern Work with Surface Hub and Duo
+ATE-DB138 - Ask the Expert: Scale and Customize Virtual Meetings and Events with Microsoft Teams ??? 
+ATE-DB138-R1 - Ask the Expert: Scale and Customize Virtual Meetings and Events with Microsoft Teams ??? 
+ATE-DB139 - Ask the Expert: Windows 10 innovations for enhanced productivity and resiliency
+ATE-DB139-R1 - Ask the Expert: Windows 10 innovations for enhanced productivity and resiliency
+ATE-DB140 - Ask the Expert: What's new in Microsoft Teams security and compliance
+ATE-DB140-R1 - Ask the Expert: What's new in Microsoft Teams security and compliance
+ATE-DB141 - Ask the Expert: Simplify work with low-code solutions for Microsoft Teams & Microsoft 365
+ATE-DB141-R1 - Ask the Expert: Simplify work with low-code solutions for Microsoft Teams & Microsoft 365
+ATE-DB142 - Ask the Expert: Nathalie Irvine -  GM ??? Microsoft 365 on the foundation of secure remote work for SMBs
+ATE-DB142-R1 - Ask the Expert: Nathalie Irvine -  GM ??? Microsoft 365 on the foundation of secure remote work for SMBs
+ATE-DB144 - Ask the Expert: One place for admins to manage Microsoft Teams:  What's new in Teams manageability
+ATE-DB144-R1 - Ask the Expert: One place for admins to manage Microsoft Teams:  What's new in Teams manageability
+ATE-DB145 - Ask the Expert: Playing chess on a trampoline:???How to innovate???in an era of uncertainty  
+ATE-DB145-R1 - Ask the Expert: Playing chess on a trampoline:???How to innovate???in an era of uncertainty  
+ATE-DB145-R2 - Ask the Expert: Playing chess on a trampoline:???How to innovate???in an era of uncertainty  
+ATE-DB146 - Ask the Expert: Reimagining work with the Microsoft 365 Platform
+ATE-DB146-R1 - Ask the Expert: Reimagining work with the Microsoft 365 Platform
+ATE-DB147 - Ask the Expert: Power modern meeting experiences across the hybrid workplace using Microsoft Teams devices
+ATE-DB147-R1 - Ask the Expert: Power modern meeting experiences across the hybrid workplace using Microsoft Teams devices
+ATE-DB148 - Ask the Expert: Bring harmony to work and life with productivity and wellbeing insights in Microsoft Teams
+ATE-DB148-R1 - Ask the Expert: Bring harmony to work and life with productivity and wellbeing insights in Microsoft Teams
+ATE-DB148-R2 - Ask the Expert: Bring harmony to work and life with productivity and wellbeing insights in Microsoft Teams
+ATE-DB149 - Ask the Expert: Microsoft Teams Calling Made Simple??? 
+ATE-DB149-R1 - Ask the Expert: Microsoft Teams Calling Made Simple??? 
+ATE-DB150 - Ask the Expert: Employee Engagement and Communities in Microsoft 365
+ATE-DB150-R1 - Ask the Expert: Employee Engagement and Communities in Microsoft 365
+ATE-DB150-R2 - Ask the Expert: Employee Engagement and Communities in Microsoft 365
+ATE-DB151 - Ask the Expert: Meet smarter -  stay focused -  and achieve more with Microsoft Teams meetings  
+ATE-DB151-R1 - Meet smarter -  stay focused -  and achieve more with Microsoft Teams meetings  
+ATE-DB152 - Ask the Expert: Digitally Transform an Essential Part of your Organization -  the Firstline Workforce 
+ATE-DB152-R1 - Ask the Expert: Digitally Transform an Essential Part of your Organization -  the Firstline Workforce 
+ATE-DB153 - Ask the Expert: The Outlook vision: IT and user value in a hybrid workspace
+ATE-DB154 - Ask the Expert:  Project Cortex: Knowledge discovery and content intelligence in Microsoft 365
+ATE-DB154-R1 - Ask the Expert:  Project Cortex: Knowledge discovery and content intelligence in Microsoft 365
+ATE-DB155 - Ask the Expert: Introducing modern admin capabilities to better service Microsoft 365 Apps for enterprise
+ATE-DB155-R1 - Ask the Expert: Introducing modern admin capabilities to better service Microsoft 365 Apps for enterprise
+ATE-DB155-R2 - Ask the Expert: Introducing modern admin capabilities to better service Microsoft 365 Apps for enterprise
+ATE-DB156 - Ask the Expert: Creating a resilient -  inclusive -  and hybrid workplace with Microsoft Teams
+ATE-DB156-R1 - Ask the Expert: Creating a resilient -  inclusive -  and hybrid workplace with Microsoft Teams
+ATE-DB157 - Ask the Expert: Transforming the modern workplace with Microsoft Teams platform
+ATE-DB157-R2 - Ask the Expert: Transforming the modern workplace with Microsoft Teams platform
+ATE-DB159 - Ask the Expert: Be a risk management hero with intelligent data protection and compliance solutions 
+ATE-DB159-R1 - Ask the Expert: Be a risk management hero with intelligent data protection and compliance solutions 
+ATE-DB160 - Ask the Expert: Safeguard your multi-cloud apps and resources with the latest Cloud Security innovations
+ATE-DB160-R1 - Ask the Expert: Safeguard your multi-cloud apps and resources with the latest Cloud Security innovations
+ATE-DB161 - Ask the Expert: Improve SecOps with Azure Sentinel -  your Cloud-Native SIEM
+ATE-DB161-R1 - Ask the Expert: Improve SecOps with Azure Sentinel -  your Cloud-Native SIEM
+ATE-DB162 - Ask the Expert: Don???t lose sleep over insider risks! Use the power of ML to identify and reduce your risk today
+ATE-DB162-R1 - Ask the Expert: Don???t lose sleep over insider risks! Use the power of ML to identify and reduce your risk today
+ATE-DB163 - Ask the Expert: Supercharge information protection and governance across cloud -  on-premise -  endpoints and remote work environments
+ATE-DB163-R1 - Ask the Expert: Ask anything about Microsoft Compliance: information protection & governance -  insider risks -  Compliance Management -  and more
+ATE-DB164 - Ask the Expert: Microsoft 365 Defender: Stop attacks and reduce security operations workload by 50% with automated cross-domain security
+ATE-DB164-R1 - Ask the Expert: Microsoft 365 Defender: Stop attacks and reduce security operations workload by 50% with automated cross-domain security
+ATE-DB165 - Ask the Expert: Save money by securing access to all your apps with Azure Active Directory
+ATE-DB165-R1 - Ask the Expert: Save money by securing access to all your apps with Azure Active Directory
+ATE-DB166 - Ask the Expert: Modernizing your Security Operations
+ATE-DB166-R1 - Ask the Expert: Modernizing your Security Operations
+ATE-DB167 - Ask the Expert: Winning Azure Active Directory strategies for identity security and governance
+ATE-DB167-R1 - Ask the Expert: Winning Azure Active Directory strategies for identity security and governance
+ATE-DB168 - Ask the Expert: Azure Active Directory: our vision and roadmap to help you secure remote access and boost employee productivity
+ATE-DB168-R1 - Ask the Expert: Azure Active Directory: our vision and roadmap to help you secure remote access and boost employee productivity
+ATE-DB169 - Ask the Expert: Zero Trust ??? the road ahead
+ATE-DB169-R1 - Ask the Expert: Zero Trust ??? the road ahead
+ATE-DB170 - Ask the Expert: Ask anything about Microsoft Compliance: information protection & governance -  insider risks -  Compliance Management -  and more!
+ATE-DB170-R1 - Ask the Expert: Stop managing compliance with spreadsheets! Simplify and extend compliance beyond Microsoft 365
+ATE-DB172 - Ask the Expert: Simplify software procurement and management with Azure Marketplace
+ATE-DB181 - Ask the Expert: Microsoft Global Social Entrepreneurship Program and ClearSpace
+ATE-DB182 - Ask the Expert: Transparency to Global Food Supply Chains
+ATE-OD225 - Ask the Experts: Visual Studio -  GitHub -  and Azure
+ATE-OD236 - Ask the Expert: What's new in Microsoft Dynamics 365 Project Operations
+ATE-OD242 - Ask the Expert: Discover what's new in Microsoft Dynamics 365 Supply Chain Management
+ATE-OD243 - Ask the Expert: Discover what's new in Microsoft Dynamics 365 Commerce
+ATE-OD245 - Ask the Expert: Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs
+ATE-OD252 - Ask the Expert: Microsoft Edge ??? State of the browser in 2020
+ATE-OD300 - Ask the Expert: Bringing Next-Generation AI Innovation to the Enterprise
+CON100 - Yoga: Seated with BK Yoga Club
+CON101 - Ignite Your Creativity: Brain Games
+CON102 - Yoga: Full Body Movement with Hersha 
+CON103 - Art + Tech: Custom Key Caps 
+CON104 - Yoga: Seated with Malaika
+CON105 - Ignite Your Creativity: Brain Games
+CON106 - Yoga: Full Body Movement with Malaika 
+CON107 - Art + Tech: Computational Embroidery
+CON108 - Ignite Your Creativity: Brain Games
+CON109 - Yoga: Seated with Hersha 
+CON110 - Yoga: Full Body Movement with BK Yoga Club
+CON111 - Art + Tech: Illustrating Tech Scenes
+CON120 - How to be a Social Technologist in a Virtual World
+CON121 - Sustaining Human Connection in a Virtual World with Technology  
+CON122 - Leveraging Tech for Good: Empowering Nonprofits in a Global Pandemic
+CON123 - You + Power Platform: Be the Hero Of Your Own Story
+CON124 - Choose Your Adventure: How to Hack Your Tech Career and Carve The Path YOU Want
+CON125 - The Intersection of AI and Humanity: Solving World Challenges through AI Innovation??
+CON126 - Mentoring Future Technologists: HBCU Students get Real
+CON127 - Want to start a startup? Passing on the collective experience of 50 founders in just 30mins
+CON130 - Microsoft Ignite Highlight - Japan Session | Live
+CON131 - Skill Up Sweden (Swedish)
+CON132 - Developers in Denmark: The importance of community
+CON133 - Developer Connection Austria
+CON134 - Belgium Technology Extravaganza
+CON135 - Improving the Customer Experience for Government Services
+CON136 - Data innovators to Digital innovators
+CON138 -  Israel can take back its edge with Azure
+CON139 - Canadian Local Connection: Return to Work & Building a Diverse and Inclusive Workforce
+CON140 - Developer skilling in Norway: the role of public and internal technical communities
+CON141 - Meet French Dev community heroes (Delivered in French)
+CON142 - Microsoft Ignite highlights and local developer community connection
+CON143 - Dutch Dev Community Talks: Congrats -  you are now WFH
+CON144 - Australian Community Connection
+CON145 - Microsoft Ignite 2020 Highlights - Latin America Session in Spanish | Live
+CON146 - Microsoft Ignite Community Session Germany
+CON147 - Azure Journey for App Modernization 
+CON148 - Switzerland Dev Community Update
+CON149 - The Portuguese Community empowers you! 
+CON151 - Innovation in the new normal: role of developers and communities
+CON152 - Innovation in the new normal: role of developers and communities (Korean)
+CON153 - Innovation in the new normal: role of developers and communities
+CON154 - Incontro con le community di sviluppo Italiane
+CON155 - UK Area Connection featuring brilliant customer stories!
+CON156 - Microsoft Ignite Brazil Session - The Cloud-Enabled Transformation Journey
+CON157 - Microsoft Ignite Brazil Session - Flying Over the Key Event Announcements!
+CON158 - Technology Learning in Central & Eastern Europe: From Personal Growth to Business Success to Better Society
+CON159 - Scripting Accessibility; Coding for Inclusion
+CON160 - Microsoft Fignite: Highlights
+CON161 - Spanish Dev Community  Connection
+CON162 - Get to know the developer communities in Ireland
+CON180 - Why we're excited to be a developer right now! (Americas Table Talk)
+CON181 - Why we're excited to be a developer right now! (APAC Table Talk)
+CON182 - Why we're excited to be a developer right now! (WE/EMEA Table Talk)
+CON183 - The possibilities are endless with Azure! (Americas Table Talk)
+CON184 - The possibilities are endless with Azure! (APAC Table Talk)
+CON185 - The possibilities are endless with Azure! (WE/EMEA Table Talk)
+CON186 - How applications become valuable to the business
+CON187 - The transformational power of the Power Platform
+CON188 - The Dynamics Community in action
+CON189 - What people don't tell you about a career in technology
+CON190 - What makes someone a compelling hire?
+CON191 - Wanted: A Career Jumpstart
+CON192 - Why (and how) you should give back to the community
+CON193 - The Value of Community During a Global Pandemic
+CON194 - Running Community Events in an Online World
+CON195 - The promise of AI and ML - Will it change the world?
+CON196 - Tools you can use today to maximise the power of Data & AI
+CON197 - What are the possibilities of Data & Machine Learning?
+CON198 - Working from home - How are other people doing it? (Americas Table Talk)
+CON199 - Working from home - How are other people doing it? (APAC Table Talk)
+CON200 - Working from home - How are other people doing it? (WE/EMEA Table Talk)
+CON201 - Is it the end of Traditional Learning as you know it?
+CON202 - Prepare yourself for a future of Learning
+CON203 - How Learning changes careers
+CON204 - Meet the PowerShell Community
+CON205 - Meet the Microsoft 365 Japanese community
+CON206 - Take your first steps into PowerShell with the community
+CON207 - How Microsoft 365 enables true productivity - Real world stories from the community
+CON208 - Extreme Digital Transformation - Stories from the community
+CON209 - Microsoft 365 App Developers and Power Platform Community Meet-up
+CON210 - Power Apps from woe to Go!
+CON211 - Meet your Power Platform community (APAC Table Talk)
+CON212 - Meet your Power Platform community (WE/EMEA Table Talk)
+CON213 - Let's talk Compliance and Governance!
+CON214 - How do Security professionals sleep at night? 
+CON215 - Zero Trust in 2020 - A new frontier for the Security Community
+CON216 - At-Home Learning with free Learning Tools from the Microsoft Education Team 
+CON217 - At-Home Learning with free Learning Tools from the Microsoft Education Team 
+CON218 - At-Home Learning with free Learning Tools from the Microsoft Education Team 
+CON219 - Fun -  effective and productive meetings 
+CON220 - Breathe & Restore with Aditi Shah brought to you by Intel 
+CON220-R1 - Repeat: Breathe & Restore with Aditi Shah brought to you by Intel 
+CON221 - True lessons from our experience with SAP on Azure and Azure Analytics
+CON222 - How I learned to stop worrying and love a hybrid cloud (with Azure)
+CON223 - Top 5 Ways to Simplify Cloud Data Protection with Microsoft Azure
+CON224 - What???s New for Azure VMware Solution
+CON225 - Explore Intelligent Edge -  Vision -  Edge AI and IoT benefits across industries
+CON226 - How to secure SQL Server on Red Hat Enterprise Linux and Red Hat OpenShift
+CON227 - Shape the future of Adobe and Microsoft Teams: share your vision on how they could evolve together
+CON228 - Removing the anxiety of finding spaces with Teams Room Scheduling
+CON229 - Tales from the Trenches- Real Life Strategies for Azure Cloud Security 
+CON230 - Data Protection meets SaaS: an IT Love Story
+CON231 - What does Quest???s acquisition of Binary Tree mean for your next Microsoft 365 migration?
+CON232 - Application-driven storage with Cloud Manager and Cloud Volumes ONTAP
+CON233 - Protecting Cloud Native Assets in Azure
+CON234 - From Lift and Shift to Cloud Native: How to Ensure Comprehensive Cloud Security
+CON235 - Integrating Microsoft Teams meetings with third-party video conferencing systems using Cloud Video Interop
+DB101 - Learn how Lockheed Martin is advancing spaceflight with the HoloLens and mixed reality
+DB101-R1 - Learn how Lockheed Martin is advancing spaceflight with the HoloLens and mixed reality
+DB101-R2 - Learn how Lockheed Martin is advancing spaceflight with the HoloLens and mixed reality
+DB102 - Azure Databricks - What's new!
+DB102-R1 - Azure Databricks - What's new!
+DB102-R2 - Azure Databricks - What's new!
+DB103 - Building AI-powered applications with Azure Cognitive Search
+DB103-R1 - Building AI-powered applications with Azure Cognitive Search
+DB103-R2 - Building AI-powered applications with Azure Cognitive Search
+DB104 - Building a Hybrid data platform with Azure Arc enabled data services
+DB104-R1 - Building a Hybrid data platform with Azure Arc enabled data services
+DB104-R2 - Building a Hybrid data platform with Azure Arc enabled data services
+DB105 - .NET App Modernization and Migration from End to end -  using data migration tools and Azure SQL
+DB105-R1 - .NET App Modernization and Migration from End to end -  using data migration tools and Azure SQL
+DB105-R2 - .NET App Modernization and Migration from End to end -  using data migration tools and Azure SQL
+DB106 - What???s new in Azure Cognitive Services
+DB106-R1 - What???s new in Azure Cognitive Services
+DB106-R2 - What???s new in Azure Cognitive Services
+DB107 - Enable secure remote work quickly with Windows Virtual Desktop
+DB107-R1 - Enable secure remote work quickly with Windows Virtual Desktop
+DB107-R2 - Enable secure remote work quickly with Windows Virtual Desktop
+DB108 - Accelerate cloud migration & innovation with Linux on Azure
+DB108-R1 - Accelerate cloud migration & innovation with Linux on Azure
+DB108-R2 - Accelerate cloud migration & innovation with Linux on Azure
+DB109 - Migrate -  Modernize .NET applications on Azure
+DB109-R1 - Migrate -  Modernize .NET applications on Azure
+DB109-R2 - Migrate -  Modernize .NET applications on Azure
+DB110 - Enterprise-grade Kubernetes on Azure
+DB110-R1 - Enterprise-grade Kubernetes on Azure
+DB110-R2 - Enterprise-grade Kubernetes on Azure
+DB111 - Building real-time enterprise analytics solutions with Azure Synapse Analytics
+DB111-R1 - Building real-time enterprise analytics solutions with Azure Synapse Analytics
+DB111-R2 - Building real-time enterprise analytics solutions with Azure Synapse Analytics
+DB112 - 7 ways to optimize your??Azure costs???
+DB112-R1 - 7 ways to optimize your??Azure costs???
+DB112-R2 - 7 ways to optimize your??Azure costs???
+DB113 - Running real-time data analytics on the edge with Azure SQL Edge
+DB113-R1 - Running real-time data analytics on the edge with Azure SQL Edge
+DB113-R2 - Running real-time data analytics on the edge with Azure SQL Edge
+DB114 - Extend Azure management and data services anywhere with Azure Arc
+DB114-R1 - Extend Azure management and data services anywhere with Azure Arc
+DB114-R2 - Extend Azure management and data services anywhere with Azure Arc
+DB115 - Be prepared for what???s next: kick start your cloud migration
+DB115-R1 - Be prepared for what???s next: kick start your cloud migration
+DB115-R2 - Be prepared for what???s next: kick start your cloud migration
+DB116 - Azure IoT services -  roadmap and vision: from connected assets to connected environments 
+DB116-R1 - Azure IoT services -  roadmap and vision: from connected assets to connected environments 
+DB116-R2 - Azure IoT services -  roadmap and vision: from connected assets to connected environments 
+DB117 - Unlock cost savings and maximize value with Azure Infrastructure
+DB117-R1 - Unlock cost savings and maximize value with Azure Infrastructure
+DB117-R2 - Unlock cost savings and maximize value with Azure Infrastructure
+DB118 - E2E machine learning for enterprises in a secure way
+DB118-R1 - E2E machine learning for enterprises in a secure way
+DB118-R2 - E2E machine learning for enterprises in a secure way
+DB119 - New innovations on Azure Database for MySQL and Azure Database for PostgreSQL to turbo charge application development
+DB119-R1 - New innovations on Azure Database for MySQL and Azure Database for PostgreSQL to turbo charge application development
+DB119-R2 - New innovations on Azure Database for MySQL and Azure Database for PostgreSQL to turbo charge application development
+DB120 - Fast-Track development of production-ready ML models with Azure Machine Learning
+DB120-R1 - Fast-Track development of production-ready ML models with Azure Machine Learning
+DB120-R2 - Fast-Track development of production-ready ML models with Azure Machine Learning
+DB121 - Innovate with Azure Communication Services
+DB121-R1 - Innovate with Azure Communication Services
+DB121-R2 - Innovate with Azure Communication Services
+DB122 - Transform your Windows Server workloads on Azure??
+DB122-R1 - Transform your Windows Server workloads on Azure??
+DB122-R2 - Transform your Windows Server workloads on Azure??
+DB123 - The Future of .NET is .NET 5
+DB123-R1 - The Future of .NET is .NET 5
+DB123-R2 - The Future of .NET is .NET 5
+DB124 - Protect revenue and drive performance with D365 Finance & Fraud protection
+DB124-R1 - Protect revenue and drive performance with D365 Finance & Fraud protection
+DB124-R2 - Protect revenue and drive performance with D365 Finance & Fraud protection
+DB125 - Automate your desktop with Power Automate
+DB125-R1 - Automate your desktop with Power Automate
+DB125-R2 - Automate your desktop with Power Automate
+DB126 - Microsoft Cloud for Healthcare: Empowering health organizations to deliver better experiences -  better insights -  and better care
+DB126-R1 - Microsoft Cloud for Healthcare: Empowering health organizations to deliver better experiences -  better insights -  and better care
+DB126-R2 - Microsoft Cloud for Healthcare: Empowering health organizations to deliver better experiences -  better insights -  and better care
+DB127 - Future of Customer Care: What's new and what's next for Dynamics 365 Customer and Field Service
+DB127-R1 - Future of Customer Care: What's new and what's next for Dynamics 365 Customer and Field Service
+DB127-R2 - Future of Customer Care: What's new and what's next for Dynamics 365 Customer and Field Service
+DB128 - Leverage Microsoft Project and the Project Accelerator to take your projects to the next level 
+DB128-R1 - Leverage Microsoft Project and the Project Accelerator to take your projects to the next level 
+DB128-R2 - Leverage Microsoft Project and the Project Accelerator to take your projects to the next level 
+DB129 - How to responsibly scale Power Apps in your organization with a Low Code Center of Excellence
+DB129-R1 - How to responsibly scale Power Apps in your organization with a Low Code Center of Excellence
+DB129-R2 - How to responsibly scale Power Apps in your organization with a Low Code Center of Excellence
+DB130 - Build Agile Business Processes with Power Apps
+DB130-R1 - Build Agile Business Processes with Power Apps
+DB130-R2 - Build Agile Business Processes with Power Apps
+DB131 - Building systems of insights for enterprise scale with Power BI and Azure
+DB131-R1 - Building systems of insights for enterprise scale with Power BI and Azure
+DB131-R2 - Building systems of insights for enterprise scale with Power BI and Azure
+DB132 - Amplify your pro developer skills with Power Platform
+DB132-R1 - Amplify your pro developer skills with Power Platform
+DB132-R2 - Amplify your pro developer skills with Power Platform
+DB133 - How to activate Digital Selling: from raw data to insights
+DB133-R1 - How to activate Digital Selling: from raw data to insights
+DB133-R2 - How to activate Digital Selling: from raw data to insights
+DB134 - Deliver insights where decisions are made with Power BI
+DB134-R1 - Deliver insights where decisions are made with Power BI
+DB134-R2 - Deliver insights where decisions are made with Power BI
+DB135 - Microsoft Dynamics 365 Supply Chain Management for Distribution and Manufacturing 
+DB135-R1 - Microsoft Dynamics 365 Supply Chain Management for Distribution and Manufacturing 
+DB135-R2 - Microsoft Dynamics 365 Supply Chain Management for Distribution and Manufacturing 
+DB136 - Embrace a New Way of Work with Microsoft 365
+DB136-R1 - Embrace a New Way of Work with Microsoft 365
+DB136-R2 - Embrace a New Way of Work with Microsoft 365
+DB137 - Driving Innovation for Modern Work with Surface Hub and Duo
+DB137-R1 - Driving Innovation for Modern Work with Surface Hub and Duo
+DB137-R2 - Driving Innovation for Modern Work with Surface Hub and Duo
+DB138 - Scale and Customize Virtual Meetings and Events with Microsoft Teams ??? 
+DB138-R1 - Scale and Customize Virtual Meetings and Events with Microsoft Teams ??? 
+DB138-R2 - Scale and Customize Virtual Meetings and Events with Microsoft Teams ??? 
+DB139 - Windows 10 innovations for enhanced productivity and resiliency
+DB139-R1 - Windows 10 innovations for enhanced productivity and resiliency
+DB139-R2 - Windows 10 innovations for enhanced productivity and resiliency
+DB140 - What's new in Microsoft Teams security and compliance
+DB140-R1 - What's new in Microsoft Teams security and compliance
+DB140-R2 - What's new in Microsoft Teams security and compliance
+DB141 - Simplify work with low-code solutions for Microsoft Teams & Microsoft 365
+DB141-R1 - Simplify work with low-code solutions for Microsoft Teams & Microsoft 365
+DB141-R2 - Simplify work with low-code solutions for Microsoft Teams & Microsoft 365
+DB142 -  Microsoft 365: The foundation of secure remote work for small & medium customers
+DB142-R1 - Microsoft 365: The foundation of secure remote work for small & medium customers
+DB142-R2 - Microsoft 365: The foundation of secure remote work for small & medium customers
+DB143 - Building a resilient organization on Microsoft 365
+DB143-R1 - Building a resilient organization on Microsoft 365
+DB143-R2 - Building a resilient organization on Microsoft 365
+DB144 - One place for admins to manage Microsoft Teams:  What's new in Teams manageability
+DB144-R1 - One place for admins to manage Microsoft Teams:  What's new in Teams manageability
+DB144-R2 - One place for admins to manage Microsoft Teams:  What's new in Teams manageability
+DB145 - Playing chess on a trampoline:???How to innovate???in an era of uncertainty  
+DB145-R1 - Playing chess on a trampoline:???How to innovate???in an era of uncertainty  
+DB145-R2 - Playing chess on a trampoline:???How to innovate???in an era of uncertainty  
+DB146 - Reimagining work with the Microsoft 365 platform
+DB146-R1 - Reimagining work with the Microsoft 365 platform
+DB146-R2 - Reimagining work with the Microsoft 365 platform
+DB147 - Power modern meeting experiences across the hybrid workplace using Microsoft Teams devices
+DB147-R1 - Power modern meeting experiences across the hybrid workplace using Microsoft Teams devices
+DB147-R2 - Power modern meeting experiences across the hybrid workplace using Microsoft Teams devices
+DB148 - Bring harmony to work and life with productivity and wellbeing insights in Microsoft Teams
+DB148-R1 - Bring harmony to work and life with productivity and wellbeing insights in Microsoft Teams
+DB148-R2 - Bring harmony to work and life with productivity and wellbeing insights in Microsoft Teams
+DB149 - Microsoft Teams Calling Made Simple??? 
+DB149-R1 - Microsoft Teams Calling Made Simple??? 
+DB149-R2 - Microsoft Teams Calling Made Simple??? 
+DB150 - Employee Engagement and Communities in Microsoft 365
+DB150-R1 - Employee Engagement and Communities in Microsoft 365
+DB150-R2 - Employee Engagement and Communities in Microsoft 365
+DB151 - Meet smarter -  stay focused -  and achieve more with Microsoft Teams meetings  
+DB151-R1 - Meet smarter -  stay focused -  and achieve more with Microsoft Teams meetings  
+DB151-R2 - Meet smarter -  stay focused -  and achieve more with Microsoft Teams meetings  
+DB152 - Digitally Transform an Essential Part of your Organization -  the Firstline Workforce 
+DB152-R1 - Digitally Transform an Essential Part of your Organization -  the Firstline Workforce 
+DB152-R2 - Digitally Transform an Essential Part of your Organization -  the Firstline Workforce 
+DB153 - The Outlook vision: IT and user value in a hybrid workspace
+DB153-R1 - The Outlook vision: IT and user value in a hybrid workspace
+DB153-R2 - The Outlook vision: IT and user value in a hybrid workspace
+DB154 - Project Cortex: Knowledge discovery and content intelligence in Microsoft 365
+DB154-R1 - Project Cortex: Knowledge discovery and content intelligence in Microsoft 365
+DB154-R2 - Project Cortex: Knowledge discovery and content intelligence in Microsoft 365
+DB155 - Introducing modern admin capabilities to better service Microsoft 365 Apps for enterprise
+DB155-R1 - Introducing modern admin capabilities to better service Microsoft 365 Apps for enterprise
+DB155-R2 - Introducing modern admin capabilities to better service Microsoft 365 Apps for enterprise
+DB156 - Creating a resilient -  inclusive -  and hybrid workplace with Microsoft Teams
+DB156-R1 - Creating a resilient -  inclusive -  and hybrid workplace with Microsoft Teams
+DB156-R2 - Creating a resilient -  inclusive -  and hybrid workplace with Microsoft Teams
+DB157 - Transforming the modern workplace with Microsoft Teams platform
+DB157-R1 - Transforming the modern workplace with Microsoft Teams platform
+DB157-R2 - Transforming the modern workplace with Microsoft Teams platform
+DB158 - Enabling collaboration -  communication -  and knowledge sharing with Microsoft Teams -  SharePoint -  Project Cortex -  and more
+DB158-R1 - Enabling collaboration -  communication -  and knowledge sharing with Microsoft Teams -  SharePoint -  Project Cortex -  and more
+DB158-R2 - Enabling collaboration -  communication -  and knowledge sharing with Microsoft Teams -  SharePoint -  Project Cortex -  and more
+DB159 - Be a risk management hero with intelligent data protection and compliance solutions 
+DB159-R1 - Be a risk management hero with intelligent data protection and compliance solutions 
+DB159-R2 - Be a risk management hero with intelligent data protection and compliance solutions 
+DB160 - Safeguard your multi-cloud apps and resources with the latest Cloud Security innovations
+DB160-R1 - Safeguard your multi-cloud apps and resources with the latest Cloud Security innovations
+DB160-R2 - Safeguard your multi-cloud apps and resources with the latest Cloud Security innovations
+DB161 - Improve SecOps with Azure Sentinel -  your Cloud-Native SIEM
+DB161-R1 - Improve SecOps with Azure Sentinel -  your Cloud-Native SIEM
+DB161-R2 - Improve SecOps with Azure Sentinel -  your Cloud-Native SIEM
+DB162 - Don???t lose sleep over insider risks! Use the power of ML to identify and reduce your risk today
+DB162-R1 - Don???t lose sleep over insider risks! Use the power of ML to identify and reduce your risk today
+DB162-R2 - Don???t lose sleep over insider risks! Use the power of ML to identify and reduce your risk today
+DB163 - Supercharge information protection and governance across cloud -  on-premise -  endpoints??and remote work environments
+DB163-R1 - Supercharge information protection and governance across cloud -  on-premise -  endpoints??and remote work environments
+DB163-R2 - Supercharge information protection and governance across cloud -  on-premise -  endpoints??and remote work environments
+DB164 - Microsoft 365 Defender: Stop attacks and reduce security operations workload by 50% with automated cross-domain security
+DB164-R1 - Microsoft 365 Defender: Stop attacks and reduce security operations workload by 50% with automated cross-domain security
+DB164-R2 - Microsoft 365 Defender: Stop attacks and reduce security operations workload by 50% with automated cross-domain security
+DB165 - Save money by securing access to all your apps with Azure Ac???tive Directory
+DB165-R1 - Save money by securing access to all your apps with Azure Ac???tive Directory
+DB165-R2 - Save money by securing access to all your apps with Azure Ac???tive Directory
+DB166 - Modernizing your Security Operations
+DB166-R1 - Modernizing your Security Operations
+DB166-R2 - Modernizing your Security Operations
+DB167 - Winning Azure Active Directory strategies for identity security and governance
+DB167-R1 - Winning Azure Active Directory strategies for identity security and governance
+DB167-R2 - Winning Azure Active Directory strategies for identity security and governance
+DB168 - Azure Active Directory: our vision and roadmap to help you secure remote access and boost employee productivity
+DB168-R1 - Azure Active Directory: our vision and roadmap to help you secure remote access and boost employee productivity
+DB168-R2 - Azure Active Directory: our vision and roadmap to help you secure remote access and boost employee productivity
+DB169 - Zero Trust - the road ahead
+DB169-R1 - Zero Trust - the road ahead
+DB169-R2 - Zero Trust - the road ahead
+DB170 - Stop managing compliance with spreadsheets! Simplify and extend compliance beyond Microsoft 365
+DB170-R1 - Stop managing compliance with spreadsheets! Simplify and extend compliance beyond Microsoft 365
+DB170-R2 - Stop managing compliance with spreadsheets! Simplify and extend compliance beyond Microsoft 365
+DB171 - AI at Scale: Behind the Scenes
+DB171-R1 - AI at Scale: Behind the Scenes
+DB171-R2 - AI at Scale: Behind the Scenes
+DB172 - Simplify software procurement and management with Azure Marketplace
+DB172-R1 - Simplify software procurement and management with Azure Marketplace
+DB172-R2 - Simplify software procurement and management with Azure Marketplace
+DB400 - Solving your remote workforce requirements in Azure: How to deploy a highly scalable -  resilient WVD environment with ease
+DB401 - Customer Panel: Applying confidential computing with Intel SGX in regulated industries
+DB402 - What???s new in the world of Hybrid Cloud? Find out with Nutanix and Azure
+DB403 - Architecting the Modern Workplace
+IGL101 - Introducing Microsoft Edge on Linux
+IGL102 - Open Data Campaign 
+IGL103 - A beginner's guide to Python
+IGL104 - A chat about chat bots
+IGL105 - Accelerate your IT Career
+IGL106 - A look into Azure Communication Services for Voice and Video Calling -  SMS -  and Chat
+IGL107 - An introduction to Azure VMWare Solution
+IGL108 - Anywhere management & infrastructure with Azure Arc and Azure Stack
+IGL109 - Azure Active Directory Updates: What's New -  What's Changed
+IGL110 - Microsoft Defender for Identity Mythbusting
+IGL111 - Azure AI and IoT to support smart office reopening with RXR Realty 
+IGL112 - Build Power Apps within Microsoft Teams and get to the next level with Azure APIs and the Power Platform
+IGL113 - Cloud Governance Conversations
+IGL114 - Cloud Migration and how Azure Migrate can assist
+IGL115 - Community empowering Women in STEM 
+IGL116 - Compliance Solutions helping Real Customers
+IGL117 - Creating web apps with Azure Static Web Apps
+IGL118 - Customer Experience Reimagined with AI 
+IGL119 - Customer Tech Talks ??? Microsoft Customers DB Schenker and ifolor share their technical learnings and experiences. 
+IGL120 - Customer Tech Talks ??? Microsoft Customers Broadcast Music -  Inc. and American Speech-Language-Hearing Association share their technical learnings.
+IGL121 - Customer Tech Talks ??? Microsoft Customers City and County of Denver and Seattle Visiting Nurse Association share their technical learnings.
+IGL122 - Customer Tech Talks ??? Microsoft Customer Furniture Mart USA shares their technical learnings and experiences
+IGL123 - Future of Work: AI-Driven Self-Help Resolutions Using Microsoft Teams 
+IGL124 - Future proofing for diversity in Tech
+IGL125 - Gathering data from the world
+IGL126 - Get started with quantum computing today using Q# on Azure Quantum 
+IGL127 - Azure in Space: Innovation at the final frontier
+IGL128 - Hybrid Hyper-Converged integration
+IGL129 - Implementing Solgari automated phone survey solution with Dynamics 365 Customer Voice
+IGL130 - Implementing the Zero Trust Maturity Model at Microsoft
+IGL131 - Integrating feedback from product reviews from e-commerce platforms for Dynamics 365 Customer Voice
+IGL132 - Interview with Luise Freese 
+IGL133 - Interview with Matt Wade - How to deliver meetings like a rockstar in Microsoft Teams
+IGL134 - Interview with MVP John Moore - Created PPE with his 3D Printer at Home 
+IGL135 - Interview with the PowerAddicts Community 
+IGL136 - Learn about the latest innovations in Azure Stack HCI 
+IGL137 - The future of Data Systems
+IGL138 - Key Segment Preview: Ride the Developer Cloud with Visual Studio +.NET -  GitHub and Azure
+IGL140 - Mark Russinovich on Azure innovation and more!
+IGL141 - Meet the youngest MVP ever! Ash Culmsee 
+IGL142 - Microsoft 365 administrator updates to enable secure and compliant work from anywhere
+IGL143 - Microsoft 365 Improvements for IT Pros
+IGL144 - Microsoft Australia update
+IGL145 - Microsoft Defender | Bringing Microsoft 365 -  Azure and all of your security signal together into a single integrated XDR view
+IGL146 - Microsoft Endpoint Manager updates to enable work from anywhere
+IGL147 - Microsoft Teams | Core user controls and updates to meetings
+IGL148 - Microsoft Teams Live Q&A with Jeff Teper
+IGL149 - Migrating an ASP.NET web application to Azure App Service
+IGL150 - Modern Work Customer Resilience Case Studies
+IGL151 - NASA and Data Science
+IGL152 - What's new in Azure Sentinel
+IGL153 - Proactive Cyber Intelligence That Keeps Hospitals Running Smoothly
+IGL155 - Rap with Rohan
+IGL156 - Real World Azure Architecture
+IGL157 - Reimagining medical training with Dynamics 365 and Guides in the COVID era
+IGL158 - Reinventing the electricity grid
+IGL159 - Responsible AI Panel
+IGL160 - Running a large database for the cost of a coffee
+IGL161 - Security and Risk ??? Lessons learned over the past 6 months
+IGL162 - Spotlight on Indigenous Communities
+IGL163 - Storage Migration Service and SMB Goodness
+IGL164 - Taking identity and privacy to a new level | Verifiable Credentials with decentralized identity using blockchain
+IGL166 - Team Culture with Microsoft Teams
+IGL167 - Evolution of Office
+IGL168 - The joy -  challenges and opportunities of building Power Apps in the real-world
+IGL169 - The ultimate Microsoft 365 Demo Showcase
+IGL171 - Transforming Autonomous Driving through Reinforcement Learning and Azure 
+IGL172 - Use Secure Score to make the grade on your Security report card
+IGL173 - Using Dynamics 365 Customer Voice to support employees returning to work safely during COVID-19 
+IGL174 - Visualize and manage your cloud costs in Azure Cost Management + Billing
+IGL175 - What is Microsoft Learn and how can I leverage it beyond Microsoft Ignite?
+IGL176 - What is the Microsoft Intelligent Security Association (MISA)?
+IGL177 - Why the Most Promising Startups are Choosing Azure
+IGL178 - Windows Server Hybrid and IaaS Improvements
+IGL179 - Threat Protection by Microsoft 
+IGL180 - Windows Virtual Desktop updates 
+IGL181 - Chat with Mary-Jo Foley and Paul Thurrott
+IGL182 - Effective Allyship and Inclusive Innovation
+IGL183 - Why LiveTiles are all-in on Developing solutions with Microsoft 365
+IGL197 - What is Customer Advocacy in the Modern Workplace?
+KEY01 - Building Digital Resilience
+KEY01-R1 - Building Digital Resilience (Replay)
+KEY01-R2 - Building Digital Resilience (Replay)
+KEY02 - Invent with Purpose on Azure with Julia White and Friends
+KEY02-R1 - Invent with Purpose on Azure with Julia White and Friends (Replay)
+KEY02-R2 - Invent with Purpose on Azure with Julia White and Friends (Replay)
+KEY03 - Microsoft Power Platform: Fill the App Gap and Supercharge Organizational Agility
+KEY03-R1 - Microsoft Power Platform: Fill the App Gap and Supercharge Organizational Agility (Replay)
+KEY03-R2 - Microsoft Power Platform: Fill the App Gap and Supercharge Organizational Agility (Replay)
+KEY04 - The Future of Work
+KEY04-R1 - The Future of Work (Replay)
+KEY04-R2 - The Future of Work (Replay)
+KEY05 - Microsoft Dynamics 365: Reimagine How You Can Meet The Needs of Tomorrow 
+KEY05-R1 - Microsoft Dynamics 365: Reimagine How You Can Meet The Needs of Tomorrow (Replay)
+KEY05-R2 - Microsoft Dynamics 365: Reimagine How You Can Meet The Needs of Tomorrow (Replay)
+KEY06 - Achieve resilience with Security -  Compliance -  and Identity
+KEY06-R1 - Achieve resilience with Security -  Compliance -  and Identity (Replay)
+KEY06-R2 - Achieve resilience with Security -  Compliance -  and Identity (Replay)
+KEY07 - Are we there yet? App Development in Azure with Scott Hanselman and Friends
+KEY07-R1 - Are we there yet? App Development in Azure with Scott Hanselman and Friends (Replay)
+KEY07-R2 - Are we there yet? App Development in Azure with Scott Hanselman and Friends (Replay)
+KEY08 - Envisioning the Future: How Microsoft Approaches Innovation
+KEY08-R1 - Envisioning the Future: How Microsoft Approaches Innovation (Replay)
+KEY08-R2 - Envisioning the Future: How Microsoft Approaches Innovation (Replay)
+KEY09 - Panos and Brad Unplugged???A Conversation About New Hybrid Workstyles with Windows and Microsoft 365
+KEY09-R1 - Panos and Brad Unplugged???A Conversation About New Hybrid Workstyles with Windows and Microsoft 365 (Replay)
+KEY09-R2 - Panos and Brad Unplugged???A Conversation About New Hybrid Workstyles with Windows and Microsoft 365 (Replay)
+KEY10 - Microsoft Azure ???Unplugged??? with Jason and Billy
+KEY10-R1 - Microsoft Azure ???Unplugged??? with Jason and Billy  (Replay)
+KEY10-R2 - Microsoft Azure ???Unplugged??? with Jason and Billy  (Replay)
+LRN100 - Intro to Azure
+LRN101 - Intro to Azure
+LRN102 - Intro to Azure
+LRN103 - Intro to Azure AI
+LRN104 - Intro to Azure AI
+LRN105 - Intro to Azure AI
+LRN106 - Intro to Azure Data
+LRN107 - Intro to Azure Data
+LRN108 - Intro to Azure Data
+LRN109 - Intro to Microsoft 365
+LRN110 - Intro to Microsoft 365
+LRN111 - Intro to Microsoft 365
+LRN112 - Intro to Power Platform
+LRN113 - Intro to Power Platform
+LRN114 - Intro to Power Platform
+LRN115 - Intro to Dynamics 365
+LRN116 - Intro to Dynamics 365
+LRN117 - Intro to Dynamics 365
+LRN118 - IT Operations in a Cloud World
+LRN119 - IT Operations in a Cloud World
+LRN120 - IT Operations in a Cloud World
+LRN121 - Intro to Security -  Compliance and Identity
+LRN122 - Intro to Security -  Compliance and Identity
+LRN123 - Intro to Security -  Compliance and Identity
+LRN124 - Intro to Microsoft Teams for IT
+LRN125 - Intro to Microsoft Teams for IT
+LRN126 - Intro to Microsoft Teams for IT
+LRN127 - Careers in Tech: Getting Started
+LRN128 - Careers in Tech: Getting Started
+LRN129 - Careers in Tech: Getting Started
+LRN130 - Careers in Tech: Aligning Skills
+LRN131 - Careers in Tech: Aligning Skills
+LRN132 - Careers in Tech: Aligning Skills
+LRN133 - Careers in Tech: Getting Ahead
+LRN134 - Careers in Tech: Getting Ahead
+LRN135 - Careers in Tech: Getting Ahead
+LRN136 - Visual Studio Code - Your editor everywhere
+LRN137 - Visual Studio Code - Your editor everywhere
+LRN138 - Visual Studio Code - Your editor everywhere
+LRN139 - The Cloud is More than Just that Thing in the Sky
+LRN140 - The Cloud is More than Just that Thing in the Sky
+LRN141 - The Cloud is More than Just that Thing in the Sky
+LRN142 - Python: A great first programming language
+LRN143 - Python: A great first programming language
+LRN144 - Python: A great first programming language
+LRN145 - Hello -  World! in 3 languages
+LRN146 - Hello -  World! in 3 languages
+LRN147 - Hello -  World! in 3 languages
+LRN148 - Becoming a Green Developer
+LRN150 - Becoming a Green Developer
+LRN151 - Create great apps without the CS degree using Power Apps!
+LRN152 - Create great apps without the CS degree using Power Apps!
+LRN153 - Create great apps without the CS degree using Power Apps!
+LRN154 - Get started on your HealthTech Journey
+LRN155 - Get started on your HealthTech Journey
+LRN156 - Get started on your HealthTech Journey
+LRN157 - Dynamic websites with Azure Static Web Apps
+LRN158 - Dynamic websites with Azure Static Web Apps
+LRN159 - Dynamic websites with Azure Static Web Apps
+LRN160 - The Interns DevOpsin??? it for Themselves ??? A Beginners Story
+LRN161 - The Interns DevOpsin??? it for Themselves ??? A Beginners Story
+LRN162 - The Interns DevOpsin??? it for Themselves ??? A Beginners Story
+LRN163 - Intro to GitHub
+LRN164 - Intro to GitHub
+LRN165 - Intro to GitHub
+LRN166 - Getting started with Machine Learning using Python
+LRN167 - Getting started with Machine Learning using Python
+LRN168 - Getting started with Machine Learning using Python
+LRN169 - The Data Behind Space Exploration with NASA
+LRN170 - The Data Behind Space Exploration with NASA
+LRN171 - The Data Behind Space Exploration with NASA
+LRN200 - Shape data in a Power Apps canvas app
+LRN201 - Microsoft 365 Defender: Stop attacks with automated cross-domain (XDR) security
+LRN202 - Migrating to Azure
+LRN203 - Deploy Microsoft Teams Meetings
+LRN204 - Analyze cost and create budgets with Azure Cost Management + Billing 
+LRN205 - Manage apps -  bots -  and connectors in Microsoft Teams
+LRN206 - Work with external data in a Power Apps canvas app
+LRN207 - How to manage insider risk with Microsoft Compliance
+LRN208 - Exploring core concepts in Azure Data
+LRN209 - Create a unified customer profile in Dynamics 365 Customer Insights
+LRN210 - Shape data in a Power Apps canvas app
+LRN211 - Microsoft 365 Defender: Stop attacks with automated cross-domain (XDR) security
+LRN212 - Migrating to Azure
+LRN213 - Deploy Microsoft Teams Meetings
+LRN214 - Analyze cost and create budgets with Azure Cost Management + Billing 
+LRN215 - Manage apps -  bots -  and connectors in Microsoft Teams
+LRN216 - Work with external data in a Power Apps canvas app
+LRN217 - How to manage insider risk with Microsoft Compliance
+LRN218 - Exploring core concepts in Azure Data
+LRN219 - Create a unified customer profile in Dynamics 365 Customer Insights
+LRN220 - Shape data in a Power Apps canvas app
+LRN221 - Microsoft 365 Defender: Stop attacks with automated cross-domain (XDR) security
+LRN222 - Migrating to Azure
+LRN223 - Deploy Microsoft Teams Meetings
+LRN224 - Analyze cost and create budgets with Azure Cost Management + Billing 
+LRN225 - Manage apps -  bots -  and connectors in Microsoft Teams
+LRN226 - Work with external data in a Power Apps canvas app
+LRN227 - How to manage insider risk with Microsoft Compliance
+LRN228 - Exploring core concepts in Azure Data
+OD200 - Introducing Dynamics 365 Customer Voice: Deeper insights. Better experiences. Stronger relationships
+OD201 - What's new with the Azure Stack Portfolio
+OD202 - Best Practices of Running Cloud Native Applications on Azure
+OD203 - What???s New in Azure Compute 
+OD204 - New to Cognitive Services: Spatial Analysis and Metrics Advisor
+OD205 - Building modern apps with Azure Cosmos DB serverless and Azure Cache for Redis enterprise
+OD206 - Enable successful cloud adoption with Azure landing zones
+OD207 - What???s New in Azure Storage 
+OD208 - Find -  try -  and buy solutions with ease in Azure Marketplace
+OD209 - Protecting remote work and digital experiences using cloud native network security
+OD210 - Managing your ML lifecycle with Azure Databricks and Azure Machine Learning
+OD211 - Event-driven Applications with Azure Functions & Logic Apps
+OD212 - Conversational AI powered Customer and Employee Virtual Assistants
+OD213 - How Delta Lake with Azure Databricks can accelerate your big data workloads by 100x
+OD214 - Resilient DevOps Practices with Code to Cloud automation
+OD215 - Five questions you should be asking your team about reliability??????
+OD216 - New Windows Server on Azure Innovations with demos
+OD217 - Real-time analytics and BI using Azure Synapse Link for Azure Cosmos DB
+OD218 - Azure IoT: Building end to end IoT solutions secured from edge to cloud
+OD219 - Running mission critical workloads - like SAP - in Azure for business resilience
+OD220 - Running cost effective big data workloads with Azure Synapse and Azure Data Lake Storage
+OD221 - Inside Azure Datacenter Architecture with Mark Russinovich
+OD222 - Azure Hybrid Operations and Management Overview
+OD223 - Migrate your datacenter with Azure tools
+OD224 - Azure SQL: What to use when and updates from the Product Group
+OD225 - Code -  collaborate -  and ship from anywhere: Meet the Microsoft Developer Cloud
+OD226 - What???s New in Azure Networking
+OD227 - Learn the latest innovation in Azure Stack HCI and get started with AKS on Azure Stack HCI
+OD228 - Accelerate your cloud journey with Azure VMware Solution
+OD229 - AI customer use cases and learnings
+OD230 - Azure Monitoring and Analytics deep dive
+OD231 - Govern resources across your IT slate
+OD232 - Microsoft Dynamics 365: Commerce & connected store 
+OD233 - Build intelligent bots for your employees using Power Virtual Agents and Teams
+OD234 - Connecting Power Apps -  Automate -  Virtual Agent -  and BI with the Common Data Service
+OD235 - Enterprise-grade ETL and data preparation using dataflows
+OD236 - What's new in Microsoft Dynamics 365 Project Operations
+OD237 - Building Bots with Power Virtual Agents and extending them with Microsoft Bot Framework
+OD238 - Automate business process with Microsoft Teams with Power Automate
+OD239 - Empowering your organization with Microsoft Dynamics 365 Customer Service
+OD240 - End-to-end intelligent automation with Power Platform
+OD241 - Build custom apps to drive productivity in the remote work world with PowerApps and Teams
+OD242 - Discover what's new in Microsoft Dynamics 365 Supply Chain Management
+OD243 - Discover what's new in Microsoft Dynamics 365 Commerce 
+OD244 - Microsoft Dynamics 365 Field Service Scheduling Maturity and Roadmap
+OD245 - Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs
+OD246 - Advancing Power BI Premium for the enterprise analytics market and beyond
+OD247 - Microsoft Dynamics 365 Finance: Asset Leasing 
+OD248 - Enhance your BI solutions with AI
+OD249 - Visio ??? now and beyond
+OD250 - Build richer meetings experiences with Microsoft Teams apps using new meetings extensibility points 
+OD251 - On Skype for Business? Design your path to Microsoft Teams
+OD252 - Microsoft Edge ??? State of the browser in 2020
+OD253 - Introducing Microsoft Graph services
+OD254 - Roadmap to developing enterprise apps on Windows
+OD255 - Microsoft Teams Mobile App: What's new & What's Next
+OD256 - New Microsoft 365 Lighthouse for IT Partners serving small and medium-sized customers
+OD257 - Transform your organization with Microsoft Productivity Score
+OD258 - Enable Business Continuity for your Firstline Workforce with Microsoft Teams
+OD259 - What???s new in Microsoft Endpoint Manager. Part 1
+OD260 - Microsoft 365: Enabling virtual collaboration for the future of our hybrid work environment
+OD261 - Microsoft Teams devices for shared spaces 
+OD262 - SIDETRACKED: Microsoft 365 admins and IT Pros at Ignite
+OD263 - Exchange ??? Here -  There and Everywhere
+OD264 - New admin capabilities to modernize servicing of the Office client
+OD265 - Advanced calling capabilities
+OD266 - Surface as the Modern Endpoint: Realize the Best of Microsoft 365 - https://myignite.microsoft.com/sessions/0ee9be0e-ffea-4023-98f2-d3ba39773994 
+OD267 - Best practices for delivering more efficient and impactful meetings with Microsoft Teams
+OD268 - Managing Security and Compliance in Microsoft Teams
+OD269 - Essentials for managing Microsoft Teams; Advanced manageability controls 
+OD270 - Virtual health and collaboration with Microsoft Teams in healthcare
+OD271 - The New Microsoft Stream: Vision -  Strategy -  & Roadmap
+OD272 - Build experiences that customers and partners will love with Azure Active Directory External Identities
+OD273 - Know your data -  protect your data and prevent data loss with Microsoft Information Protection
+OD274 - Simplify authentication and authorization with the Microsoft identity platform
+OD275 - Detect Unknown Threats with User and Entity Behavioral Analytics in Azure Sentinel
+OD276 - Ninja skills: manage your Conditional Access policies at scale
+OD277 - Manage a broad range of code of conduct and regulatory compliance risks with Communication Compliance
+OD278 - Differentiated protection for Priority accounts in Microsoft Defender for Office 365: Focusing on your most visible and targeted users
+OD279 - Quickly investigate and respond with relevant data in Microsoft 365
+OD280 - Detect -  prioritize and remediate risk with Attack simulation training and Microsoft Secure Score
+OD281 - Zero Trust for all your users and employees -  partners -  vendors and customers
+OD282 - What's new in Azure Security Center 
+OD283 - Simplify compliance and reduce risk with Compliance Manager
+OD284 - Best practices for hunting across domains with Microsoft 365 Defender
+OD285 - Govern access for employees and partners with Azure Active Directory Identity Governance
+OD286 - What's new and what's coming in Microsoft Cloud App Security with the hyper focus on remote work
+OD287 - Adapt -  Extend and Integrate your Compliance solutions with third-party data and systems
+OD288 - Assume Breach! Zero Trust attack response! 
+OD290 - Be the first to know: What's new in Microsoft Information Governance & Records Management
+OD291 - Azure Active Directory best practices for managing your remote workforce
+OD292 - Bridge the gap between HR -  IT and business with Azure Active Directory
+OD293 - Integrating on-prem resources in your Zero Trust journey 
+OD294 - The science behind Azure Active Directory Identity Protection
+OD295 - An in-depth look at intelligently managing insider risks with Insider Risk Management
+OD296 - Azure Defender for IoT including CyberX 
+OD297 - Search where you're already working with Microsoft Search:  Vision -  Strategy -  Roadmap
+OD298 - Introducing Azure Defender
+OD300 - Bringing Next-Generation AI Innovation to the Enterprise
+OD301 - Resolve Employee Support Requests in Seconds with Aisera & Microsoft Teams
+OD302 - Modern Infrastructure as Code for Azure
+OD303 - Turning Transactions into People ??? The Science of Customer Engagement 
+OD304 - Smart Data Pipelines to Azure: Ingesting and migrating data the DataOps way
+OD305 - Veeam & Microsoft: Data protection across datacenters -  edges -  and the cloud
+OD306 - Host Java EE on Azure Red Hat OpenShift with Red Hat JBoss Enterprise Application Platform
+OD307 - Optimizing Spaces with Room Scheduling ??? Planning and Support for Microsoft 365 and Azure IoT
+OD308 - The State of Microsoft Dynamics 365 Customer Engagement
+OD309 - Work from Anywhere - Learn how technology is addressing the post-COVID workplace at home -  work and school
+OD310 - Building Smarter Workspaces, Using Teams and Azure to deliver workplace automation and intelligence
+OD311 - Remote Patient Monitoring: Sharing a blueprint to enhance patient care and safety
+OD312 - Learn how insanely easy Vision AI can enable real time insights for Manufacturing
+OD313 - See how intelligent greetings -  AR -  and real-time technology provide retail solutions for today???s challenges
+OD314 - Supercharging communications and employee engagement with Microsoft 365.
+OD315 - What's new & coming to OneDrive
+OD316 - Support Remote Working and Deliver Digital First Business with vSphere Powered Azure VMware Solution Infrastructure
+OD317 - Ransomware happens: Why Office 365 and endpoints need backup
+OD318 - Three steps to create hybrid cloud with Azure
+OD319 - Top 4 Active Directory Security Issues from 2 Years of Security Assessments
+OD320 - Closing the Skills Gap with Microsoft Learn and Microsoft Certification 
+OD321 - Find out why Check Point is Microsoft's #1 security partner
+OD322 - The Easy Way to Leverage Spot VMs for Autoscaling Applications in Azure using Elastigroup
+OD323 - How VMware Horizon Cloud on Microsoft Azure helps customers quickly scale Windows Virtual Desktop
+OD324 - Policy-Driven Data Management for Azure with Rubrik
+OD325 - How to implement full lifecycle security for Azure Kubernetes Service (AKS)
+OD326 - Developing for Customer Engagement with Adobe Experience Platform 
+OD327 - Activating Digital Selling with Insights from Dynamics 365 Sales
