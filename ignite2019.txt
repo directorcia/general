@@ -39,6 +39,7 @@ STR30 - SharePoint updates for teamwork: Sites, pages, lists, and libraries - ht
 THR1030	- Office 365: How to get and stay up to date - https://www.youtube.com/watch?v=lDt2DilFgWE
 THR1080 - Overview of private channels in Mirosoft Teams - https://www.youtube.com/watch?v=6MKdCt97dCw
 THR1104	- Keep it reel with Microsoft's phishing team - https://www.youtube.com/watch?v=YjD4nsoT4ic
+THR1137 - Microsoft 365 experiences+ devices - https://www.youtube.com/watch?v=tKlYqM5Neic
 THR2032 - Windows Virtual Desktop: Bringing the Windows experience to the platforms and devices preferred by your users - https://www.youtube.com/watch?v=BLJhEidcIBM
 THR2033	- What is Microsoft Managed Desktop? - https://www.youtube.com/watch?v=peI54WSDw5U
 THR2046	- Microsoft Defender Advanced Threat Protection in 20 minutes - https://www.youtube.com/watch?v=8KJsii-EW6w

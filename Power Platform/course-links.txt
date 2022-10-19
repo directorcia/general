@@ -1,0 +1,2 @@
+Licensing overview for Microsoft Power Platform - https://learn.microsoft.com/en-us/power-platform/admin/pricing-billing-skus
+
