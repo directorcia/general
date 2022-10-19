@@ -1,59 +1,127 @@
 ## Session list from Ignite 2019
 
+ADM10 -Onboarding and setup: Getting the most out of Microsoft 365 - https://www.youtube.com/watch?v=0SEWb_MU_9s
+
 ADP20 - Unlocking success in digital transformations: Getting employees to (really) adopt new technology - https://www.youtube.com/watch?v=KYKCmSvUheQ
 
+AFUN95 - Figuring out Azure Functions - https://www.youtube.com/watch?v=hL4Bz7vYrkY
+
+AIML20 - Using pre-built AI to solve business challenges - https://www.youtube.com/watch?v=VqGEGupNvkY
+
 BRK011 - Microsoft Security for your entire environment - https://www.youtube.com/watch?v=3ofATIsrok4
+BRK1009	- Machine learning simplified: From ideation to deployment with Azure Machine Learning - https://www.youtube.com/watch?v=VyYbtaBAa1U
+BRK1010	- Get more done with Microsoft Planner - https://www.youtube.com/watch?v=5t0sR-ao3so
 BRK1018	- Embrace digital transformation with Office 365: See how customers use O365 features to work more effectively together and learn about the latest with AI and collaboration in Word, Excel and PowerPoint - https://www.youtube.com/watch?v=_2HhPsuaR-M
 BRK1040	- Real customers, real challenges, and the real power of Microsoft Threat Protection - https://www.youtube.com/watch?v=i0KDemzl7Ms
 BRK1041	- Built in and cloud powered - elevate your endpoint security with Microsoft Defender ATP - https://www.youtube.com/watch?v=QBhEU6zT4yA
 BRK1047	- EXAM PREP: AZ-900 | Microsoft Azure Fundamentals - https://www.youtube.com/watch?v=kl0any3WFb0
 BRK1048	- EXAM PREP: MS-900 | Microsoft 365 Fundamentals - https://www.youtube.com/watch?v=3MXiGfg9yMQ
 BRK1056	- Breaking the mold: The tech career journey guide - https://www.youtube.com/watch?v=fFhZ_5oEa2E
-BRK1107	- Closing the Skills Gap ??? A Panel Discussion - https://www.youtube.com/watch?v=RzUN5XATnpY
+BRK1107	- Closing the Skills Gap: A Panel Discussion - https://www.youtube.com/watch?v=RzUN5XATnpY
 BRK2053 - The latest innovations in SharePoint, OneDrive, and Office for content collaboration in Microsoft 365 - https://www.youtube.com/watch?v=tbxn9GUnDfg
+BRK2061	- Configuring office.com to work for your organization - https://www.youtube.com/watch?v=aR4y-InRqFs
+BRK2080	- Simplify sign in and authorization with the Microsoft identity platform https://www.youtube.com/watch?v=FVl9Xx0pGKc
+BRK2082	- Session Title: What's new in Microsoft Endpoint Manager, including Microsoft Intune and Configuration Manager (Part 1 of 2) - https://www.youtube.com/watch?v=1rpy-qqKUuY
 BRK2084 - Windows Virtual Desktop Overview - https://www.youtube.com/watch?v=4Jk8fwPYx4U
 BRK2104	- Your users are under attack! Strengthen your anti-phishing defense with these O365 ATP best practices - https://www.youtube.com/watch?v=e44i7vgfdew
 BRK2105	- Superlative protection, unparalleled intelligence: Learn why Office 365 ATP is the most trusted solution - https://www.youtube.com/watch?v=i999KbrBX7c
+BRK2107	- Security solutions from Microsoft, but not just for Microsoft services - https://www.youtube.com/watch?v=iPn4NPfMmew
+BRK2108	- Top CASB use cases to boost your cloud security strategy - https://www.youtube.com/watch?v=It3ljceowFQ
 BRK2110	- Bringing IT and security together: How Microsoft is reinventing threat and vulnerability management - https://www.youtube.com/watch?v=DwV1vikVhqg
+BRK2120	- Got Azure Information Protection? Navigating unified labeling, policy configuration, clients, and analytics - https://www.youtube.com/watch?v=YlCt9ngAjDI
+BRK2126	- Detect, investigate, and respond to identity-based threats in your environment with Azure ATP - https://www.youtube.com/watch?v=KDI7g-MNKgc
+BRK2127 - Finding needles in a haystack: How to use Azure ATP to identify and investigate compromised users and suspicious activities at hybrid organizations. - https://www.youtube.com/watch?v=IXUOK_T0-J0
 BRK2132	- How Microsoft uses Azure Active Directory Identity Protection and Conditional Access to protect its assets - https://www.youtube.com/watch?v=z-KqH2980c4
+BRK2145	- A real-world look at Windows Virtual Desktop, the best virtualization experience, delivered on Azure - https://www.youtube.com/watch?v=a_91rv7F7jE 
+BRK2208	- Introducing Azure Arc - https://www.youtube.com/watch?v=0l9bhd22DgE
+BRK2259	- Achieve greater business outcomes by modernizing the firstline employee experience with Microsoft 365 - https://www.youtube.com/watch?v=bonT4kTQSpQ
+BRK2271	- Identity in the cloud world: A comprehensive tour - https://www.youtube.com/watch?v=kUqkBpXsI3c
+BRK2272	- Microsoft cybersecurity reference architecture: A-Z explained with live demos - https://www.youtube.com/watch?v=jHr3OnDsfYg
 BRK3006	- Migration to SharePoint, OneDrive, and Microsoft Teams in Microsoft 365, free and easy - https://www.youtube.com/watch?v=7KomhU3viu0
+BRK3030	- AI powered web search with Bing Search APIs, and more - https://www.youtube.com/watch?v=9zIVIoX7IUo
+BRK3031	- How key industries are getting changed by computer vision on edge and on cloud - https://www.youtube.com/watch?v=7M5PpqG8BSI
+BRK3082	- Android device management with Microsoft Intune - https://www.youtube.com/watch?v=szQMosnYETc
 BRK3083	- Endpoint security management with Microsoft Defender ATP and Microsoft Endpoint Manager - https://www.youtube.com/watch?v=-lI1jWUeUr8
+BRK3084	- End user experiences on managed Microsoft 365 devices - https://www.youtube.com/watch?v=T7BhkHlmZz0
 BRK3095	- Understanding the importance of  collaboration in modern work and the role O365 plays to unlock your team's productivity - https://www.youtube.com/watch?v=gtaHVhScqp0
+BRK3106	- Eliminate your weakest link with passwordless authentication - https://www.youtube.com/watch?v=2cIwrfbLMb8
+BRK3110	- Winning strategies for identity security and governance - https://www.youtube.com/watch?v=8hUwNfsDiCg
+BRK3144	- The MVP guide to Office 365 security, Exchange Online edition - https://www.youtube.com/watch?v=J4Ou4eTSeU8
 BRK3149	- Managing a virtual workplace using Windows Virtual Desktop and Microsoft 365 - https://www.youtube.com/watch?v=FtWBBwah33Q
+BRK3154	- Integrating CASB into IAM for a comprehensive identity security strategy - https://www.youtube.com/watch?v=VYDrd-Eaisw
 BRK3156	- Security in overdrive: best practices for configuring Microsoft Defender ATP - https://www.youtube.com/watch?v=cQsSU_3w1bA
+BRK3220	- What's new in Microsoft Endpoint Manager, including Microsoft Intune and Configuration Manager (Part 2 of 2) - https://www.youtube.com/watch?v=FiuelCIDnqs
+BRK3236	- Get instant value from your SIEM: Best practices for Azure Sentinel - https://www.youtube.com/watch?v=M60g4HFNs4k
+BRK3253	- Protected, productive mobile browsing with Microsoft Edge mobile and Microsoft Intune - https://www.youtube.com/watch?v=uwtqjYDyh7Q
+BRK3262	- Microsoft OneDrive deployment and adoption deep-dive - https://www.youtube.com/watch?v=MPfUAN0pEh8
 BRK3264	- Transform collaboration and fight shadow IT with Office 365 groups - https://www.youtube.com/watch?v=Bhf_bKx3lAg
 BRK3266	- Make the predators your prey: Explore advanced threat hunting across identities, endpoints, and Office 365 with Microsoft Threat Protection - https://www.youtube.com/watch?v=sTcCHrSULPk
 BRK3269	- Detect the undetectable: Quickly identify compromised users and sophisticated campaigns with O365 ATP - https://www.youtube.com/watch?v=iZ5dy1lSbNU
+BRK3273	- Continuously assess and monitor your IT and data protection risks in Microsoft 365 - https://www.youtube.com/watch?v=L_GPFQDmmLc
+BRK3277	- EXAM PREP: AZ-500 | Microsoft Azure Security Technologies - https://www.youtube.com/watch?v=s_LARoPp9Tk
 BRK3286	- Connecting the dots with M365: Automate onboarding, protection, detection and response for endpoints - https://www.youtube.com/watch?v=ex890BreZ_U
+BRK3286R - Connecting the dots with M365: Automate onboarding, protection, detection and response for endpoints (REPEAT) - https://www.youtube.com/watch?v=8h_eT1HuId8
+BRK3291	- Securing, governing, and protecting your Office 365 investments - https://www.youtube.com/watch?v=EaUGiTAzA0I
+BRK3331	- Deep dive: Group Policy transformation to MDM with Microsoft Intune - https://www.youtube.com/watch?v=FgiNAOMIyYY
+BRK4003 - Understanding AI enabled search for your apps: Azure Search technical edition - https://www.youtube.com/watch?v=FkWeeFvX_2M
 BRK4004	- Architecting your intelligent intranet with SharePoint hubs, branding, and site designs - https://www.youtube.com/watch?v=7DsSebBxWS8
 BRK4016	- Real detection stories! See how Microsoft Threat Protection defeated actual attacks and adheres to the MITRE framework - https://www.youtube.com/watch?v=o28Ssb47Aj8
+BRK4013	- Top seven tips to become a Microsoft Graph guru -  https://www.youtube.com/watch?v=OHKWcfCnEYQ
 BRK4017	- The science behind Azure Active Directory Identity Protection - https://www.youtube.com/watch?v=-jFwMz1AaCE
 
-MLS1002 - Outpacing change and staying challenged - https://www.youtube.com/watch?v=l2pzy1qPcuY
+MSI20 - Integrating cloud technologies - https://www.youtube.com/watch?v=dJ_XJ4_iD3I
 
+MLS1002 - Outpacing change and staying challenged - https://www.youtube.com/watch?v=l2pzy1qPcuY
+MLS1035	- Microsoft Graph 101 for developers and IT professionals - https://www.youtube.com/watch?v=5PJftfb4r9w
+
+SECI10 - Identity and access management best practices from around the world - https://www.youtube.com/watch?v=DGueUMwjzws
 SECI20 - Shut the door to cybercrime with identity-driven security - https://www.youtube.com/watch?v=KqEcKNtpgV4
 SECI30 - Tips, tricks, and best practices from the experts for deploying Microsoft Threat Protection - https://www.youtube.com/watch?v=o2dKJEK8TjU
+SECI50 - Modernize your SIEM in the cloud with Azure Sentinel - https://www.youtube.com/watch?v=LJypbTGEDO4
+SECO20 - Dive deep into Microsoft Threat Protection: See how we defend against threats like phishing and stop attacks in their tracks across your estate - https://www.youtube.com/watch?v=NogNroy0FSM
 
 STR30 - SharePoint updates for teamwork: Sites, pages, lists, and libraries - https://www.youtube.com/watch?v=Fr-J45rja64
 
+THR1020	- Deploy a PowerShell function app to Azure while you drink your coffee - https://www.youtube.com/watch?v=40-ydWzGGOc
 THR1030	- Office 365: How to get and stay up to date - https://www.youtube.com/watch?v=lDt2DilFgWE
+THR1034	- Five ways to really use that SharePoint site behind your Microsoft Teams or Yammer community - https://www.youtube.com/watch?v=0KGl2jEqbAM
+THR1049 - Introduction to PowerShell for the anxious IT professional - https://www.youtube.com/watch?v=R_M_XYWquq4
 THR1080 - Overview of private channels in Mirosoft Teams - https://www.youtube.com/watch?v=6MKdCt97dCw
 THR1104	- Keep it reel with Microsoft's phishing team - https://www.youtube.com/watch?v=YjD4nsoT4ic
+<<<<<<< HEAD
 THR1137 - Microsoft 365 experiences+ devices - https://www.youtube.com/watch?v=tKlYqM5Neic
+=======
+THR2030	- How to use analytics to  drive your Microsoft 365 adoption - https://www.youtube.com/watch?v=hrifSLpDnCU
+>>>>>>> bc79fe707d98e917e1d1e9af9fd210a72484cd3b
 THR2032 - Windows Virtual Desktop: Bringing the Windows experience to the platforms and devices preferred by your users - https://www.youtube.com/watch?v=BLJhEidcIBM
 THR2033	- What is Microsoft Managed Desktop? - https://www.youtube.com/watch?v=peI54WSDw5U
 THR2046	- Microsoft Defender Advanced Threat Protection in 20 minutes - https://www.youtube.com/watch?v=8KJsii-EW6w
 THR2058	- Discover shadow IT across all your SaaS, IaaS, and PaaS resources - https://www.youtube.com/watch?v=YLDeC0Naqgs
+THR2065	- Zero to hero: Microsoft Teams rolled out the right way - what you need to know - https://www.youtube.com/watch?v=GZHwOddrDxA
 THR2084 - Five easy steps to securing Azure AD identities - https://www.youtube.com/watch?v=lAsSknYKQdI
+THR2107	- Ten Microsoft Teams tips and tricks that empower everyone - https://www.youtube.com/watch?v=fHRkDfJnVGQ
+THR2174	- Using Azure Sentinel to supercharge your threat hunting - https://www.youtube.com/watch?v=mYtkepHRV6U
+THR2201	- Reduce IT friction with seamless identity end-user experiences - https://www.youtube.com/watch?v=yi8oFEVET2g
+THR2237	- A world without passwords - https://www.youtube.com/watch?v=A_hOQ7jN-8Q
 THR2253	- Help your users find content and information they need using SharePoint and Microsoft Search - https://www.youtube.com/watch?v=dmVpi3Xy-C0
+THR2262	- Keep it reel with Microsoft's phishing team - https://www.youtube.com/watch?v=1OeW77MAkNU
+THR2337	- Four secrets to your successful AI implementation - https://www.youtube.com/watch?v=FtHy0Rnyy8I
+THR2358	- Setting up PowerShell as your cloud management environment (the best tools to use) - https://www.youtube.com/watch?v=hYnU0TGI06I
+THR3003	- New, fast, and reliable Exchange Online PowerShell cmdlets - https://www.youtube.com/watch?v=Q4t4YIj3YPE
 THR3026	- Keep it simple: the unified administrative experience in Microsoft Endpoint Manager - https://www.youtube.com/watch?v=60ohQ-QUaeI
+THR3027	- Reaching for the cloud: Group Policy transformation to MDM with Microsoft Intune - https://www.youtube.com/watch?v=JTar30Bw6f4
 THR3031	- Ignite the spark! CloudApp Security tips and tricks - https://www.youtube.com/watch?v=ctJsf-1nLIM
 THR3037	- Moving corporate user data to OneDrive for Business: How hard can it be? https://www.youtube.com/watch?v=7mrkeg_D4kY
 THR3042	- The importance of Windows 10, OneDrive, SharePoint and Microsoft Teams together - https://www.youtube.com/watch?v=IyNVi7z3iCQ
 THR3043	- Microsoft Teams and Office 365 Groups PowerShell MasterClass - https://www.youtube.com/watch?v=GBpelGDLh6k
 THR3049	- Protect against waves of email attacks - Introducing campaign views in Office 365 ATP - https://www.youtube.com/watch?v=rg13Q5OoUiU
 THR3050	- Compromise is co$$$$tly! Detect account compromise early and stop the attackers in their tracks with O365 ATP - https://www.youtube.com/watch?v=JFPxxSun504
+THR3072	- Live on stage: Schedule and produce a live event - https://www.youtube.com/watch?v=2_GG05Ru8_k 
 THR3074	- MSIX app attach: The future of app delivery in virtual environments - https://www.youtube.com/watch?v=WeiUUp1nFuQ
+THR3076	- Get the most out of passwordless authentication and avoid pitfalls - https://www.youtube.com/watch?v=O1GHtY7H5O8
+THR3082	- Protect against phishing and other cyberthreats with Microsoft 365 Business - https://www.youtube.com/watch?v=b2hpNb2HGKc
 THR3151 - #CYaaS and STOP Ransomware! Make Your Microsoft-Powered Multi-Cloud Strategy Bulletproof - https://www.youtube.com/watch?v=VmxGZd4oBl8
 THR3167 - Cloud security: Defense in depth with DivvyCloud - https://www.youtube.com/watch?v=5c1Je5o23Pk
 THR3158 - BEC: The inner-workings of West African cybercriminal gangs - https://www.youtube.com/watch?v=WxMaSu-gT0M
+
+TK02 - Microsoft 365: The World’s Productivity Cloud - https://www.youtube.com/watch?v=K0RVf2eL0vg
