@@ -1,0 +1,14 @@
+Navigate to https://cdx.transform.microsoft.com
+
+Login in using Microsoft partner account
+
+Troubelshooting
+---------------- 
+Unfortunately, there can be challenges with accessing this site so if you have issues please try:
+
+1.	support@transform.microsoft.com
+
+and/or
+
+2.	Click on this link to consent to the permissions required by CDX.
+https://login.microsoftonline.com/common/oauth2/authorize?response_type=id_token&prompt=consent&client_id=fe6aa35b-7da8-44fd-a44e-e2d4bafbdab5&redirect_uri=https%3A%2F%2Fcdx.transform.microsoft.com&state=a9985c9c-6c9a-4b65-a444-1e3aa90d27a4&client-re...
