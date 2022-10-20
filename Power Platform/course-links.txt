@@ -1,2 +1,37 @@
-Licensing overview for Microsoft Power Platform - https://learn.microsoft.com/en-us/power-platform/admin/pricing-billing-skus
+Why software is eating the world
+--------------------------------
+https://a16z.com/2011/08/20/why-software-is-eating-the-world/
+https://www.wsj.com/articles/SB10001424053111903480904576512250915629460
 
+Licensing
+---------
+Licensing overview for Microsoft Power Platform - https://learn.microsoft.com/en-us/power-platform/admin/pricing-billing-skus
+Licensing guide - https://go.microsoft.com/fwlink/?linkid=2085130
+Enabling PAYG - https://blog.ciaops.com/2022/04/29/set-up-payg-for-power-platform/
+
+Environments
+------------
+Environments - https://learn.microsoft.com/en-us/power-platform/admin/environments-overview
+Admin console - https://admin.powerplatform.microsoft.com/environments
+
+Dataverse 
+---------
+What is dataverse - https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro
+Dataverse - https://www.youtube.com/watch?v=C1DJlmrZn5M
+
+Courses
+-------
+Microsoft Power Platform - https://www.udacity.com/course/microsoft-power-platform--ud091
+
+Power BI
+--------
+Chicago narcotics - https://bit.ly/ciademodata
+
+Power apps
+----------
+Get started with Power Apps canvas apps - https://learn.microsoft.com/en-us/training/modules/get-started-with-powerapps/
+PowerApps - https://make.powerapps.com/
+
+Power Pages
+-----------
+Main site - Powerpages.microsoft.com
