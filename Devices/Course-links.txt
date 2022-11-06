@@ -1,0 +1,24 @@
+What is device management - https://learn.microsoft.com/en-us/mem/intune/fundamentals/what-is-device-management
+What is Intune? - https://learn.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune
+What is Azure Active directory - https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
+What is device identity - https://learn.microsoft.com/en-us/azure/active-directory/devices/overview
+MDM - https://www.microsoft.com/en-us/insidetrack/mobile-device-management-at-microsoft
+Company portal app - https://apps.microsoft.com/store/detail/company-portal/9WZDNCRFJ3PZ?hl=en-us&gl=us
+MAM - https://learn.microsoft.com/en-us/mem/intune/apps/app-management
+Endpoint Security - https://learn.microsoft.com/en-us/mem/intune/protect/endpoint-security
+Autopilot - https://learn.microsoft.com/en-us/mem/autopilot/windows-autopilot
+How long does it take for devices to get a policy - https://learn.microsoft.com/en-us/mem/intune/configuration/device-profile-troubleshoot?#how-long-does-it-take-for-devices-to-get-a-policy-profile-or-app-after-they-are-assigned
+Autopilot - https://learn.microsoft.com/en-us/mem/configmgr/comanage/quickstart-autopilot
+Device registration - https://learn.microsoft.com/en-us/azure/active-directory/devices/device-registration-how-it-works
+Registered devices - https://learn.microsoft.com/en-us/azure/active-directory/devices/concept-azure-ad-register
+Joined devices - https://learn.microsoft.com/en-us/azure/active-directory/devices/concept-azure-ad-join
+Manage device identities - https://learn.microsoft.com/en-us/azure/active-directory/devices/device-management-azure-portal
+Autopilot Script - https://learn.microsoft.com/en-us/mem/autopilot/add-devices
+Conditional Access - https://learn.microsoft.com/en-us/mem/configmgr/comanage/quickstart-conditional-access
+Device troubleshooting - https://learn.microsoft.com/en-us/mem/intune/configuration/device-profile-troubleshoot#if-multiple-policies-are-assigned-to-the-same-user-or-device-how-do-i-know-which-settings-gets-applied
+Dynamic groups
+- https://learn.microsoft.com/en-us/azure/active-directory/enterprise-users/groups-create-rule
+- https://learn.microsoft.com/en-us/azure/active-directory/enterprise-users/groups-dynamic-membership
+- https://techcommunity.microsoft.com/t5/itops-talk-blog/dynamic-groups-in-azure-ad-and-microsoft-365/ba-p/2267494
+Enrol Windows 10 Device - https://learn.microsoft.com/en-us/azure/active-directory/devices/azuread-joined-devices-frx
+Join device - https://support.microsoft.com/en-us/account-billing/join-your-work-device-to-your-work-or-school-network-ef4d6adb-5095-4e51-829e-5457430f3973#to-join-an-already-configured-windows-10-device
