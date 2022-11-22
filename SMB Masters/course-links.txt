@@ -1,0 +1,41 @@
+CDX
+    Microsoft Partner Center help - https://partner.microsoft.com/en-us/support/partner-center-help 
+    Support - support@transform.microsoft.com
+    Home - https://transform.Microsoft.com
+    Admin consent - https://aka.ms/cdxadminconsent
+
+Module 01 - Intro and Tools
+
+M365 Lighthouse
+    Learn more at - https://aka.ms/M365Lighthouse
+    Technical documentation available - https://aka.ms/M365LighthouseDocs 
+    Demo content - https://aka.ms/M365Lighthouse-OverviewGuide 
+    Microsoft 365 Lighthouse Help & Support - https://docs.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-get-help-and-support?view=o365-worldwide
+    Microsoft 365 Lighthouse Documentation - https://docs.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide
+    Onboard - https://aka.ms/m365lighthouseonboard 
+    Feedback - https://aka.ms/m365lighthousefeedback  
+
+Module 02 - Security
+
+Module 03 - Windows 365
+	Steps to Deploy W365 - https://regale.cloud/Microsoft/viewer/1600/index.html#/0/0
+
+Module 04 - Endpoint Management
+	Configure and Protect BYOD: Admin - https://regale.cloud/Microsoft/viewer/1547/index.html#/0/0
+	Configure and Protect BYOD: User - https://regale.cloud/Microsoft/viewer/1601/index.html#/0/0
+	Configure and Protect corporate owned devices - https://regale.cloud/Microsoft/viewer/1575/index.html#/0/0
+	Windows Autopilot: Admin side - https://regale.cloud/Microsoft/viewer/1548/index.html#/0/0
+	Windows Autopilot: OOBE - https://regale.cloud/Microsoft/viewer/1550/index.html#/0/0
+
+Module 05 - Modern work
+	Microsoft Teams Policies - https://regale.cloud/Microsoft/viewer/1537/index.html#/0/0
+	Microsoft Teams App Management - https://regale.cloud/Microsoft/viewer/1552/index.html#/0/0
+	Microsoft Teams Business store - https://regale.cloud/Microsoft/viewer/1555/index.html#/0/0
+	Microsoft Teams Webinars - https://regale.cloud/Microsoft/viewer/1526/index.html#/0/0
+	Microsoft Teams Phone - Calling Plans - https://regale.cloud/Microsoft/viewer/1525/index.html#/0/0
+	Microsoft Teams Phone - Operator connect - https://regale.cloud/Microsoft/viewer/934/index.html#/5/0
+	Microsoft Teams Rooms Setup - https://regale.cloud/Microsoft/viewer/1559/index.html#/0/0
+	Microsoft Bookings - https://regale.cloud/Microsoft/viewer/1571/index.html#/0/0
+	Teams Shifts App - Frontline Manager - https://regale.cloud/Microsoft/viewer/605/index.html#/1/0
+	Teams Shifts App - Frontline worker - https://regale.cloud/Microsoft/viewer/605/index.html#/0/2
+    Microsoft 365 Apps - Management and Health - https://regale.cloud/Microsoft/viewer/185/index.html#/
