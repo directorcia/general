@@ -18,7 +18,7 @@ M365 Lighthouse
 Module 02 - Security
 
 Module 03 - Windows 365
-	Steps to Deploy W365 - https://regale.cloud/Microsoft/viewer/1600/index.html#/0/0
+    Steps to Deploy W365 - https://regale.cloud/Microsoft/viewer/1600/index.html#/0/0
 
 Module 04 - Endpoint Management
 	Configure and Protect BYOD: Admin - https://regale.cloud/Microsoft/viewer/1547/index.html#/0/0
@@ -39,3 +39,18 @@ Module 05 - Modern work
 	Teams Shifts App - Frontline Manager - https://regale.cloud/Microsoft/viewer/605/index.html#/1/0
 	Teams Shifts App - Frontline worker - https://regale.cloud/Microsoft/viewer/605/index.html#/0/2
     Microsoft 365 Apps - Management and Health - https://regale.cloud/Microsoft/viewer/185/index.html#/
+    Teams phone IT pro guided simulation - https://aka.ms/TeamsPhoneITProSimulation
+    Teams Phone for SMB Learning Path - https://readiness.transform.microsoft.com/learning-path/93487120-894e-4994-ad82-ea9c4b3bfd41 
+    Teams Phone for SMB Playbook - https://aka.ms/M365BVPartnerPlaybook
+    Teams Phone Train-the-Trainer Package - https://aka.ms/TeamsPhoneSMBTraintheTrainer
+    Teams Voice Solutions Architecture Poster - https://learn.microsoft.com/en-us/microsoftteams/teams-architecture-solutions-posters#microsoft-voice-solutions
+
+Labs
+    https://microsoftevents.learnondemand.net
+    Event training key = 
+
+Instructor
+    Robert Crane
+    https://www.ciaops.com
+    https://github.com/directorcia
+    
