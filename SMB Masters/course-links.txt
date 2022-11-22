@@ -1,3 +1,7 @@
+Source
+    https://github.com/directorcia/general/blob/master/SMB%20Masters/course-links.txt
+    https://bit.ly/ciaopssmbmasters
+
 CDX
     Microsoft Partner Center help - https://partner.microsoft.com/en-us/support/partner-center-help 
     Support - support@transform.microsoft.com
@@ -53,4 +57,3 @@ Instructor
     Robert Crane
     https://www.ciaops.com
     https://github.com/directorcia
-    
