@@ -51,7 +51,7 @@ Module 05 - Modern work
 
 Labs
     https://microsoftevents.learnondemand.net
-    Event training key = 
+    Event training key = E1A13C12C34246FB
 
 Instructor
     Robert Crane
