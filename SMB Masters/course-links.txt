@@ -9,6 +9,8 @@ CDX
     Admin consent - https://aka.ms/cdxadminconsent
 
 Module 01 - Intro and Tools
+    Microsoft 365 and Office 365 service descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library
+    Microsoft 365 SMB plan comparison - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM
 
 M365 Lighthouse
     Learn more at - https://aka.ms/M365Lighthouse
@@ -48,10 +50,13 @@ Module 05 - Modern work
     Teams Phone for SMB Playbook - https://aka.ms/M365BVPartnerPlaybook
     Teams Phone Train-the-Trainer Package - https://aka.ms/TeamsPhoneSMBTraintheTrainer
     Teams Voice Solutions Architecture Poster - https://learn.microsoft.com/en-us/microsoftteams/teams-architecture-solutions-posters#microsoft-voice-solutions
+    Demo: Teams in Classroom at Microsoft Inspire 2019 - https://www.youtube.com/watch?v=NcbQ2UK69Tc&t=321s
 
 Labs
     https://microsoftevents.learnondemand.net
     Event training key = E1A13C12C34246FB
+
+Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EgZNNwFY5_FLg_vi0aIn9ssBOfFQq8M05zFAtMm6P_zZZg?e=oupDc7
 
 Instructor
     Robert Crane
