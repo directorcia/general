@@ -1,0 +1,27 @@
+Report a data breach - https://www.oaic.gov.au/privacy/notifiable-data-breaches/report-a-data-breach
+
+Audit log search - https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-search?view=o365-worldwide#audited-activities
+
+Search Audit log using PowerShell - https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-search-script?view=o365-worldwide
+
+Search Audit log script - https://github.com/directorcia/Office365/blob/master/o365-login-audit.ps1
+
+Advanced hunting queries for Microsoft Threat Protection - https://github.com/microsoft/MTP-AHQ
+
+MDATP Advanced hunting sample queries - https://github.com/microsoft/windowsdefenderatp-hunting-queries
+
+Advanced hunting query best practices  - https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-best-practices?view=o365-worldwide
+
+https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries
+
+https://github.com/Azure/Azure-Sentinel
+
+Azure Identity Protection - https://www.youtube.com/watch?v=8AQQrSCrLMI
+
+PIM - https://www.youtube.com/watch?v=JiVcCLY1jh0
+
+Identity governance - https://www.youtube.com/watch?v=VzEn_7Kkv38
+
+Good UAL Hunting - https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/good-ual-hunting/ba-p/3718421
+
+Forensic artifacts in Office 365 and where to find them - https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/forensic-artifacts-in-office-365-and-where-to-find-them/ba-p/3634865

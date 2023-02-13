@@ -1,0 +1,25 @@
+Export Unified audit log - https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-export-records?view=o365-worldwide
+
+Search Unified audit log - https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-search-script?view=o365-worldwide
+
+Auditing M365 user logins - https://blog.ciaops.com/2018/09/11/auditing-office-365-user-logins-via-powershell/
+
+Script - https://github.com/directorcia/Office365/blob/master/o365-login-audit.ps1
+
+AIR - https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/air-about?view=o365-worldwide
+
+What alert policies trigger automated investigations? - https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/air-about?view=o365-worldwide#which-alert-policies-trigger-automated-investigations
+
+Disable user script - https://github.com/directorcia/Office365/blob/master/o365-user-off.ps1
+
+Collect investigation package from devices - https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/respond-machine-alerts?view=o365-worldwide#collect-investigation-package-from-devices
+
+Threat investigation and response - https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/office-365-ti?view=o365-worldwide
+
+Incident investigations in Microsoft Defender for Endpoint - https://www.youtube.com/watch?v=Jvbp43RjkDo
+
+Investigate incidents in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/investigate-incidents?view=o365-worldwide
+
+SANS Incident Handler's Handbook - https://www.sans.org/white-papers/33901/
+
+Computer Security Incident Handling Guide - https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf

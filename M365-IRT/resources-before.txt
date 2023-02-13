@@ -1,0 +1,16 @@
+Incident response plan - https://www.cyber.gov.au/acsc/view-all-content/glossary/incident-response-plan
+Incident response training - https://www.cisa.gov/incident-response-training
+Cyber incident management plan - https://www.vic.gov.au/cyber-incident-Management-Plan
+Incident response with Microsoft 365 Defender - https://learn.microsoft.com/en-us/microsoft-365/security/defender/incidents-overview?view=o365-worldwide
+Incident response overview - https://learn.microsoft.com/en-us/security/compass/incident-response-overview
+Incident response playbooks - https://learn.microsoft.com/en-us/security/compass/incident-response-playbooks
+Phishing investigation - https://learn.microsoft.com/en-us/security/compass/incident-response-playbook-phishing
+Incident response planning - https://learn.microsoft.com/en-us/security/compass/incident-response-planning
+Incident response process - https://learn.microsoft.com/en-us/security/compass/incident-response-process
+Incident response Reference Guide - https://www.microsoft.com/en-us/download/details.aspx?id=103148
+NIST Computer Security Incident Handling Guide - https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf
+Azure Active Directory security operations guide - https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction
+HAWK - https://github.com/Canthv0/hawk
+Implementing the Lessons Learned From a Major Cyber Attack - https://www.youtube.com/watch?v=wQ8HIjkEe9o
+CIAOPS cyber protection model - https://blog.ciaops.com/2020/12/06/ciaops-cyber-protection-model-update/
+Intelligence not information - https://blog.ciaops.com/2021/10/05/intelligence-not-information/
