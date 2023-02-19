@@ -23,6 +23,7 @@ M365 Lighthouse
     Feedback - https://aka.ms/m365lighthousefeedback  
 
 Module 02 - Security
+    Sectest - https://github.com/directorcia/Office365/blob/master/sec-test.ps1
 
 Module 03 - Windows 365
     Steps to Deploy W365 - https://regale.cloud/Microsoft/viewer/1600/index.html#/0/0
@@ -33,6 +34,7 @@ Module 04 - Endpoint Management
 	Configure and Protect corporate owned devices - https://regale.cloud/Microsoft/viewer/1575/index.html#/0/0
 	Windows Autopilot: Admin side - https://regale.cloud/Microsoft/viewer/1548/index.html#/0/0
 	Windows Autopilot: OOBE - https://regale.cloud/Microsoft/viewer/1550/index.html#/0/0
+    Modern Device Management with Microsoft 365 Business Premium - https://blog.ciaops.com/2020/09/26/modern-device-management-with-microsoft-365-business-premium-part-1/
 
 Module 05 - Modern work
 	Microsoft Teams Policies - https://regale.cloud/Microsoft/viewer/1537/index.html#/0/0
@@ -55,7 +57,7 @@ Module 05 - Modern work
 
 Labs
     https://microsoftevents.learnondemand.net
-    Event training key = 56F254EF69BE4581
+    Event training key = BFDF3D4F512D48C1
 
 Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EgZNNwFY5_FLg_vi0aIn9ssBOfFQq8M05zFAtMm6P_zZZg?e=oupDc7
 
