@@ -1,0 +1,39 @@
+Versions $psversiontable
+
+Windows Terminal App - https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=us
+
+Git - https://git-scm.com/downloads
+
+Git config --global user.name "First Last"
+Git config --global user.email "user@domain.com"
+
+## will create a sub directory in current directory with repo name
+Git clone https://github.com/directorcia/Office365
+Git clone https://github.com/directorcia/Azure
+Git clone https://github.com/directorcia/general
+
+Visual Studio download - https://code.visualstudio.com/Download
+
+set-executionpolicy -executionpolicy bypass -scope currentuser -force
+Install-module exchangeonlinemanagement
+https://github.com/directorcia/Office365/blob/master/o365-exo-fwd-chk.ps1
+
+Setup script - https://github.com/directorcia/Office365/blob/master/o365-setup.ps1
+Update script - https://github.com/directorcia/Office365/blob/master/o365-update.ps1
+Connection scripts
+- Exchange online - https://github.com/directorcia/Office365/blob/master/o365-connect-exo.ps1 -noupdate
+- SharePoint online - https://github.com/directorcia/Office365/blob/master/o365-connect-spo.ps1 -noupdate
+
+Standard scripts
+- Users	
+    - https://github.com/directorcia/Office365/blob/master/o365-user-off.ps1
+- Mailboxes
+	- https://github.com/directorcia/Office365/blob/master/o365-spam-policy.ps1
+	- https://github.com/directorcia/Office365/blob/master/o365-mx-check.ps1
+- SharePoint
+	- https://github.com/directorcia/Office365/blob/master/o365-spo-getusage.ps1
+    - https://github.com/directorcia/Office365/blob/master/o365-spo-extusr.ps1
+
+MSGraph
+- https://github.com/directorcia/Office365/blob/master/intune-policy-get.ps1
+
