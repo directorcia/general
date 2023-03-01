@@ -39,5 +39,6 @@ Standard scripts
     - https://github.com/directorcia/Office365/blob/master/o365-spo-extusr.ps1
 
 MSGraph
+- https://aka.ms/ge
 - https://github.com/directorcia/Office365/blob/master/intune-policy-get.ps1
 
