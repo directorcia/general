@@ -1,0 +1,12 @@
+auditpol /get /category:* 
+
+Centralised logging - https://www.cyber.gov.au/acsc/view-all-content/advice/guidelines-system-monitoring
+
+https://servicetrust.microsoft.com/ViewPage/RegionalAustralia
+
+Scuba - https://www.cisa.gov/scuba
+Scuba repo - https://github.com/cisagov/ScubaGear
+https://desktop.gov.au/blueprint/office-365.html
+https://www.microsoft.com/en-au/business/topic/security/essential-eight/
+https://learn.microsoft.com/en-us/security/benchmark/azure/
+https://github.com/directorcia/Office365/blob/master/best-practices.txt
