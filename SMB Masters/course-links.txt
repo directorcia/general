@@ -12,6 +12,7 @@ Module 01 - Intro and Tools
     Microsoft 365 and Office 365 service descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library
     Microsoft 365 SMB plan comparison - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM
     Microsoft 365 maps - https://m365maps.com/
+    Microsoft 365 Roadmap - https://www.microsoft.com/en-us/microsoft-365/roadmap
 
 M365 Lighthouse
     Learn more at - https://aka.ms/M365Lighthouse
@@ -57,7 +58,7 @@ Module 05 - Modern work
 
 Labs
     https://microsoftevents.learnondemand.net
-    Event training key = B3E868574F0B467C
+    Event training key = 45F62B54CEC24E6F
 
 Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EgZNNwFY5_FLg_vi0aIn9ssBOfFQq8M05zFAtMm6P_zZZg?e=oupDc7
 
