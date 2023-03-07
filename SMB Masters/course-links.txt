@@ -58,7 +58,7 @@ Module 05 - Modern work
 
 Labs
     https://microsoftevents.learnondemand.net
-    Event training key = 1E6A9F6D06E54E72
+    Event training key = 45F62B54CEC24E6F
 
 Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EgZNNwFY5_FLg_vi0aIn9ssBOfFQq8M05zFAtMm6P_zZZg?e=oupDc7
 
