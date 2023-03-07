@@ -22,3 +22,4 @@ Dynamic groups
 - https://techcommunity.microsoft.com/t5/itops-talk-blog/dynamic-groups-in-azure-ad-and-microsoft-365/ba-p/2267494
 Enrol Windows 10 Device - https://learn.microsoft.com/en-us/azure/active-directory/devices/azuread-joined-devices-frx
 Join device - https://support.microsoft.com/en-us/account-billing/join-your-work-device-to-your-work-or-school-network-ef4d6adb-5095-4e51-829e-5457430f3973#to-join-an-already-configured-windows-10-device
+Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EvYJSloRnWVNqXpFgk0McwcBqHs0_kaGELDkZoACoEq-2w?e=MvVcj1
