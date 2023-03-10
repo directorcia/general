@@ -1,0 +1,7 @@
+MS-900 - https://docs.microsoft.com/en-gb/learn/certifications/exams/ms-900
+Demo: Explore Microsoft 365 tenant - https://github.com/MicrosoftLearning/MS-900T01-Microsoft-365-Fundamentals/blob/master/Instructions/Demos/DEMO_01_explore_m365_tenant.md
+Demo: Team collaboration in Microsoft Teams - https://github.com/MicrosoftLearning/MS-900T01-Microsoft-365-Fundamentals/blob/master/Instructions/Demos/DEMO_02_teams_collaboration.md
+Demo: Explore Microsoft Viva Insights and Viva Learning - https://github.com/MicrosoftLearning/MS-900T01-Microsoft-365-Fundamentals/blob/master/Instructions/Demos/DEMO_03_explore_viva.md
+Demo: Explore the Microsoft 365 admin center - https://github.com/MicrosoftLearning/MS-900T01-Microsoft-365-Fundamentals/blob/master/Instructions/Demos/DEMO_04_explore_m365_admin_center.md
+Demo: Explore User and billing management in the Microsoft 365 admin center - https://github.com/MicrosoftLearning/MS-900T01-Microsoft-365-Fundamentals/blob/master/Instructions/Demos/DEMO_05_explore_m365_user_billing_mgmt.md
+Demo: Create a support request in the Microsoft 365 admin center - https://github.com/MicrosoftLearning/MS-900T01-Microsoft-365-Fundamentals/blob/master/Instructions/Demos/DEMO_06_create_support_request.md

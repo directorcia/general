@@ -1,0 +1,13 @@
+Pre-Demo Setup - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_00_pre_demo_setup.md
+Demo: Azure AD user settings - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_01_explore_azure_ad.md
+Demo: Azure AD self service password reset (SSPR) - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_02_explore_azure_sspr.md
+Demo: Azure AD Conditional Access - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_03_explore_cond_access.md
+Demo: Azure Network Security Groups (NSGs) - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_04_explore_nsg.md
+Demo: Microsoft Defender for Cloud - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_05_explore_defender_cloud.md
+Demo: Microsoft Sentinel - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_06_explore_sentinel.md
+Demo: Microsoft Defender for Cloud Apps - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_07_explore_defender_apps.md
+Demo: The Microsoft 365 Defender portal - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_08_explore_m365_defender_portal.md
+Demo: Service Trust Portal - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_10_explore_service_trust_portal.md
+Demo: Explore the Microsoft Purview compliance portal & Compliance Manager - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_11_explore_compliance_mgr.md
+Demo: Sensitivity labels in Microsoft Purview - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_12_explore_senstivity_labels.md
+Demo: Azure Policy - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_13_explore_azure_policy.md
