@@ -5,3 +5,32 @@ Demo: Explore Microsoft Viva Insights and Viva Learning - https://github.com/Mic
 Demo: Explore the Microsoft 365 admin center - https://github.com/MicrosoftLearning/MS-900T01-Microsoft-365-Fundamentals/blob/master/Instructions/Demos/DEMO_04_explore_m365_admin_center.md
 Demo: Explore User and billing management in the Microsoft 365 admin center - https://github.com/MicrosoftLearning/MS-900T01-Microsoft-365-Fundamentals/blob/master/Instructions/Demos/DEMO_05_explore_m365_user_billing_mgmt.md
 Demo: Create a support request in the Microsoft 365 admin center - https://github.com/MicrosoftLearning/MS-900T01-Microsoft-365-Fundamentals/blob/master/Instructions/Demos/DEMO_06_create_support_request.md
+
+https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
+https://learn.microsoft.com/en-us/training/paths/describe-microsoft-365-core-services-concepts/
+https://learn.microsoft.com/en-us/training/paths/m365-security-compliance-capabilities/
+https://learn.microsoft.com/en-us/training/paths/m365-licensing-service-support/
+
+Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EidsunNLWKlGg-Hjzr_9NiEBlu8PmscPwpbfRYs7RB9DKg?e=8iJXo2
+
+Videos
+------
+What is Cloud computing - https://www.microsoft.com/en-us/videoplayer/embed/RE4LyBB?postJsllMsg=true
+Azure SLAs - https://www.microsoft.com/en-us/videoplayer/embed/RWEA4z?postJsllMsg=true
+Get to know Teams - https://mslearn.cloudguides.com/guides/Get%20to%20know%20Microsoft%20Teams
+Manage devices with Endpoint Manager - https://mslearn.cloudguides.com/en-us/guides/Manage%20devices%20with%20Microsoft%20Endpoint%20Manager
+Deploy Office 365 Pro Plus - https://mslearn.cloudguides.com/guides/Deploy%20Office%20365%20ProPlus%20in%20your%20organization
+Overview of Office 365 Admin center - https://www.microsoft.com/videoplayer/embed/RWfvDL
+Act on usage reprots - https://www.microsoft.com/videoplayer/embed/fb726f8e-aead-43b2-ba0f-53ba5b886bf7
+Create a new user in Azure AD - https://aka.ms/SC900_IG-AzureAD_User
+Conditional Access - https://www.microsoft.com/en-us/videoplayer/embed/RE4INyI
+Create a Conditional Access policy - https://aka.ms/SC900_IG-AzureAD_CondAccess
+Microsoft 365 Defender overview - https://www.microsoft.com/en-us/videoplayer/embed/RE4IPYr
+Describe Microsoft Defender for Cloud Apps - https://edxinteractivepage.blob.core.windows.net/edxpages/sc-900/LP03M04-Describe-threat-protection-with-Microsoft-365/index.html
+Explore Microsoft Secure Score - https://edxinteractivepage.blob.core.windows.net/edxpages/sc-900/LP03M05-Explore-Microsoft-Secure-Score/index.html
+Microsoft Sentinel - https://www.microsoft.com/en-us/videoplayer/embed/RE4LHLR
+Explore Microsoft Purview portal - https://aka.ms/SC900_IG-Microsoft_Purview_Compliance_Portal
+Compliance Manager - https://www.microsoft.com/en-us/videoplayer/embed/RE4FGYZ
+Explore Microsoft Compliance MAnager - https://aka.ms/SC900_IG-Compliance_Manager
+Explore Service Trust portal - https://edxinteractivepage.blob.core.windows.net/edxpages/sc-900/LP04M01-Explore-the-Service-Trust-Portal/index.html
+Discover support options in Microsoft 365 - https://mslearn.cloudguides.com/guides/Discover%20support%20options%20in%20Microsoft%20365
