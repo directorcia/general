@@ -1,3 +1,10 @@
+SC-900 Exam resources
+----------------------
+Exam SC-900 - https://learn.microsoft.com/en-us/certifications/exams/sc-900/
+Free practice assessment - https://learn.microsoft.com/en-us/certifications/exams/sc-900/practice/assessment?assessment-type=practice&assessmentId=11&source=docs
+
+Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EgD7A6bXxSdEqkHBRUbU-c0BHXmyCF9QCOS1gOU7yTFQrg?e=kefNLg
+
 Pre-Demo Setup - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_00_pre_demo_setup.md
 Demo: Azure AD user settings - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_01_explore_azure_ad.md
 Demo: Azure AD self service password reset (SSPR) - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_02_explore_azure_sspr.md
@@ -11,3 +18,31 @@ Demo: Service Trust Portal - https://github.com/MicrosoftLearning/SC-900-Microso
 Demo: Explore the Microsoft Purview compliance portal & Compliance Manager - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_11_explore_compliance_mgr.md
 Demo: Sensitivity labels in Microsoft Purview - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_12_explore_senstivity_labels.md
 Demo: Azure Policy - https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals/blob/master/Instructions/Demos/DEMO_13_explore_azure_policy.md
+
+Describe the basic concepts of cybersecurity - https://learn.microsoft.com/en-us/training/paths/describe-basic-concepts-of-cybersecurity/
+Microsoft Security, Compliance, and Identity Fundamentals: Describe the concepts of security, compliance, and identity - https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/
+Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft Azure Active Directory, part of Microsoft Entra - https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-identity-access/
+Microsoft Security, Compliance, and Identity Fundamentals: Describe the capabilities of Microsoft security solutions - https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/
+
+Videos
+------
+Zero trust - https://www.microsoft.com/en-us/videoplayer/embed/RE4J3ms
+Azure AD authentication fundamentals - https://www.microsoft.com/en-us/videoplayer/embed/RE4Kdt9
+Create a new user in Azure AD - https://aka.ms/SC900_IG-AzureAD_User
+The new sign in standard - https://www.microsoft.com/en-us/videoplayer/embed/RE4zhD7
+Enable SSPR - https://edxinteractivepage.blob.core.windows.net/edxpages/sc-900/LP02M03-Enable-SSPR-in-Azure-Active-Directory/index.html
+Azure AD Conditional access - https://www.microsoft.com/en-us/videoplayer/embed/RE4INyI
+Create a Conditioanl Access policy - https://aka.ms/SC900_IG-AzureAD_CondAccess
+AD entitlement management - https://www.microsoft.com/en-us/videoplayer/embed/RE4JXQr
+Priviledge Identity Management - https://www.microsoft.com/en-us/videoplayer/embed/RE4ILbu
+Use Microsoft Secure score - https://aka.ms/SC900_IG-Microsoft_Defender_for_Cloud-SecureScore
+Mirosoft Sentinel - https://www.microsoft.com/en-us/videoplayer/embed/RE4LHLR
+Microsoft 365 Defender Overview - https://www.microsoft.com/en-us/videoplayer/embed/RE4IPYr
+Microsoft Defender for Cloud apps - https://aka.ms/SC900_IG-Microsoft_Defender_for_Cloud_Apps
+Explore Microsoft Secure score - https://aka.ms/SC900_IG-Microsoft_365_Defender-SecureScore
+Explore the Service Trust portal - https://aka.ms/SC900_IG-Service_Trust_Portal
+Explore Microsoft Purview compliance portal - https://aka.ms/SC900_IG-Microsoft_Purview_Compliance_Portal
+Compliance Manager - https://www.microsoft.com/en-us/videoplayer/embed/RE4FGYZ
+Explore Compliance Manager - https://aka.ms/SC900_IG-Compliance_Manager
+Data classification - https://www.microsoft.com/videoplayer/embed/RE4vx8x
+Communication compliance - https://www.microsoft.com/videoplayer/embed/RE4xlaF
