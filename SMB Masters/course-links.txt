@@ -34,7 +34,6 @@ Module 02 - Security
     Practical guide to security using Microsoft 365 Business (Basic, Standard, and Premium) - https://aka.ms/smbsecurityguide
     Checklist for security with Microsoft 365 Business Premium - https://aka.ms/smbsecuritychecklist
 
-
 Module 03 - Windows 365
     Steps to Deploy W365 - https://regale.cloud/Microsoft/viewer/1600/index.html#/0/0
 
