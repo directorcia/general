@@ -1,12 +1,14 @@
 Source
     https://github.com/directorcia/general/blob/master/SMB%20Masters/course-links.txt
     https://bit.ly/ciaopssmbmasters
+    https://aka.ms/smbpractice
 
 CDX
     Microsoft Partner Center help - https://partner.microsoft.com/en-us/support/partner-center-help 
     Support - support@transform.microsoft.com
     Home - https://transform.Microsoft.com
     Admin consent - https://aka.ms/cdxadminconsent
+    User connset - https://aka.ms/cdxuserconsent
 
 Module 01 - Intro and Tools
     Microsoft 365 and Office 365 service descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library
@@ -28,6 +30,10 @@ Module 02 - Security
     Sectest - https://github.com/directorcia/Office365/blob/master/sec-test.ps1
     Elevate your Endpoint security with Microsoft Defender for Business - https://mslearn.cloudguides.com/en-us/guides/Elevate%20your%20endpoint%20security%20with%20Microsoft%20Defender%20for%20Business
     Get started with Microsoft Defender for Business - https://mslearn.cloudguides.com/en-us/guides/Get%20started%20with%20Microsoft%20Defender%20for%20Business
+    MDB Partner kit - https://cloudpartners.transform.microsoft.com/products/ms-defender-for-business
+    Practical guide to security using Microsoft 365 Business (Basic, Standard, and Premium) - https://aka.ms/smbsecurityguide
+    Checklist for security with Microsoft 365 Business Premium - https://aka.ms/smbsecuritychecklist
+
 
 Module 03 - Windows 365
     Steps to Deploy W365 - https://regale.cloud/Microsoft/viewer/1600/index.html#/0/0
