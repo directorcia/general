@@ -1,6 +1,7 @@
-SC-900 Exam resources
+MS-900 Exam resources
 ----------------------
 MS-900 - https://docs.microsoft.com/en-gb/learn/certifications/exams/ms-900
+Practice exam - https://learn.microsoft.com/en-us/certifications/exams/ms-900/practice/assessment?assessment-type=practice&assessmentId=50
 
 Demo: Explore Microsoft 365 tenant - https://github.com/MicrosoftLearning/MS-900T01-Microsoft-365-Fundamentals/blob/master/Instructions/Demos/DEMO_01_explore_m365_tenant.md
 Demo: Team collaboration in Microsoft Teams - https://github.com/MicrosoftLearning/MS-900T01-Microsoft-365-Fundamentals/blob/master/Instructions/Demos/DEMO_02_teams_collaboration.md
