@@ -19,6 +19,7 @@ Module 01 - Intro and Tools
 
 M365 Lighthouse
     Learn more at - https://aka.ms/M365Lighthouse
+    Set up Granular Delegated Admin Privileges in Microsoft 365 Lighthouse - https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/set-up-granular-delegated-admin-privileges-in-microsoft-365/ba-p/3809422
     Technical documentation available - https://aka.ms/M365LighthouseDocs 
     Demo content - https://aka.ms/M365Lighthouse-OverviewGuide 
     Microsoft 365 Lighthouse Help & Support - https://docs.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-get-help-and-support?view=o365-worldwide
