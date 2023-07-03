@@ -1,4 +1,5 @@
 ACSC Essential Eight - https://learn.microsoft.com/en-us/compliance/essential-eight/e8-overview
+M365 Maps - Essential 8 - https://m365maps.com/files/Essential-8.htm
 
 auditpol /get /category:* 
 
