@@ -16,6 +16,7 @@ Module 01 - Intro and Tools
     Microsoft 365 maps - https://m365maps.com/
     Microsoft 365 Roadmap - https://www.microsoft.com/en-us/microsoft-365/roadmap
     Microsoft 365 Business Premium Partner Playbook and Readiness Series - https://cloudpartners.transform.microsoft.com/m365bp-partner-playbook
+    Micosoft 365 setup and deployment - https://setup.microsoft.com/
 
 M365 Lighthouse
     Learn more at - https://aka.ms/M365Lighthouse
