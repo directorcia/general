@@ -1,0 +1,83 @@
+Source
+    https://github.com/directorcia/general/blob/master/SMB%20Masters/course-links.txt
+    https://bit.ly/ciaopscspmasters
+    https://aka.ms/smbpractice
+
+CDX
+    Microsoft Partner Center help - https://partner.microsoft.com/en-us/support/partner-center-help 
+    Support - support@transform.microsoft.com
+    Home - https://transform.Microsoft.com
+    Admin consent - https://aka.ms/cdxadminconsent
+    User connset - https://aka.ms/cdxuserconsent
+
+Module 01 - Intro and Tools
+    Microsoft 365 and Office 365 service descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library
+    Microsoft 365 SMB plan comparison - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM
+    Microsoft 365 maps - https://m365maps.com/
+    Microsoft 365 Roadmap - https://www.microsoft.com/en-us/microsoft-365/roadmap
+    Microsoft 365 Business Premium Partner Playbook and Readiness Series - https://cloudpartners.transform.microsoft.com/m365bp-partner-playbook
+    Micosoft 365 setup and deployment - https://setup.microsoft.com/
+    Accelerate your CSP business with security managed services - https://aka.ms/smbmanagedservices
+    Microsoft 365 Business Premium partner kit https://aka.ms/m365bppartnerplaybook
+    Microsoft Defender for Business partner kit - https://aka.ms/mdbpartnerkit
+
+M365 Lighthouse
+    Learn more at - https://aka.ms/M365Lighthouse
+    Set up Granular Delegated Admin Privileges in Microsoft 365 Lighthouse - https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/set-up-granular-delegated-admin-privileges-in-microsoft-365/ba-p/3809422
+    Technical documentation available - https://aka.ms/M365LighthouseDocs 
+    Demo content - https://aka.ms/M365Lighthouse-OverviewGuide 
+    Microsoft 365 Lighthouse Help & Support - https://docs.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-get-help-and-support?view=o365-worldwide
+    Microsoft 365 Lighthouse Documentation - https://docs.microsoft.com/en-us/microsoft-365/lighthouse/m365-lighthouse-overview?view=o365-worldwide
+    Onboard - https://aka.ms/m365lighthouseonboard 
+    Feedback - https://aka.ms/m365lighthousefeedback  
+
+Module 02 - Security
+    Sectest - https://github.com/directorcia/Office365/blob/master/sec-test.ps1
+    Elevate your Endpoint security with Microsoft Defender for Business - https://mslearn.cloudguides.com/en-us/guides/Elevate%20your%20endpoint%20security%20with%20Microsoft%20Defender%20for%20Business
+    Get started with Microsoft Defender for Business - https://mslearn.cloudguides.com/en-us/guides/Get%20started%20with%20Microsoft%20Defender%20for%20Business
+    MDB Partner kit - https://cloudpartners.transform.microsoft.com/products/ms-defender-for-business
+    Practical guide to security using Microsoft 365 Business (Basic, Standard, and Premium) - https://aka.ms/smbsecurityguide
+    Checklist for security with Microsoft 365 Business Premium - https://aka.ms/smbsecuritychecklist
+
+Module 03 - Windows 365
+    Steps to Deploy W365 - https://regale.cloud/Microsoft/viewer/1600/index.html#/0/0
+
+Module 04 - Endpoint Management
+	Configure and Protect BYOD: Admin - https://regale.cloud/Microsoft/viewer/1547/index.html#/0/0
+	Configure and Protect BYOD: User - https://regale.cloud/Microsoft/viewer/1601/index.html#/0/0
+	Configure and Protect corporate owned devices - https://regale.cloud/Microsoft/viewer/1575/index.html#/0/0
+	Windows Autopilot: Admin side - https://regale.cloud/Microsoft/viewer/1548/index.html#/0/0
+	Windows Autopilot: OOBE - https://regale.cloud/Microsoft/viewer/1550/index.html#/0/0
+    Modern Device Management with Microsoft 365 Business Premium - https://blog.ciaops.com/2020/09/26/modern-device-management-with-microsoft-365-business-premium-part-1/
+
+Module 05 - Modern work
+	Microsoft Teams Policies - https://regale.cloud/Microsoft/viewer/1537/index.html#/0/0
+	Microsoft Teams App Management - https://regale.cloud/Microsoft/viewer/1552/index.html#/0/0
+	Microsoft Teams Business store - https://regale.cloud/Microsoft/viewer/1555/index.html#/0/0
+	Microsoft Teams Webinars - https://regale.cloud/Microsoft/viewer/1526/index.html#/0/0
+	Microsoft Teams Phone - Calling Plans - https://regale.cloud/Microsoft/viewer/1525/index.html#/0/0
+	Microsoft Teams Phone - Operator connect - https://regale.cloud/Microsoft/viewer/934/index.html#/5/0
+	Microsoft Teams Rooms Setup - https://regale.cloud/Microsoft/viewer/1559/index.html#/0/0
+	Microsoft Bookings - https://regale.cloud/Microsoft/viewer/1571/index.html#/0/0
+	Teams Shifts App - Frontline Manager - https://regale.cloud/Microsoft/viewer/605/index.html#/1/0
+	Teams Shifts App - Frontline worker - https://regale.cloud/Microsoft/viewer/605/index.html#/0/2
+    Microsoft 365 Apps - Management and Health - https://regale.cloud/Microsoft/viewer/185/index.html#/
+    Teams phone IT pro guided simulation - https://aka.ms/TeamsPhoneITProSimulation
+    Teams Phone for SMB Learning Path - https://readiness.transform.microsoft.com/learning-path/93487120-894e-4994-ad82-ea9c4b3bfd41 
+    Teams Phone for SMB Playbook - https://aka.ms/M365BVPartnerPlaybook
+    Teams Phone Train-the-Trainer Package - https://aka.ms/TeamsPhoneSMBTraintheTrainer
+    Teams Voice Solutions Architecture Poster - https://learn.microsoft.com/en-us/microsoftteams/teams-architecture-solutions-posters#microsoft-voice-solutions
+    Demo: Teams in Classroom at Microsoft Inspire 2019 - https://www.youtube.com/watch?v=NcbQ2UK69Tc
+
+Labs
+    https://microsoftevents.learnondemand.net
+    Event training key = D5307B2D675A4C9C
+
+Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EozVVXpUAMRKluJLa05Cpl0Bi9oru-P9g6cM4UxtlTEA9w?e=Z7qfjG
+
+Instructor
+    Robert Crane
+    https://www.ciaops.com
+    https://github.com/directorcia
+    https://www.ciaopspatron.com
+    
