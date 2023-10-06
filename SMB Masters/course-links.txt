@@ -18,6 +18,8 @@ Module 01 - Intro and Tools
     Microsoft 365 Business Premium Partner Playbook and Readiness Series - https://cloudpartners.transform.microsoft.com/m365bp-partner-playbook
     Micosoft 365 setup and deployment - https://setup.microsoft.com/
     Accelerate your CSP business with security managed services - https://aka.ms/smbmanagedservices
+    Microsoft 365 Business Premium partner kit https://aka.ms/m365bppartnerplaybook
+    Microsoft Defender for Business partner kit - https://aka.ms/mdbpartnerkit
 
 M365 Lighthouse
     Learn more at - https://aka.ms/M365Lighthouse
