@@ -71,7 +71,33 @@ Module 05 - Modern work
 
 Labs
     https://microsoftevents.learnondemand.net
-    Event training key = D5307B2D675A4C9C
+    Event training key = 
+
+Contoso retail store
+    Administrative Username	= admin@M365B457236.onmicrosoft.com
+    Administrative Password	= 
+    Tenant Name	= M365B457236.onmicrosoft.com
+    Tenant Prefix = M365B457236
+    User Password =	
+
+Adventure Works Cycles
+    Administrative Username	= admin@M365B454437.onmicrosoft.com
+    Administrative Password	= 
+    Tenant Name	= M365B454437.onmicrosoft.com
+    Tenant Prefix =	M365B454437
+    User Password = 
+
+Lab VM
+    Username = Admin
+    Password = Passw0rd!
+
+Challenge scenario unlock passwords
+Scenario	Unlock password
+    1	    unlock2
+    2	    unlock3
+    3	    unlock4
+    4	    unlock5
+    5	    unlocksubmit
 
 Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EozVVXpUAMRKluJLa05Cpl0Bi9oru-P9g6cM4UxtlTEA9w?e=Z7qfjG
 
@@ -80,4 +106,3 @@ Instructor
     https://www.ciaops.com
     https://github.com/directorcia
     https://www.ciaopspatron.com
-    
