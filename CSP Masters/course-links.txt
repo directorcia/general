@@ -74,18 +74,18 @@ Labs
     Event training key = 4529CF55C28B41E9
 
 Contoso retail store
-    Administrative Username	= admin@M365B457236.onmicrosoft.com
-    Administrative Password	= 
-    Tenant Name	= M365B457236.onmicrosoft.com
-    Tenant Prefix = M365B457236
-    User Password =	
+    Administrative Username	= admin@M365B271788.onmicrosoft.com
+    Administrative Password	= N#iWp#4O3luT3^6#
+    Tenant Name	= M365B271788.onmicrosoft.com
+    Tenant Prefix = M365B271788
+    User Password =	I^aYc+9T2zmO4^2^
 
 Adventure Works Cycles
-    Administrative Username	= admin@M365B454437.onmicrosoft.com
-    Administrative Password	= 
-    Tenant Name	= M365B454437.onmicrosoft.com
-    Tenant Prefix =	M365B454437
-    User Password = 
+    Administrative Username	= admin@M365B744967.onmicrosoft.com
+    Administrative Password	= 9Eh(3^eMr+9IQ(k4
+    Tenant Name	= M365B744967.onmicrosoft.com
+    Tenant Prefix =	M365B744967
+    User Password = 9Kb(9+tNh%5GR(f6
 
 Lab VM
     Username = Admin
