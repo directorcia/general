@@ -1,6 +1,6 @@
 Source
     https://github.com/directorcia/general/blob/master/SMB%20Masters/course-links.txt
-    https://bit.ly/ciaopscspmasters
+    https://bit.ly/ciacspmasters
     https://aka.ms/smbpractice
 
 CDX
