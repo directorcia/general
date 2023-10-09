@@ -71,7 +71,7 @@ Module 05 - Modern work
 
 Labs
     https://microsoftevents.learnondemand.net
-    Event training key = 
+    Event training key = 4529CF55C28B41E9
 
 Contoso retail store
     Administrative Username	= admin@M365B457236.onmicrosoft.com
