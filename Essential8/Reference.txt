@@ -13,3 +13,4 @@ https://desktop.gov.au/blueprint/office-365.html
 https://www.microsoft.com/en-au/business/topic/security/essential-eight/
 https://learn.microsoft.com/en-us/security/benchmark/azure/
 https://github.com/directorcia/Office365/blob/master/best-practices.txt
+https://m365maps.com/files/Essential-8.htm
