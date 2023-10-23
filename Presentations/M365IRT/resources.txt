@@ -1,0 +1,2 @@
+Microsoft Defender for Endpoint now stops human-operated attacks on its own - https://www.microsoft.com/en-us/security/blog/2023/10/11/microsoft-defender-for-endpoint-now-stops-human-operated-attacks-on-its-own/
+Phishing investigation - https://learn.microsoft.com/en-us/security/operations/incident-response-playbook-phishing
