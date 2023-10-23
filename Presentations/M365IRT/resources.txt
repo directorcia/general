@@ -6,3 +6,8 @@ Tools
 -----
 Powershell Digital Forensics & Incident Response (DFIR) - https://github.com/Bert-JanP/Incident-Response-Powershell
 Getting started with the Microsoft-Extractor-Suite - https://github.com/invictus-ir/Microsoft-Extractor-Suite
+
+Automation
+----------
+M365 Defender Automation - https://github.com/sebmolendijk/GraphM365DConnector
+
