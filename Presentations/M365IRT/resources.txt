@@ -1,7 +1,3 @@
-Responding to your first incident in Microsoft 365 Defender - https://learn.microsoft.com/en-us/microsoft-365/security/defender/respond-first-incident-365-defender?view=o365-worldwide
-Microsoft Defender for Endpoint now stops human-operated attacks on its own - https://www.microsoft.com/en-us/security/blog/2023/10/11/microsoft-defender-for-endpoint-now-stops-human-operated-attacks-on-its-own/
-Phishing investigation - https://learn.microsoft.com/en-us/security/operations/incident-response-playbook-phishing
-
 Tools
 -----
 Powershell Digital Forensics & Incident Response (DFIR) - https://github.com/Bert-JanP/Incident-Response-Powershell
@@ -11,3 +7,57 @@ Automation
 ----------
 M365 Defender Automation - https://github.com/sebmolendijk/GraphM365DConnector
 
+Before
+------
+Incident response plan - https://www.cyber.gov.au/acsc/view-all-content/glossary/incident-response-plan
+Incident response training - https://www.cisa.gov/incident-response-training
+Cyber incident management plan - https://www.vic.gov.au/cyber-incident-Management-Plan
+Incident response with Microsoft 365 Defender - https://learn.microsoft.com/en-us/microsoft-365/security/defender/incidents-overview?view=o365-worldwide
+Incident response overview - https://learn.microsoft.com/en-us/security/compass/incident-response-overview
+Incident response playbooks - https://learn.microsoft.com/en-us/security/compass/incident-response-playbooks
+Phishing investigation - https://learn.microsoft.com/en-us/security/compass/incident-response-playbook-phishing
+Incident response planning - https://learn.microsoft.com/en-us/security/compass/incident-response-planning
+Incident response process - https://learn.microsoft.com/en-us/security/compass/incident-response-process
+Incident response Reference Guide - https://www.microsoft.com/en-us/download/details.aspx?id=103148
+NIST Computer Security Incident Handling Guide - https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf
+Azure Active Directory security operations guide - https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction
+HAWK - https://github.com/Canthv0/hawk
+Implementing the Lessons Learned From a Major Cyber Attack - https://www.youtube.com/watch?v=wQ8HIjkEe9o
+CIAOPS cyber protection model - https://blog.ciaops.com/2020/12/06/ciaops-cyber-protection-model-update/
+Intelligence not information - https://blog.ciaops.com/2021/10/05/intelligence-not-information/
+Microsoft Defender for Endpoint now stops human-operated attacks on its own - https://www.microsoft.com/en-us/security/blog/2023/10/11/microsoft-defender-for-endpoint-now-stops-human-operated-attacks-on-its-own/
+
+During
+------
+Responding to your first incident in Microsoft 365 Defender - https://learn.microsoft.com/en-us/microsoft-365/security/defender/respond-first-incident-365-defender?view=o365-worldwide
+Export Unified audit log - https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-export-records?view=o365-worldwide
+Search Unified audit log - https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-search-script?view=o365-worldwide
+Auditing M365 user logins - https://blog.ciaops.com/2018/09/11/auditing-office-365-user-logins-via-powershell/
+Script - https://github.com/directorcia/Office365/blob/master/o365-login-audit.ps1
+AIR - https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/air-about?view=o365-worldwide
+What alert policies trigger automated investigations? - https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/air-about?view=o365-worldwide#which-alert-policies-trigger-automated-investigations
+Disable user script - https://github.com/directorcia/Office365/blob/master/o365-user-off.ps1
+Collect investigation package from devices - https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/respond-machine-alerts?view=o365-worldwide#collect-investigation-package-from-devices
+Threat investigation and response - https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/office-365-ti?view=o365-worldwide
+Incident investigations in Microsoft Defender for Endpoint - https://www.youtube.com/watch?v=Jvbp43RjkDo
+Investigate incidents in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/investigate-incidents?view=o365-worldwide
+SANS Incident Handler's Handbook - https://www.sans.org/white-papers/33901/
+Computer Security Incident Handling Guide - https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
+Phishing investigation - https://learn.microsoft.com/en-us/security/operations/incident-response-playbook-phishing
+
+After
+-----
+Report a data breach - https://www.oaic.gov.au/privacy/notifiable-data-breaches/report-a-data-breach
+Audit log search - https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-search?view=o365-worldwide#audited-activities
+Search Audit log using PowerShell - https://learn.microsoft.com/en-us/microsoft-365/compliance/audit-log-search-script?view=o365-worldwide
+Search Audit log script - https://github.com/directorcia/Office365/blob/master/o365-login-audit.ps1
+Advanced hunting queries for Microsoft Threat Protection - https://github.com/microsoft/MTP-AHQ
+MDATP Advanced hunting sample queries - https://github.com/microsoft/windowsdefenderatp-hunting-queries
+Advanced hunting query best practices  - https://docs.microsoft.com/en-us/microsoft-365/security/defender/advanced-hunting-best-practices?view=o365-worldwide
+https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries
+https://github.com/Azure/Azure-Sentinel
+Azure Identity Protection - https://www.youtube.com/watch?v=8AQQrSCrLMI
+PIM - https://www.youtube.com/watch?v=JiVcCLY1jh0
+Identity governance - https://www.youtube.com/watch?v=VzEn_7Kkv38
+Good UAL Hunting - https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/good-ual-hunting/ba-p/3718421
+Forensic artifacts in Office 365 and where to find them - https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/forensic-artifacts-in-office-365-and-where-to-find-them/ba-p/3634865

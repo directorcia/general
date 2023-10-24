@@ -73,28 +73,6 @@ Labs
     https://microsoftevents.learnondemand.net
     Event training key = 0F77C71D2B7E41D1
 
-Contoso retail store:
-
-Username: admin@M365B457236.onmicrosoft.com
-Password: 0n~g7GST#(Ah2+c0
-Adventure Works:
-
-Username: admin@M365B454437.onmicrosoft.com
-Password: fL2a+EjTv78#4Z++
-
-Member	Team member username	Password	Role
-1	PattiF@M365B457236.onmicrosoft.com	3i#e5RGP;%Yt7^s2	User
-2	NestorW@M365B457236.onmicrosoft.com	3i#e5RGP;%Yt7^s2	Global Administrator
-3	IsaiahL@M365B457236.onmicrosoft.com	3i#e5RGP;%Yt7^s2	Global Administrator
-4	LidiaH@M365B457236.onmicrosoft.com	3i#e5RGP;%Yt7^s2	Global Administrator
-Adventure Works Cycles:
-
-Member	Team member username	Password	Role
-1	PattiF@M365B454437.onmicrosoft.com	fV6d%ItWj38^5N++	User
-2	NestorW@M365B454437.onmicrosoft.com	fV6d%ItWj38^5N++	Global Administrator
-3	IsaiahL@M365B454437.onmicrosoft.com	fV6d%ItWj38^5N++	Global Administrator
-4	LidiaH@M365B454437.onmicrosoft.com	fV6d%ItWj38^5N++	Global Administrator
-
 Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EozVVXpUAMRKluJLa05Cpl0Bi9oru-P9g6cM4UxtlTEA9w?e=Z7qfjG
 
 Instructor
