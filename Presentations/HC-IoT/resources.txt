@@ -1,0 +1,29 @@
+IDE
+------
+Arduino - https://www.arduino.cc/en/software
+Visual Studio code - https://code.visualstudio.com/Download
+PlatformIO extension - https://docs.platformio.org/en/latest/integration/ide/vscode.html
+Azure IoT device SDK for C - https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-device-sdk-c-intro
+https://github.com/Azure/azure-iot-sdk-c
+
+Boards
+------
+SparkFun Thing Plus - ESP32-S2 WROOM - https://core-electronics.com.au/sparkfun-thing-plus-esp32-s2-wroom.html
+Adafruit Feather HUZZAH with ESP8266 WiFi - https://core-electronics.com.au/adafruit-feather-huzzah-with-esp8266-wifi.html
+Microsoft Azure IoT Starter Kit w/ Adafruit Feather HUZZAH - https://core-electronics.com.au/microsoft-azure-iot-starter-kit-w-adafruit-feather-huzzah.html
+
+Portals
+-------
+Adafruit IO - https://io.adafruit.com/
+Azure IoT Central - https://apps.azureiotcentral.com/home
+Azure IoT Hub - https://learn.microsoft.com/en-us/azure/iot-hub/
+Azure IoT Hub Event Grid - https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-event-grid
+
+Suppliers
+---------
+Core Electronics - https://core-electronics.com.au/
+Little Bird - https://littlebirdelectronics.com.au/
+
+Tools
+-----
+Azure IoT explorer - IoT explorer - https://github.com/Azure/azure-iot-explorer/releases
