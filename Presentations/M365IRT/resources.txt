@@ -44,6 +44,8 @@ Investigate incidents in Microsoft Defender for Endpoint - https://learn.microso
 SANS Incident Handler's Handbook - https://www.sans.org/white-papers/33901/
 Computer Security Incident Handling Guide - https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
 Phishing investigation - https://learn.microsoft.com/en-us/security/operations/incident-response-playbook-phishing
+Sentinel Entra ID quieries - https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Azure%20Active%20Directory/Analytic%20Rules
+Sentinel solutions - https://github.com/Azure/Azure-Sentinel/tree/b38422b9d207a637e816381accd7312195e581b9/Solutions
 
 After
 -----
