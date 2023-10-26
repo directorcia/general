@@ -7,6 +7,13 @@ Automation
 ----------
 M365 Defender Automation - https://github.com/sebmolendijk/GraphM365DConnector
 
+Regulation
+----------
+Government - https://www.cyber.gov.au/acsc/view-all-content/news/joint-advisory-released-managed-service-providers-and-customers-mitigate-cybersecurity-risks
+Privacy act - https://www.oaic.gov.au/privacy/the-privacy-act
+Privacy act - https://www.legislation.gov.au/Details/C2022C00361 [6D  Small business and small business operators]
+OAIC puts MSPs on notice - https://www.crn.com.au/news/oaic-puts-msps-on-notice-over-data-breach-reporting-560390
+
 Before
 ------
 Incident response plan - https://www.cyber.gov.au/acsc/view-all-content/glossary/incident-response-plan
@@ -26,6 +33,7 @@ Implementing the Lessons Learned From a Major Cyber Attack - https://www.youtube
 CIAOPS cyber protection model - https://blog.ciaops.com/2020/12/06/ciaops-cyber-protection-model-update/
 Intelligence not information - https://blog.ciaops.com/2021/10/05/intelligence-not-information/
 Microsoft Defender for Endpoint now stops human-operated attacks on its own - https://www.microsoft.com/en-us/security/blog/2023/10/11/microsoft-defender-for-endpoint-now-stops-human-operated-attacks-on-its-own/
+Expanding Audit and logging - https://www.microsoft.com/en-us/security/blog/2023/10/18/expanding-audit-logging-and-retention-within-microsoft-purview-for-increased-security-visibility/
 
 During
 ------
