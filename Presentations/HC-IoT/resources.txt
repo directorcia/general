@@ -27,3 +27,8 @@ Little Bird - https://littlebirdelectronics.com.au/
 Tools
 -----
 Azure IoT explorer - IoT explorer - https://github.com/Azure/azure-iot-explorer/releases
+Pick a brick - https://www.lego.com/en-au/pick-and-build/pick-a-brick
+
+Other
+-----
+Mark Rober - https://www.youtube.com/@MarkRober
