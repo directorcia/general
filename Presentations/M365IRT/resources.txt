@@ -34,6 +34,9 @@ CIAOPS cyber protection model - https://blog.ciaops.com/2020/12/06/ciaops-cyber-
 Intelligence not information - https://blog.ciaops.com/2021/10/05/intelligence-not-information/
 Microsoft Defender for Endpoint now stops human-operated attacks on its own - https://www.microsoft.com/en-us/security/blog/2023/10/11/microsoft-defender-for-endpoint-now-stops-human-operated-attacks-on-its-own/
 Expanding Audit and logging - https://www.microsoft.com/en-us/security/blog/2023/10/18/expanding-audit-logging-and-retention-within-microsoft-purview-for-increased-security-visibility/
+Microsoft Entra Data Retention - https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/reference-reports-data-retention
+Manage mailbox auditing - https://learn.microsoft.com/en-us/purview/audit-mailboxes
+
 
 During
 ------
