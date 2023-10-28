@@ -37,7 +37,6 @@ Expanding Audit and logging - https://www.microsoft.com/en-us/security/blog/2023
 Microsoft Entra Data Retention - https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/reference-reports-data-retention
 Manage mailbox auditing - https://learn.microsoft.com/en-us/purview/audit-mailboxes
 
-
 During
 ------
 Responding to your first incident in Microsoft 365 Defender - https://learn.microsoft.com/en-us/microsoft-365/security/defender/respond-first-incident-365-defender?view=o365-worldwide
