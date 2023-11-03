@@ -27,3 +27,4 @@ Incident investigations in Microsoft Defender for Endpoint - https://www.youtube
 Investigate incidents in Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/investigate-incidents?view=o365-worldwide
 SANS Incident Handler's Handbook - https://www.sans.org/white-papers/33901/
 Computer Security Incident Handling Guide - https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
+Microsoft Defender for Endpoint curated list of resources for DFIR - https://github.com/cyb3rmik3/MDE-DFIR-Resources#microsoft-defender-for-endpoint-curated-list-of-resources-for-dfir
