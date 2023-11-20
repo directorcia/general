@@ -1,0 +1,27 @@
+Source
+    https://github.com/directorcia/general/blob/master/CSP%20Masters/sales-course-links.txt
+    https://bit.ly/
+    https://aka.ms/smbpractice
+
+Module 01 - Intro and Tools
+    Microsoft 365 and Office 365 service descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library
+    Microsoft 365 SMB plan comparison - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM
+    Microsoft 365 maps - https://m365maps.com/
+    Microsoft 365 Roadmap - https://www.microsoft.com/en-us/microsoft-365/roadmap
+    Microsoft 365 Business Premium Partner Playbook and Readiness Series - https://cloudpartners.transform.microsoft.com/m365bp-partner-playbook
+    Micosoft 365 setup and deployment - https://setup.microsoft.com/
+    Accelerate your CSP business with security managed services - https://aka.ms/smbmanagedservices
+    Microsoft 365 Business Premium partner kit https://aka.ms/m365bppartnerplaybook
+    Microsoft Defender for Business partner kit - https://aka.ms/mdbpartnerkit
+    How great leaders inspire action | Simon Sinek - https://www.youtube.com/watch?v=qp0HIF3SfI4
+
+
+Module 02 - Microsoft 365 Business Premium
+
+Module 03 - Seamless Security
+    Tradies frustrated by banks as business email scam costs them $51,000 - https://www.abc.net.au/news/2020-11-24/business-email-scam-tradies-computer-hacked-costs-51000/12817584
+    Cyber attacks on Australian businesses on the rise but experts not blaming state actors - https://www.abc.net.au/news/2020-05-15/cyber-attacks-australian-businesses-increasing-not-state-actors/12253842
+    Warnings about evolving cyber threats after hackers steal $1.2 million from Grafton family business - https://www.abc.net.au/news/2023-10-15/cyber-threats-hackers-steal-million-dollars-small-business/102789994
+    Scammers take over photographer's Facebook account, prompting cyber security warning - https://www.abc.net.au/news/2023-10-19/scam-qld-photographer-social-media-accounts-facebook-tactic/102990686
+    
+    
