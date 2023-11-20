@@ -23,5 +23,7 @@ Module 03 - Seamless Security
     Cyber attacks on Australian businesses on the rise but experts not blaming state actors - https://www.abc.net.au/news/2020-05-15/cyber-attacks-australian-businesses-increasing-not-state-actors/12253842
     Warnings about evolving cyber threats after hackers steal $1.2 million from Grafton family business - https://www.abc.net.au/news/2023-10-15/cyber-threats-hackers-steal-million-dollars-small-business/102789994
     Scammers take over photographer's Facebook account, prompting cyber security warning - https://www.abc.net.au/news/2023-10-19/scam-qld-photographer-social-media-accounts-facebook-tactic/102990686
+    10 essential insights from the Microsoft Digital Defense Report 2023 - https://www.microsoft.com/en-us/security/business/security-insider/reports/microsoft-digital-defense-reports/10-essential-insights-from-the-microsoft-digital-defense-report-2023/
+    What is Security Copilot - https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot
     
     
