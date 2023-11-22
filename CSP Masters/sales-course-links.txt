@@ -3,7 +3,9 @@ Source
     https://bit.ly/
     https://aka.ms/smbpractice
 
-Module 01 - Intro and Tools
+Module 01 - Introduction
+
+Module 02 - Overview
     Microsoft 365 and Office 365 service descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library
     Microsoft 365 SMB plan comparison - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM
     Microsoft 365 maps - https://m365maps.com/
@@ -15,15 +17,49 @@ Module 01 - Intro and Tools
     Microsoft Defender for Business partner kit - https://aka.ms/mdbpartnerkit
     How great leaders inspire action | Simon Sinek - https://www.youtube.com/watch?v=qp0HIF3SfI4
 
+Module 03 - Modern Workplace
+    Microsoft Worklab - https://www.microsoft.com/en-us/worklab/
+    Microsoft adoption - https://adoption.microsoft.com/en-us/
+    Productivity Library - https://www.microsoft.com/en-us/microsoft-365/success/
+    Modern workplace training - https://support.office.com/en-us/modernworkplace
+    Office 365 training center - https://support.office.com/office-training-center
 
-Module 02 - Microsoft 365 Business Premium
-
-Module 03 - Seamless Security
+Module 04 - Seamless Security
+    Sectest - https://github.com/directorcia/Office365/blob/master/sec-test.ps1
     Tradies frustrated by banks as business email scam costs them $51,000 - https://www.abc.net.au/news/2020-11-24/business-email-scam-tradies-computer-hacked-costs-51000/12817584
     Cyber attacks on Australian businesses on the rise but experts not blaming state actors - https://www.abc.net.au/news/2020-05-15/cyber-attacks-australian-businesses-increasing-not-state-actors/12253842
     Warnings about evolving cyber threats after hackers steal $1.2 million from Grafton family business - https://www.abc.net.au/news/2023-10-15/cyber-threats-hackers-steal-million-dollars-small-business/102789994
     Scammers take over photographer's Facebook account, prompting cyber security warning - https://www.abc.net.au/news/2023-10-19/scam-qld-photographer-social-media-accounts-facebook-tactic/102990686
     10 essential insights from the Microsoft Digital Defense Report 2023 - https://www.microsoft.com/en-us/security/business/security-insider/reports/microsoft-digital-defense-reports/10-essential-insights-from-the-microsoft-digital-defense-report-2023/
     What is Security Copilot - https://learn.microsoft.com/en-us/security-copilot/microsoft-security-copilot
+    Microsoft MDB Partner kit - https://aka.ms/mdbpartnerkit
+
+Module 05 - Power Platform
+    Automate a business process using Microsoft Flow - https://docs.microsoft.com/en-us/learn/paths/automate-process-using-flow/
+    Getting started with Microsoft Flow - https://docs.microsoft.com/en-us/flow/getting-started
+    Community  Power Automate Cookbook - https://powerusers.microsoft.com/t5/Power-Automate-Cookbook/bd-p/MPA_Cookbook
+    Get started with Power Pages tutorials - https://learn.microsoft.com/en-us/power-pages/getting-started/tutorial-overview
+    Get started with Power BI - https://learn.microsoft.com/en-us/training/paths/get-started-power-bi/
+    Microsoft Copilot Studio - https://learn.microsoft.com/en-us/microsoft-copilot-studio/quickstart-preview
+
+Module 06 - Automation and AI
+    The AI-Powered Future of Work - https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot
+    Get AI-ready with Microsoft 365 - https://cloudpartners.transform.microsoft.com/partner-gtm/csp?tab=get-ai-ready
+    Copilot for Microsoft 365 - https://adoption.microsoft.com/copilot
+    How to prepare for Microsoft 365 Copilot - https://techcommunity.microsoft.com/t5/microsoft-365-copilot/how-to-prepare-for-microsoft-365-copilot/ba-p/3851566
+    Microsoft 365 Copilot - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/microsoft-365-copilot
+    Microsoft Security Copilot - https://learn.microsoft.com/en-us/security-copilot/
+    Microsoft Security Copilot Demo: Defend at Machine Speed - https://www.youtube.com/watch?v=psWW3g1CJvY
+    Ten things you need to know before buying Microsoft 365 Copilot - https://www.directionsonmicrosoft.com/blog/ten-things-you-need-to-know-before-buying-microsoft-365-copilot/
+    Copilot for work - https://www.microsoft.com/en-us/microsoft-365/copilot-for-work
+
+Module 07 - Microsoft workshops
+    Microsoft Partner Center help - https://partner.microsoft.com/en-us/support/partner-center-help 
+    Support - support@transform.microsoft.com
+    Home - https://transform.Microsoft.com
+    Admin consent - https://aka.ms/cdxadminconsent
+    User connset - https://aka.ms/cdxuserconsent
     
-    
+Robert Crane
+Linkedin - http://www.linkedin.com/in/ciaops
+GitHub - https://www.github.com/directorcia
