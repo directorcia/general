@@ -1,6 +1,6 @@
 Source
     https://github.com/directorcia/general/blob/master/CSP%20Masters/sales-course-links.txt
-    https://bit.ly/
+    https://bit.ly/ciacspsales
     https://aka.ms/smbpractice
 
 Module 01 - Introduction
