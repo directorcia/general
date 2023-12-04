@@ -1,9 +1,7 @@
-{
-    "createdDateTime": "\/Date(1701660452905)\/",
+{,
     "creationSource": null,
     "description": "",
-    "lastModifiedDateTime": "\/Date(1701660452905)\/",
-    "displayName": "Windows 10 ASR Policy",
+    "name": "Windows 10 ASR Policy",
     "platforms": "windows10",
     "priorityMetaData": null,
     "roleScopeTagIds": [
