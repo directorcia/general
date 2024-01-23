@@ -5,7 +5,7 @@ https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365
 https://copilot.cloud.microsoft/prompts - Copilot prompt lab
 https://aka.ms/copilot-impact - Microsoft Copilot dashboard
 https://copilot.cloud.microsoft/en-US/prompts?ocid=CopilotLab_M365Chatofficeweb - Copilot lab
-
+https://blog.ciaops.com/2024/01/17/adding-copilot-button-to-desktop-applications/ - Adding Copilot button to desktop applications
 https://aka.ms/m365copilotmechanics
 
 Frequently asked questions about Copilot - https://learn.microsoft.com/en-us/copilot/faq
