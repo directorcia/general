@@ -4,6 +4,7 @@ https://adoption-dev.azurewebsites.net/en-us/copilot/smb/ - Copilot for Microsof
 https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365 - Microsoft Copilot for Microsoft 365
 https://copilot.cloud.microsoft/prompts - Copilot prompt lab
 https://aka.ms/copilot-impact - Microsoft Copilot dashboard
+https://copilot.cloud.microsoft/en-US/prompts?ocid=CopilotLab_M365Chatofficeweb - Copilot lab
 
 https://aka.ms/m365copilotmechanics
 
