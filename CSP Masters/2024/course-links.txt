@@ -32,7 +32,7 @@ M365 Lighthouse
     Feedback - https://aka.ms/m365lighthousefeedback  
 
 Security
-    Sectest - https://github.com/directorcia/Office365/blob/master/sec-test.ps1
+    Sectest - https://github.com/directorcia/examples/blob/main/sec-test.ps1
     Elevate your Endpoint security with Microsoft Defender for Business - https://mslearn.cloudguides.com/en-us/guides/Elevate%20your%20endpoint%20security%20with%20Microsoft%20Defender%20for%20Business
     Get started with Microsoft Defender for Business - https://mslearn.cloudguides.com/en-us/guides/Get%20started%20with%20Microsoft%20Defender%20for%20Business
     MDB Partner kit - https://cloudpartners.transform.microsoft.com/products/ms-defender-for-business
