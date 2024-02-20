@@ -1,6 +1,6 @@
 Source
-    https://github.com/directorcia/general/blob/master/SMB%20Masters/course-links.txt
-    https://bit.ly/ciacspmasters
+    https://github.com/directorcia/general/tree/master/CSP%20Masters/2024
+    https://bit.ly/ciacspmasters2024
     https://aka.ms/smbpractice
 
 CDX
@@ -10,7 +10,7 @@ CDX
     Admin consent - https://aka.ms/cdxadminconsent
     User connset - https://aka.ms/cdxuserconsent
 
-Module 01 - Intro and Tools
+Intro and Tools
     Microsoft 365 and Office 365 service descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library
     Microsoft 365 SMB plan comparison - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWR6bM
     Microsoft 365 maps - https://m365maps.com/
@@ -31,7 +31,7 @@ M365 Lighthouse
     Onboard - https://aka.ms/m365lighthouseonboard 
     Feedback - https://aka.ms/m365lighthousefeedback  
 
-Module 02 - Security
+Security
     Sectest - https://github.com/directorcia/Office365/blob/master/sec-test.ps1
     Elevate your Endpoint security with Microsoft Defender for Business - https://mslearn.cloudguides.com/en-us/guides/Elevate%20your%20endpoint%20security%20with%20Microsoft%20Defender%20for%20Business
     Get started with Microsoft Defender for Business - https://mslearn.cloudguides.com/en-us/guides/Get%20started%20with%20Microsoft%20Defender%20for%20Business
@@ -39,10 +39,10 @@ Module 02 - Security
     Practical guide to security using Microsoft 365 Business (Basic, Standard, and Premium) - https://aka.ms/smbsecurityguide
     Checklist for security with Microsoft 365 Business Premium - https://aka.ms/smbsecuritychecklist
 
-Module 03 - Windows 365
+Windows 365
     Steps to Deploy W365 - https://regale.cloud/Microsoft/viewer/1600/index.html#/0/0
 
-Module 04 - Endpoint Management
+Endpoint Management
 	Configure and Protect BYOD: Admin - https://regale.cloud/Microsoft/viewer/1547/index.html#/0/0
 	Configure and Protect BYOD: User - https://regale.cloud/Microsoft/viewer/1601/index.html#/0/0
 	Configure and Protect corporate owned devices - https://regale.cloud/Microsoft/viewer/1575/index.html#/0/0
@@ -50,7 +50,7 @@ Module 04 - Endpoint Management
 	Windows Autopilot: OOBE - https://regale.cloud/Microsoft/viewer/1550/index.html#/0/0
     Modern Device Management with Microsoft 365 Business Premium - https://blog.ciaops.com/2020/09/26/modern-device-management-with-microsoft-365-business-premium-part-1/
 
-Module 05 - Modern work
+Modern work
 	Microsoft Teams Policies - https://regale.cloud/Microsoft/viewer/1537/index.html#/0/0
 	Microsoft Teams App Management - https://regale.cloud/Microsoft/viewer/1552/index.html#/0/0
 	Microsoft Teams Business store - https://regale.cloud/Microsoft/viewer/1555/index.html#/0/0
@@ -69,11 +69,20 @@ Module 05 - Modern work
     Teams Voice Solutions Architecture Poster - https://learn.microsoft.com/en-us/microsoftteams/teams-architecture-solutions-posters#microsoft-voice-solutions
     Demo: Teams in Classroom at Microsoft Inspire 2019 - https://www.youtube.com/watch?v=NcbQ2UK69Tc
 
-Labs
-    https://microsoftevents.learnondemand.net
-    Event training key = 
+Copilot for Microsoft 365
+   	https://youtube.com/playlist?list=PLXtHYVsvn_b_t2dNsM86jUHpzlL0RlCF8&si=b7Xk3B1adneswatS - How Microsoft Copilot for Microsoft 365 works
+	https://www.youtube.com/watch?v=3Nb0FEe3kKw - How Microsoft 365 Copilot works BRK256 Ignite 2023
+   	Copilot in Teams | Get meeting overviews - https://www.youtube.com/watch?v=UNQeA2uqNPA
+    Copilot in Teams and Intelligent recap | After the meeting - https://www.youtube.com/watch?v=rLC2frnUasw
+    AI in a minute - https://www.youtube.com/playlist?list=PL8nfc9haGeb5V9srRhkEyAqLvvwsWCXAk
+    AI readiness assessment - https://aka.ms/CopilotM365assessment
 
-Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EozVVXpUAMRKluJLa05Cpl0Bi9oru-P9g6cM4UxtlTEA9w?e=Z7qfjG
+Copilot for Security
+	https://www.youtube.com/watch?v=_B7hNusXHqI - Watch Security Copilot in action
+	https://www.youtube.com/watch?v=QV1Q5X6P8yM - Microsoft Intune and Security Copilot - Policy Generation 
+	https://www.youtube.com/watch?v=4atFroJw28I - Microsoft Intune and Security Copilot - Troubleshooting
+https://www.youtube.com/watch?v=psWW3g1CJvY - Microsoft Security Copilot Demo: Defend at Machine Speed 
+
 
 Instructor
     Robert Crane
