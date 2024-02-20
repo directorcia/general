@@ -70,19 +70,20 @@ Modern work
     Demo: Teams in Classroom at Microsoft Inspire 2019 - https://www.youtube.com/watch?v=NcbQ2UK69Tc
 
 Copilot for Microsoft 365
-   	https://youtube.com/playlist?list=PLXtHYVsvn_b_t2dNsM86jUHpzlL0RlCF8&si=b7Xk3B1adneswatS - How Microsoft Copilot for Microsoft 365 works
-	https://www.youtube.com/watch?v=3Nb0FEe3kKw - How Microsoft 365 Copilot works BRK256 Ignite 2023
+    Semantic Index for Copilot: Explained by Microsoft - https://www.youtube.com/watch?v=KtsVRCsdvoU
+    The Copilot System: Explained by Microsoft - https://www.youtube.com/watch?v=E5g20qmeKpg
+   	How Microsoft Copilot for Microsoft 365 works - https://youtube.com/playlist?list=PLXtHYVsvn_b_t2dNsM86jUHpzlL0RlCF8&si=b7Xk3B1adneswatS
+	How Microsoft 365 Copilot works BRK256 Ignite 2023 - https://www.youtube.com/watch?v=3Nb0FEe3kKw
    	Copilot in Teams | Get meeting overviews - https://www.youtube.com/watch?v=UNQeA2uqNPA
     Copilot in Teams and Intelligent recap | After the meeting - https://www.youtube.com/watch?v=rLC2frnUasw
     AI in a minute - https://www.youtube.com/playlist?list=PL8nfc9haGeb5V9srRhkEyAqLvvwsWCXAk
     AI readiness assessment - https://aka.ms/CopilotM365assessment
 
 Copilot for Security
-	https://www.youtube.com/watch?v=_B7hNusXHqI - Watch Security Copilot in action
-	https://www.youtube.com/watch?v=QV1Q5X6P8yM - Microsoft Intune and Security Copilot - Policy Generation 
-	https://www.youtube.com/watch?v=4atFroJw28I - Microsoft Intune and Security Copilot - Troubleshooting
-https://www.youtube.com/watch?v=psWW3g1CJvY - Microsoft Security Copilot Demo: Defend at Machine Speed 
-
+	Watch Security Copilot in action - https://www.youtube.com/watch?v=_B7hNusXHqI
+	Microsoft Intune and Security Copilot - Policy Generation - https://www.youtube.com/watch?v=QV1Q5X6P8yM 
+	Microsoft Intune and Security Copilot - Troubleshooting - https://www.youtube.com/watch?v=4atFroJw28I
+    Microsoft Security Copilot Demo: Defend at Machine Speed - https://www.youtube.com/watch?v=psWW3g1CJvY
 
 Instructor
     Robert Crane
