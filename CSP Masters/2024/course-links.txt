@@ -38,6 +38,9 @@ Security
     MDB Partner kit - https://cloudpartners.transform.microsoft.com/products/ms-defender-for-business
     Practical guide to security using Microsoft 365 Business (Basic, Standard, and Premium) - https://aka.ms/smbsecurityguide
     Checklist for security with Microsoft 365 Business Premium - https://aka.ms/smbsecuritychecklist
+    ASD’s Blueprint for Secure Cloud - https://blueprint.asd.gov.au/
+    Scuba - https://www.cisa.gov/scuba
+    Scuba repo - https://github.com/cisagov/ScubaGear
 
 Windows 365
     Steps to Deploy W365 - https://regale.cloud/Microsoft/viewer/1600/index.html#/0/0
