@@ -1,8 +1,45 @@
 Copilot partner resources
 --------------------------
 
+Source
+    https://github.com/directorcia/general/tree/master/Presentations/Copilot/Partners
+    https://bit.ly/cia-copilotpartners
+
 https://cloudpartners.transform.microsoft.com/partner-gtm/csp?tab=get-ai-ready - Get AI-ready with Microsoft 365
 
 https://cloudpartners.transform.microsoft.com/partner-gtm/csp?tab=build-ai-solutions - Build AI solutions with Microsoft 365
 
+https://www.youtube.com/watch?v=KtsVRCsdvoU - Semantic Index for Copilot: Explained by Microsoft
+https://www.youtube.com/watch?v=E5g20qmeKpg - The Copilot System: Explained by Microsoft
+https://youtube.com/playlist?list=PLXtHYVsvn_b_t2dNsM86jUHpzlL0RlCF8&si=b7Xk3B1adneswatS - How Microsoft Copilot for Microsoft 365 works
+https://www.youtube.com/watch?v=3Nb0FEe3kKw - How Microsoft 365 Copilot works BRK256 Ignite 2023
+
+https://support.microsoft.com/en-us/copilot-pro - Copilot Pro
+https://adoption.microsoft.com/en-us/copilot/ - Copilot for Microsoft 365
+https://adoption-dev.azurewebsites.net/en-us/copilot/smb/ - Copilot for Microsoft 365 for small and medium businesses
+https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365 - Microsoft Copilot for Microsoft 365
+https://copilot.cloud.microsoft/prompts - Copilot prompt lab
+https://aka.ms/copilot-impact - Microsoft Copilot dashboard
+https://copilot.cloud.microsoft/en-US/prompts?ocid=CopilotLab_M365Chatofficeweb - Copilot lab
+https://blog.ciaops.com/2024/01/17/adding-copilot-button-to-desktop-applications/ - Adding Copilot button to desktop applications
+https://aka.ms/m365copilotmechanics
+
+https://www.youtube.com/watch?v=UNQeA2uqNPA - Copilot in Teams | Get meeting overviews
+	
+https://www.youtube.com/watch?v=rLC2frnUasw - Copilot in Teams and Intelligent recap | After the meeting
+
+https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/12/04/introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai/ - AI in a minute series
+https://www.youtube.com/playlist?list=PL8nfc9haGeb5V9srRhkEyAqLvvwsWCXAk - Ai in a minute playlist
+
 https://aka.ms/CopilotM365assessment - AI Readiness assessment
+
+Security Copilot
+	https://www.youtube.com/watch?v=_B7hNusXHqI - Watch Microsoft Security Copilot in action
+	https://www.youtube.com/watch?v=QV1Q5X6P8yM - Microsoft Intune and Security Copilot - Policy Generation
+	https://www.youtube.com/watch?v=4atFroJw28I - Microsoft Intune and Security Copilot - Troubleshooting
+	https://www.youtube.com/watch?v=psWW3g1CJvY&t=3s - Microsoft Security Copilot Demo: Defend at Machine Speed
+
+Created by
+    Robert Crane
+    https://www.ciaops.com
+    https://github.com/directorcia
