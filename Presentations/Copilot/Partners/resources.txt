@@ -14,6 +14,15 @@ https://www.youtube.com/watch?v=E5g20qmeKpg - The Copilot System: Explained by M
 https://youtube.com/playlist?list=PLXtHYVsvn_b_t2dNsM86jUHpzlL0RlCF8&si=b7Xk3B1adneswatS - How Microsoft Copilot for Microsoft 365 works
 https://www.youtube.com/watch?v=3Nb0FEe3kKw - How Microsoft 365 Copilot works BRK256 Ignite 2023
 
+https://github.com/directorcia/general/blob/master/Presentations/Copilot/Videos/CopilotinOutlook.mp4 - Copilot in Outlook
+https://github.com/directorcia/general/blob/master/Presentations/Copilot/Videos/Copilotinteams.mp4 - Copilot in Teams Meetings
+https://github.com/directorcia/general/blob/master/Presentations/Copilot/Videos/copilotinchat.mp4 - Copilot in Chat and Loop
+https://github.com/directorcia/general/blob/master/Presentations/Copilot/Videos/copilotinexcel.mp4 - Copilot in Excel
+https://github.com/directorcia/general/blob/master/Presentations/Copilot/Videos/copilotinm365chat.mp4 - Copilot in Microsoft 365 chat
+https://github.com/directorcia/general/blob/master/Presentations/Copilot/Videos/copilotinppt.mp4 - Copilot in PowerPoint
+https://github.com/directorcia/general/blob/master/Presentations/Copilot/Videos/copilotinword.mp4 - Copilot in Word
+https://github.com/directorcia/general/blob/master/Presentations/Copilot/Videos/copilotlab.mp4 - Copilot Lab
+
 https://support.microsoft.com/en-us/copilot-pro - Copilot Pro
 https://adoption.microsoft.com/en-us/copilot/ - Copilot for Microsoft 365
 https://adoption-dev.azurewebsites.net/en-us/copilot/smb/ - Copilot for Microsoft 365 for small and medium businesses
