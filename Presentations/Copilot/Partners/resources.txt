@@ -48,6 +48,7 @@ Security Copilot
 	https://www.youtube.com/watch?v=4atFroJw28I - Microsoft Intune and Security Copilot - Troubleshooting
 	https://www.youtube.com/watch?v=psWW3g1CJvY&t=3s - Microsoft Security Copilot Demo: Defend at Machine Speed
     https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/ - Get started with Copilot for Security
+    https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/microsoft-security-copilot - Copilot for Security resources
 
 Created by
     Robert Crane
