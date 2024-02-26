@@ -12,11 +12,14 @@ https://learn.microsoft.com/en-us/copilot/faq - Frequently asked questions about
 
 https://aka.ms/CopilotM365assessment - AI Readiness assessment
 
+Training
+--------
+https://learn.microsoft.com/en-us/training/paths/prepare-your-organization-microsoft-365-copilot/ - MS-012 Prepare your organization for Copilot for Microsoft 365
+https://learn.microsoft.com/en-us/training/paths/craft-effective-prompts-copilot-microsoft-365/ - Craft effective prompts for Microsoft Copilot for Microsoft 365
 
 Security Copilot
 -----------------
 https://learn.microsoft.com/en-us/security-copilot/ - Microsoft Security Copilot
-
 
 Videos
 ------
