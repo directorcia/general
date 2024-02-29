@@ -18,6 +18,7 @@ https://learn.microsoft.com/en-us/training/paths/prepare-your-organization-micro
 https://learn.microsoft.com/en-us/training/paths/craft-effective-prompts-copilot-microsoft-365/ - Craft effective prompts for Microsoft Copilot for Microsoft 365
 https://www.youtube.com/watch?v=RRWfGrC1fao - Get your small business ready for Copilot for Microsoft 365
 https://www.youtube.com/watch?v=pwz3TFvciGA - Introduction to Copilot for Microsoft 365
+https://copilot.cloud.microsoft/en-AU/prompts - Copilot Lab
 
 Security Copilot
 -----------------
