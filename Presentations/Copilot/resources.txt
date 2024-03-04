@@ -23,6 +23,9 @@ https://copilot.cloud.microsoft/en-AU/prompts - Copilot Lab
 Security Copilot
 -----------------
 https://learn.microsoft.com/en-us/security-copilot/ - Microsoft Security Copilot
+https://www.youtube.com/watch?v=Vd_URX7aRbA - Extended user account investigation with Copilot (accelerated)
+https://www.youtube.com/watch?v=iPtb5DZOWg0 - Defender XDR embedded Copilot to standalone Copilot investigation
+https://www.youtube.com/watch?v=q1UuDnBHgK8 - Human-operated ransomware (HumOR)
 
 Videos
 ------
