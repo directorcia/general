@@ -38,14 +38,6 @@ https://www.youtube.com/watch?v=RRWfGrC1fao - Get your small business ready for 
 https://www.youtube.com/watch?v=pwz3TFvciGA - Introduction to Copilot for Microsoft 365
 https://copilot.cloud.microsoft/en-AU/prompts - Copilot Lab
 
-Security Copilot
------------------
-https://learn.microsoft.com/en-us/security-copilot/ - Microsoft Security Copilot
-https://www.youtube.com/watch?v=Vd_URX7aRbA - Extended user account investigation with Copilot (accelerated)
-https://www.youtube.com/watch?v=iPtb5DZOWg0 - Defender XDR embedded Copilot to standalone Copilot investigation
-https://www.youtube.com/watch?v=q1UuDnBHgK8 - Human-operated ransomware (HumOR)
-
-
 Copilot
 Data, Privacy, and Security for Microsoft Copilot for Microsoft 365 - https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy
 Privacy and protections - https://learn.microsoft.com/en-us/copilot/privacy-and-protections
@@ -87,6 +79,13 @@ https://www.youtube.com/watch?v=_B7hNusXHqI - Watch Security Copilot in action
 https://www.youtube.com/watch?v=QV1Q5X6P8yM - Microsoft Intune and Security Copilot - Policy Generation 
 https://www.youtube.com/watch?v=4atFroJw28I - Microsoft Intune and Security Copilot - Troubleshooting
 https://www.youtube.com/watch?v=psWW3g1CJvY - Microsoft Security Copilot Demo: Defend at Machine Speed 
+
+Security Copilot
+-----------------
+https://learn.microsoft.com/en-us/security-copilot/ - Microsoft Security Copilot
+https://www.youtube.com/watch?v=Vd_URX7aRbA - Extended user account investigation with Copilot (accelerated)
+https://www.youtube.com/watch?v=iPtb5DZOWg0 - Defender XDR embedded Copilot to standalone Copilot investigation
+https://www.youtube.com/watch?v=q1UuDnBHgK8 - Human-operated ransomware (HumOR)
 
 Robert Crane
 Linkedin - http://www.linkedin.com/in/ciaops
