@@ -1,26 +1,20 @@
 Source
-    https://github.com/directorcia/general/blob/master/CSP%20Masters/sales-course-links.txt
-    https://bit.ly/cia
+    https://github.com/directorcia/general/blob/master/CSP%20Masters/2024/Copilot/resources.txt
+    https://bit.ly/ciacspcopilot
 
-Module 1
---------
-Open AI - https://openai.com/index/sora
-Chat GPT - https://chat.openai.com/
-Perplexity - 	https://www.perplexity.ai/
-Claude - https://www.anthropic.com/claude
-Gemini - https://gemini.google.com/app
-Microsoft Copilot - https://copilot.microsoft.com
+https://aka.ms/Level-UpTechnicalAssessment - Copilot for Microsoft 365 Technical Badge
+https://aka.ms/Level-UpSalesAssessment - Copilot for Microsoft 365 Sales Badge
 
-Module 2
---------
+https://openai.com/index/sora - Sora
+https://chat.openai.com/ - Chat GPT
+https://www.perplexity.ai/ - Perplexity
+https://www.anthropic.com/claude - Claude
+https://gemini.google.com/app - Gemini
+https://copilot.microsoft.com - Microsoft Copilot
 
-Module 3
---------
+https://au.pcmag.com/ai/100020/ai-on-the-go-how-to-use-chatgpt-from-your-mobile-device- AI on the Go: How to Use ChatGPT From Your Mobile Device
 
-Module 4
---------
-
-
+https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot?tab=csp - Sell through CSP
 
 https://support.microsoft.com/en-us/copilot-pro - Copilot Pro
 https://adoption.microsoft.com/en-us/copilot/ - Copilot for Microsoft 365
@@ -51,21 +45,6 @@ https://www.youtube.com/watch?v=Vd_URX7aRbA - Extended user account investigatio
 https://www.youtube.com/watch?v=iPtb5DZOWg0 - Defender XDR embedded Copilot to standalone Copilot investigation
 https://www.youtube.com/watch?v=q1UuDnBHgK8 - Human-operated ransomware (HumOR)
 
-AI
-AI at Work Is Here. Now Comes the Hard Part - https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part/
-
-Microsoft
-Copilot for Microsoft 365 Technical Badge - https://aka.ms/Level-UpTechnicalAssessment
-Copilot for Microsoft 365 Sales Badge - https://aka.ms/Level-UpSalesAssessment
-
-ChatGPT
-
-https://chat.openai.com/
-https://help.openai.com/en/articles/7730893-data-controls-faq
-https://www.perplexity.ai/
-https://gemini.google.com/app/
-AI on the Go: How to Use ChatGPT From Your Mobile Device - https://au.pcmag.com/ai/100020/ai-on-the-go-how-to-use-chatgpt-from-your-mobile-device
-
 
 Copilot
 Data, Privacy, and Security for Microsoft Copilot for Microsoft 365 - https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy
@@ -82,9 +61,6 @@ Copilot in Outlook | Draft effective emails - https://www.youtube.com/watch?v=v8
 Learn about Copilot prompts - https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5
 https://insights.cloud.microsoft/#/CopilotDashboard
 
-
-Session 2
-------------
 https://learn.microsoft.com/en-us/purview/audit-log-enable-disable
 https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference#compliance-administrator
 To learn more, see https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-audit-logs
