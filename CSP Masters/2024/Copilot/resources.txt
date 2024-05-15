@@ -12,6 +12,7 @@ https://www.anthropic.com/claude - Claude
 https://gemini.google.com/app - Gemini
 https://copilot.microsoft.com - Microsoft Copilot
 https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/?ocid=FY24_soc_omc_br_x_MoreAITerms - 10 (more) AI terms everyone should know
+https://youtu.be/DQacCB9tDaw -Introducing ChatGPT-4o
 
 https://au.pcmag.com/ai/100020/ai-on-the-go-how-to-use-chatgpt-from-your-mobile-device- AI on the Go: How to Use ChatGPT From Your Mobile Device
 
