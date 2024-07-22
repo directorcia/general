@@ -1,0 +1,46 @@
+ACSC Essential Eight - https://learn.microsoft.com/en-us/compliance/essential-eight/e8-overview
+M365 Maps - Essential 8 - https://m365maps.com/files/Essential-8.htm
+
+Application Control
+-------------------
+Applocker - https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/applocker-overview
+Manage approved apps for Windows devices with App Control for Business policy and Managed Installers for Microsoft Intune - https://learn.microsoft.com/en-us/mem/intune/protect/endpoint-security-app-control-policy
+Understand Windows Defender Application Control (WDAC) policy rules and file rules - https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/select-types-of-rules-to-create
+
+Patch management
+----------------
+Use the winget tool to install and manage applications - https://learn.microsoft.com/en-us/windows/package-manager/winget/
+
+Macros
+------
+Understand and use attack surface reduction capabilities - https://learn.microsoft.com/en-us/defender-endpoint/overview-attack-surface-reduction
+
+User Application Management
+---------------------------
+
+
+auditpol /get /category:* 
+
+Centralised logging - https://www.cyber.gov.au/acsc/view-all-content/advice/guidelines-system-monitoring
+
+https://servicetrust.microsoft.com/ViewPage/RegionalAustralia
+
+Scuba - https://www.cisa.gov/scuba
+Scuba repo - https://github.com/cisagov/ScubaGear
+https://desktop.gov.au/blueprint/office-365.html
+https://www.microsoft.com/en-au/business/topic/security/essential-eight/
+https://learn.microsoft.com/en-us/security/benchmark/azure/
+https://github.com/directorcia/Office365/blob/master/best-practices.txt
+https://m365maps.com/files/Essential-8.htm
+
+Robert Crane
+director@ciaops.com
+https://www.twitter.com/directorcia
+Blog – http://blog.ciaops.com
+Free Office 365, Azure video tutorials – http://www.youtube.com/directorciaops
+Free documents, presentations, eBooks – http://slideshare.net/directorcia
+Office 365, Azure, Cloud podcast – http://ciaops.podbean.com
+Office 365, Azure online training courses – http://www.ciaopsacademy.com
+Office 365 and Azure community – http://www.ciaopspatron.com
+CIAOPS Github – https://github.com/directorcia
+CIAOPS Best Practices Github – https://github.com/directorcia/bp
