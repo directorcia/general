@@ -14,10 +14,15 @@ Use the winget tool to install and manage applications - https://learn.microsoft
 Macros
 ------
 Understand and use attack surface reduction capabilities - https://learn.microsoft.com/en-us/defender-endpoint/overview-attack-surface-reduction
+Restore deleted files or folders in OneDrive - https://support.microsoft.com/en-us/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f
 
 User Application Management
 ---------------------------
 
+Backup
+------
+
+Set the OneDrive retention for deleted users - https://learn.microsoft.com/en-us/sharepoint/set-retention
 
 auditpol /get /category:* 
 
