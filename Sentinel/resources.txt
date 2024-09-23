@@ -1,0 +1,63 @@
+What is Sentinel
+----------------
+Azure Sentinel product page - https://azure.microsoft.com/en-us/services/azure-sentinel/
+What is Azure Sentinel? - https://docs.microsoft.com/en-us/azure/sentinel/overview
+
+Modernize your SIEM in the cloud with Azure Sentinel [VIDEO] -https://www.youtube.com/watch?v=LJypbTGEDO4
+
+Understanding Azure Sentinel features and functionality deep dive - https://www.youtube.com/watch?v=7An7BB-CcQI
+
+Best practices for designing an Azure Sentinel or Azure Security Center Log Analytics workspace - https://techcommunity.microsoft.com/t5/azure-sentinel/best-practices-for-designing-an-azure-sentinel-or-azure-security/ba-p/832574#
+
+Extend Azure Sentinel across workspaces and tenants - https://techcommunity.microsoft.com/t5/azure-sentinel/best-practices-for-designing-an-azure-sentinel-or-azure-security/ba-p/832574#
+
+Azure Sentinel: The connectors grand (CEF, Syslog, Direct, Agent, Custom and more) - https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-the-connectors-grand-cef-syslog-direct-agent/ba-p/803891
+
+Quickstart: Onboard Microsoft Sentinel - https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard#enable-azure-sentinel-
+
+Microsoft Sentinel data connectors - https://learn.microsoft.com/en-us/azure/sentinel/connect-data-sources?tabs=azure-portal
+
+Connect Microsoft Entra data to Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory
+
+Find your Microsoft Sentinel data connector - https://learn.microsoft.com/en-us/azure/sentinel/data-connectors-reference#microsoft-office-365
+
+Microsoft Sentinel integration (Preview) - https://learn.microsoft.com/en-us/defender-cloud-apps/siem-sentinel
+
+Threat detection in Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/threat-detection
+
+Log Analytics tutorial - https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-tutorial
+
+KQL quick reference - https://learn.microsoft.com/en-us/kusto/query/kql-quick-reference?view=azure-data-explorer&preserve-view=true
+
+Visualize and monitor your data by using workbooks in Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/monitor-your-data?tabs=azure-portal
+
+Microsoft Sentinel content hub catalog - https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-catalog
+
+Introducing Microsoft Sentinel Content hub! - https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-microsoft-sentinel-content-hub/ba-p/2928102
+
+Discover and manage Microsoft Sentinel out-of-the-box content - https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-deploy?tabs=azure-portal
+
+About Microsoft Sentinel content and solutions - https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions
+
+Threat hunting in Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/hunting?tabs=azure-portal
+
+Investigate incidents with Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/investigate-cases
+
+Use a Microsoft Sentinel playbook to stop potentially compromised users - https://learn.microsoft.com/en-us/azure/sentinel/automation/tutorial-respond-threats-playbook
+
+Get instant value from your SIEM: Best practices for Azure Sentinel - https://www.youtube.com/watch?v=M60g4HFNs4k
+
+Remove Microsoft Sentinel from your workspace - https://learn.microsoft.com/en-us/azure/sentinel/offboard
+
+Azure Sentinel Agent: Collecting from servers and workstations, on-prem and in the cloud - https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-agent-collecting-from-servers-and-workstations-on/ba-p/811760
+
+Log Analytics agent overview - https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent
+
+Install Log Analytics agent on Windows computers - https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows?tabs=setup-wizard
+
+Threat intelligence integration in Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/threat-intelligence-integration
+
+Connect Microsoft Sentinel to STIX/TAXII threat intelligence feeds - https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-taxii
+
+
+
