@@ -37,15 +37,35 @@ About Microsoft Sentinel content and solutions - https://learn.microsoft.com/en-
 
 Free data connectors
 --------------------
-	Azure AD Identity Protection
-	Azure Activity Logs
-	Office 365
-	Microsoft Defender for Cloud
-	Microsoft Defender for IoT
-	Microsoft 365 Defender
-	Microsoft Defender for Endpoint
-	Microsoft Defender for Identity
-    Microsoft Defender for Cloud Apps
+Azure AD Identity Protection
+Azure Activity Logs
+Office 365
+Microsoft Defender for Cloud
+Microsoft Defender for IoT
+Microsoft 365 Defender
+Microsoft Defender for Endpoint
+Microsoft Defender for Identity
+Microsoft Defender for Cloud Apps
+
+Microsoft Sentinel benefit for Microsoft 365 E5, A5, F5 and G5 customers
+-------------------------------------------------------------------------
+Microsoft 365 E5, A5, F5 and G5 and Microsoft 365 E5, A5, F5 and G5 Security customers can receive a data grant of up to 5 MB per user/day to ingest Microsoft 365 data. 
+The data sources included in this offer include:
+
+Azure Active Directory (Azure AD) sign-in and audit logs
+Microsoft Defender for Cloud Apps shadow IT discovery logs
+Microsoft Information Protection logs
+Microsoft 365 advanced hunting data
+
+https://azure.microsoft.com/en-us/pricing/offers/sentinel-microsoft-365-offer/
+
+Long-term Retention
+-------------------
+Once Microsoft Sentinel is enabled on your Azure Monitor Log Analytics workspace, every GB of data ingested into the workspace can be retained at no charge for the first:
+
+90 days if ingested as Analytics Logs. Retention beyond 90 days and up to 2 years will be charged per the standard Azure Monitor retention prices.
+30 days if ingested as Basic Logs and Auxiliary Logs.
+Data can be retained up to 12 years beyond these no-charge periods for compliance purposes and can be accessed for incident investigation.
 
 Configure Sentinel
 ------------------
