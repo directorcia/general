@@ -42,6 +42,13 @@ https://www.youtube.com/playlist?list=PL8nfc9haGeb5V9srRhkEyAqLvvwsWCXAk - Ai in
 
 https://aka.ms/CopilotM365assessment - AI Readiness assessment
 
+https://adoption.microsoft.com/en-us/copilot-scenario-library/ - Microsoft Copilot Scenario Library
+
+https://gateway.on24.com/wcc/eh/4557503/lp/4699156/build-and-extend-ai-powered-copilots-with-copilot-studio-workshop-september-24-27-2024-ist-bst-pdt - Build and extend AI-powered Copilots with Copilot studio workshop | September 2024 On-Demand
+https://gateway.on24.com/wcc/eh/4557503/lp/4667690/better-sell-copilot-with-microsoft-365-business-case-builder-and-more-bootcamp-on-demand?partnerref=DP_MW_ORG_EC_PN - Better sell Copilot with Microsoft 365 business case builder and more bootcamp | On-Demand
+https://gateway.on24.com/wcc/eh/4557503/lp/4699152/copilot-for-microsoft-365-deployment-user-enablement-boot-camp-on-demand - Copilot for Microsoft 365 deployment & user enablement boot camp | On-Demand
+https://gateway.on24.com/wcc/eh/4557503/lp/4667723/power-your-ai-transformation-with-copilot-and-the-copilot-stack-bootcamp-on-demand - Power your AI transformation with Copilot and the Copilot stack bootcamp | On-Demand
+
 Security Copilot
 	https://www.youtube.com/watch?v=_B7hNusXHqI - Watch Microsoft Security Copilot in action
 	https://www.youtube.com/watch?v=QV1Q5X6P8yM - Microsoft Intune and Security Copilot - Policy Generation
