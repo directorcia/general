@@ -1,0 +1,106 @@
+What is Sentinel
+----------------
+Azure Sentinel product page - https://azure.microsoft.com/en-us/services/azure-sentinel/
+What is Azure Sentinel? - https://docs.microsoft.com/en-us/azure/sentinel/overview
+Modernize your SIEM in the cloud with Azure Sentinel [VIDEO] -https://www.youtube.com/watch?v=LJypbTGEDO4
+Understanding Azure Sentinel features and functionality deep dive - https://www.youtube.com/watch?v=7An7BB-CcQI
+
+Defender EASM
+-------------
+Defender EASM Overview - https://learn.microsoft.com/en-us/azure/external-attack-surface-management/overview
+Defender EASM product page - https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-external-attack-surface-management
+Defender EASM - https://azure.microsoft.com/en-us/products/defender-external-attack-surface-management/
+
+Copilot for Security
+--------------------
+What is Microsoft Copilot for Security? - https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot
+Microsoft Copilot for Security Frequently Asked Questions - https://learn.microsoft.com/en-us/copilot/security/faq-security-copilot
+
+Sentinel Costs
+--------------
+Microsoft Sentinel Pricing - https://azure.microsoft.com/en-us/pricing/details/microsoft-sentinel/
+Plan costs and understand Microsoft Sentinel pricing and billing - https://learn.microsoft.com/en-us/azure/sentinel/billing?tabs=simplified%2Ccommitment-tiers
+Manage and monitor costs for Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/billing-monitor-costs
+Reduce costs for Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/billing-reduce-costs
+
+Defender EASM pricing
+---------------------
+Defender External Attack Surface Management pricing - https://azure.microsoft.com/en-us/pricing/details/defender-external-attack-surface-management/
+
+Microsoft Copilot for Security Pricing
+--------------------------------------
+Microsoft Copilot for Security pricing - https://azure.microsoft.com/en-us/pricing/details/microsoft-copilot-for-security/
+
+Microsoft Sentinel content hub catalog - https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-catalog
+Introducing Microsoft Sentinel Content hub! - https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-microsoft-sentinel-content-hub/ba-p/2928102
+About Microsoft Sentinel content and solutions - https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions
+
+Free data connectors
+--------------------
+Azure AD Identity Protection
+Azure Activity Logs
+Office 365
+Microsoft Defender for Cloud
+Microsoft Defender for IoT
+Microsoft 365 Defender
+Microsoft Defender for Endpoint
+Microsoft Defender for Identity
+Microsoft Defender for Cloud Apps
+
+Microsoft Sentinel benefit for Microsoft 365 E5, A5, F5 and G5 customers
+-------------------------------------------------------------------------
+Microsoft 365 E5, A5, F5 and G5 and Microsoft 365 E5, A5, F5 and G5 Security customers can receive a data grant of up to 5 MB per user/day to ingest Microsoft 365 data. 
+The data sources included in this offer include:
+
+Azure Active Directory (Azure AD) sign-in and audit logs
+Microsoft Defender for Cloud Apps shadow IT discovery logs
+Microsoft Information Protection logs
+Microsoft 365 advanced hunting data
+
+https://azure.microsoft.com/en-us/pricing/offers/sentinel-microsoft-365-offer/
+
+Long-term Retention
+-------------------
+Once Microsoft Sentinel is enabled on your Azure Monitor Log Analytics workspace, every GB of data ingested into the workspace can be retained at no charge for the first:
+
+90 days if ingested as Analytics Logs. Retention beyond 90 days and up to 2 years will be charged per the standard Azure Monitor retention prices.
+30 days if ingested as Basic Logs and Auxiliary Logs.
+Data can be retained up to 12 years beyond these no-charge periods for compliance purposes and can be accessed for incident investigation.
+
+Configure Sentinel
+------------------
+Quickstart: Onboard Microsoft Sentinel - https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard#enable-azure-sentinel-
+Azure Sentinel: The connectors grand (CEF, Syslog, Direct, Agent, Custom and more) - https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-the-connectors-grand-cef-syslog-direct-agent/ba-p/803891
+Microsoft Sentinel data connectors - https://learn.microsoft.com/en-us/azure/sentinel/connect-data-sources?tabs=azure-portal
+Connect Microsoft Entra data to Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/connect-azure-active-directory
+Find your Microsoft Sentinel data connector - https://learn.microsoft.com/en-us/azure/sentinel/data-connectors-reference#microsoft-office-365
+Discover and manage Microsoft Sentinel out-of-the-box content - https://learn.microsoft.com/en-us/azure/sentinel/sentinel-solutions-deploy?tabs=azure-portal
+
+Log Analytics tutorial - https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-tutorial
+Best practices for designing an Azure Sentinel or Azure Security Center Log Analytics workspace - https://techcommunity.microsoft.com/t5/azure-sentinel/best-practices-for-designing-an-azure-sentinel-or-azure-security/ba-p/832574#
+Get instant value from your SIEM: Best practices for Azure Sentinel - https://www.youtube.com/watch?v=M60g4HFNs4k
+
+KQL quick reference - https://learn.microsoft.com/en-us/kusto/query/kql-quick-reference?view=azure-data-explorer&preserve-view=true
+
+Visualize and monitor your data by using workbooks in Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/monitor-your-data?tabs=azure-portal
+
+Threat intelligence integration in Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/threat-intelligence-integration
+Connect Microsoft Sentinel to STIX/TAXII threat intelligence feeds - https://learn.microsoft.com/en-us/azure/sentinel/connect-threat-intelligence-taxii
+Threat detection in Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/threat-detection
+Threat hunting in Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/hunting?tabs=azure-portal
+Investigate incidents with Microsoft Sentinel - https://learn.microsoft.com/en-us/azure/sentinel/investigate-cases
+
+Microsoft Sentinel integration (Preview) - https://learn.microsoft.com/en-us/defender-cloud-apps/siem-sentinel
+
+Extend Azure Sentinel across workspaces and tenants - https://techcommunity.microsoft.com/t5/azure-sentinel/best-practices-for-designing-an-azure-sentinel-or-azure-security/ba-p/832574#
+Azure Sentinel Agent: Collecting from servers and workstations, on-prem and in the cloud - https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-agent-collecting-from-servers-and-workstations-on/ba-p/811760
+Log Analytics agent overview - https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent
+Install Log Analytics agent on Windows computers - https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows?tabs=setup-wizard
+
+Use a Microsoft Sentinel playbook to stop potentially compromised users - https://learn.microsoft.com/en-us/azure/sentinel/automation/tutorial-respond-threats-playbook
+
+Remove Microsoft Sentinel from your workspace - https://learn.microsoft.com/en-us/azure/sentinel/offboard
+
+Set up Azure Lighthouse - https://blog.ciaops.com/2021/05/24/configure-azure-lighthouse/
+
+
