@@ -6,6 +6,7 @@ Source
     https://bit.ly/cia-copilotpartners
 
 https://cloudpartners.transform.microsoft.com/partner-gtm/csp?tab=get-ai-ready - Get AI-ready with Microsoft 365
+https://adoption.microsoft.com/en-us/copilot/success-kit/ - Accelerate your AI journey with our Copilot Success Kit
 
 https://cloudpartners.transform.microsoft.com/partner-gtm/csp?tab=build-ai-solutions - Build AI solutions with Microsoft 365
 
@@ -48,6 +49,12 @@ https://gateway.on24.com/wcc/eh/4557503/lp/4699156/build-and-extend-ai-powered-c
 https://gateway.on24.com/wcc/eh/4557503/lp/4667690/better-sell-copilot-with-microsoft-365-business-case-builder-and-more-bootcamp-on-demand?partnerref=DP_MW_ORG_EC_PN - Better sell Copilot with Microsoft 365 business case builder and more bootcamp | On-Demand
 https://gateway.on24.com/wcc/eh/4557503/lp/4699152/copilot-for-microsoft-365-deployment-user-enablement-boot-camp-on-demand - Copilot for Microsoft 365 deployment & user enablement boot camp | On-Demand
 https://gateway.on24.com/wcc/eh/4557503/lp/4667723/power-your-ai-transformation-with-copilot-and-the-copilot-stack-bootcamp-on-demand - Power your AI transformation with Copilot and the Copilot stack bootcamp | On-Demand
+
+https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy - Data, Privacy, and Security for Microsoft 365 Copilot
+https://learn.microsoft.com/en-us/viva/insights/org-team-insights/copilot-dashboard - Connect to the Microsoft Copilot Dashboard for Microsoft 365 customers
+https://insights.cloud.microsoft/#/CopilotDashboard - Microsoft Copilot Dashboard
+
+
 
 Security Copilot
 	https://www.youtube.com/watch?v=_B7hNusXHqI - Watch Microsoft Security Copilot in action
