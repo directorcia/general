@@ -6,3 +6,5 @@ Microsoft Copilot on Windows download - https://apps.microsoft.com/detail/9nht9r
 Learn to Use Microsoft Copilot - https://learn.microsoft.com/en-us/copilot/tutorials/learn-microsoft-copilot
 
 Get started with Microsoft 365 Copilot Business Chat - https://support.microsoft.com/en-us/topic/get-started-with-microsoft-365-copilot-business-chat-5b00a52d-7296-48ee-b938-b95b7209f737
+
+New autonomous agents scale yoru teams like never before - https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/
