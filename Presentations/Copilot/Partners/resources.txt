@@ -54,7 +54,9 @@ https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-pr
 https://learn.microsoft.com/en-us/viva/insights/org-team-insights/copilot-dashboard - Connect to the Microsoft Copilot Dashboard for Microsoft 365 customers
 https://insights.cloud.microsoft/#/CopilotDashboard - Microsoft Copilot Dashboard
 
-
+Agents
+------
+New autonomous agents scale yoru teams like never before - https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/
 
 Security Copilot
 	https://www.youtube.com/watch?v=_B7hNusXHqI - Watch Microsoft Security Copilot in action
