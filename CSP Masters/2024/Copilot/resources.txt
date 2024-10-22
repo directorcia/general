@@ -71,6 +71,10 @@ FAQ: https://aka.ms/Copilot/FAQ
 Adoption kit: https://aka.ms/Copilot/StarterKit
 Microsoft Copilot documentation and resources - https://learn.microsoft.com/en-us/copilot/
 
+Agents
+------
+New autonomous agents scale yoru teams like never before - https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/
+
 Videos
 ------
 https://www.youtube.com/watch?v=KtsVRCsdvoU - Semantic Index for Copilot: Explained by Microsoft
