@@ -73,7 +73,7 @@ Microsoft Copilot documentation and resources - https://learn.microsoft.com/en-u
 
 Agents
 ------
-New autonomous agents scale yoru teams like never before - https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/
+New autonomous agents scale your teams like never before - https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/
 
 Videos
 ------
