@@ -5,13 +5,19 @@ Get-Mailbox -ResultSize unlimited -Filter "RecipientTypeDetails -eq 'UserMailbox
 
 # https://github.com/directorcia/Office365/blob/master/o365-mx-check.ps1
 
-#Self Service
+# Self Service
 https://admin.microsoft.com/Adminportal/Home#/manageselfservicepurchase
 
 # Audit Logs
 https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/SignIns
 
 https://portal.azure.com/#view/Microsoft_AAD_UsersAndTenants/UserManagementMenuBlade/~/UserSettings
+
+Manage mailbox auditing - https://learn.microsoft.com/en-us/purview/audit-mailboxes
+
+Microsoft Entra data retention - https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-reports-data-retention
+
+Eliminate bad passwords using Microsoft Entra Password Protection - https://learn.microsoft.com/en-us/entra/identity/authentication/concept-password-ban-bad
 
 # Alerts
 https://security.microsoft.com/alertpoliciesv2
@@ -20,29 +26,46 @@ https://security.microsoft.com/managealerts
 # Exchange
 https://security.microsoft.com/configurationAnalyzer
 
+Configuration analyzer for protection policies in EOP and Microsoft Defender for Office 365 - https://learn.microsoft.com/en-us/defender-office-365/configuration-analyzer-for-security-policies?view=o365-worldwide
+
+The Microsoft Defender for Office 365 Recommended Configuration Analyzer (ORCA) - https://github.com/cammurray/orca
+
 # Client
 Auditpol /get /category:*
-..\office365\win10-asr-get.ps1
+
+https://github.com/directorcia/Office365/blob/master/win10-asr-get.ps1
+
+# Virtualization BAsed Security (VBS)
+Virtualization-based security (VBS) enclaves - https://learn.microsoft.com/en-us/windows/win32/trusted-execution/vbs-enclaves
+
+Securely design your applications and protect your sensitive data with VBS enclaves - https://techcommunity.microsoft.com/t5/windows-os-platform-blog/securely-design-your-applications-and-protect-your-sensitive/ba-p/4179543
+
+All the guards - https://blog.ciaops.com/2021/09/01/all-the-guards-part-10/
 
 # Exposure Insights
 https://security.microsoft.com/exposure-initiatives
 
 # Secure Score
-..\office365\mggraph-sscore-get.ps1
+https://github.com/directorcia/Office365/blob/master/mggraph-sscore-get.ps1
+
 https://security.microsoft.com/exposure-secure-score
 
 # Azure
 
 # Sentinel
+What is MIcrosoft Sentinel? - https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=azure-portal
 
 # DEASM
+Defender EASM Overview - https://learn.microsoft.com/en-us/azure/external-attack-surface-management/overview
 
 # Security Copilot
+Get started with Microsoft Copilot for Security - https://learn.microsoft.com/en-us/copilot/security/get-started-security-copilot?view=o365-worldwide
 
-# Microsoft Copilot in Intune (public preview) - https://learn.microsoft.com/en-us/mem/intune/copilot/copilot-intune-overview
+Microsoft Copilot in Intune (public preview) - https://learn.microsoft.com/en-us/mem/intune/copilot/copilot-intune-overview
 
-# Microsoft Copilot in Microsoft Defender - https://learn.microsoft.com/en-us/defender-xdr/security-copilot-in-microsoft-365-defender
+Microsoft Copilot in Microsoft Defender - https://learn.microsoft.com/en-us/defender-xdr/security-copilot-in-microsoft-365-defender
 
 # Syntex
-start-process 'https://admin.microsoft.com/Adminportal/Home#/syntex'
+https://admin.microsoft.com/Adminportal/Home#/syntex
 
+Overview of Microsoft Syntex - https://learn.microsoft.com/en-us/microsoft-365/syntex/syntex-overview
