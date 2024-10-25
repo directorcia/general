@@ -51,6 +51,7 @@ https://github.com/directorcia/Office365/blob/master/mggraph-sscore-get.ps1
 https://security.microsoft.com/exposure-secure-score
 
 # Azure
+Enable passkeys (FIDO2) for your organization - https://learn.microsoft.com/en-us/entra/identity/authentication/how-to-enable-passkey-fido2
 
 # Sentinel
 What is MIcrosoft Sentinel? - https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=azure-portal
