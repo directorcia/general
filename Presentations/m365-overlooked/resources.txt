@@ -70,3 +70,8 @@ Microsoft Copilot in Microsoft Defender - https://learn.microsoft.com/en-us/defe
 https://admin.microsoft.com/Adminportal/Home#/syntex
 
 Overview of Microsoft Syntex - https://learn.microsoft.com/en-us/microsoft-365/syntex/syntex-overview
+
+Created by
+    Robert Crane
+    https://www.ciaops.com
+    https://github.com/directorcia

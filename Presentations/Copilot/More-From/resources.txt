@@ -1,10 +1,38 @@
+Kiyomizu-dera - https://en.wikipedia.org/wiki/Kiyomizu-dera
+
 Microsoft Copilot - https://www.microsoft.com/en-us/microsoft-copilot/personal-ai-assistant
 
 Copilot in Power Automate - https://learn.microsoft.com/en-us/power-automate/copilot-overview
+
 Welcome to Copilot on Windows - https://support.microsoft.com/en-us/windows/welcome-to-copilot-on-windows-675708af-8c16-4675-afeb-85a5a476ccb0
+
 Microsoft Copilot on Windows download - https://apps.microsoft.com/detail/9nht9rb2f4hd?hl=en-US&gl=US
+
+Github Copilot - https://github.com/features/copilot
+
 Learn to Use Microsoft Copilot - https://learn.microsoft.com/en-us/copilot/tutorials/learn-microsoft-copilot
 
 Get started with Microsoft 365 Copilot Business Chat - https://support.microsoft.com/en-us/topic/get-started-with-microsoft-365-copilot-business-chat-5b00a52d-7296-48ee-b938-b95b7209f737
 
-New autonomous agents scale yoru teams like never before - https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/
+Announcing Copilot Pages for multiplayer collaboration - https://techcommunity.microsoft.com/t5/microsoft-365-copilot/announcing-copilot-pages-for-multiplayer-collaboration/ba-p/4242701 
+
+Introducing Microsoft 365 Copilot – your copilot for work - https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/
+
+Welcome to Copilot in ONeNote - https://support.microsoft.com/en-us/office/welcome-to-copilot-in-onenote-34b30802-02ae-4676-a88c-82f8d5e586dd
+
+Get started with Microsoft 365 Copilot Business Chat in Teams - https://support.microsoft.com/en-us/office/get-started-with-microsoft-365-copilot-business-chat-in-teams-60c37fde-6e13-4412-8101-40bbbc711ec9
+
+Use Copilot to create forms - https://learn.microsoft.com/en-us/power-platform/release-plan/2023wave1/power-pages/use-copilot-create-forms
+
+Copilot in OneDrive: A New Wave of File Interaction - https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/copilot-in-onedrive-a-new-wave-of-file-interaction/ba-p/4070738
+
+Microsoft Copilot Studio overview - https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio
+
+Microsoft Copilot for Security - https://www.microsoft.com/en-au/security/business/ai-machine-learning/microsoft-copilot-security
+
+New autonomous agents scale your teams like never before - https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/
+
+Created by
+    Robert Crane
+    https://www.ciaops.com
+    https://github.com/directorcia
