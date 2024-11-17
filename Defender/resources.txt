@@ -1,0 +1,32 @@
+Source
+    https://github.com/directorcia/general/tree/master/defender
+
+Entra ID
+--------
+What is Microsoft Entra ID Protection? - https://learn.microsoft.com/en-us/entra/id-protection/overview-identity-protection
+Enable Enterprise State Roaming - https://learn.microsoft.com/en-us/entra/identity/devices/enterprise-state-roaming-enable
+Manage user access with Microsoft Entra access reviews - https://learn.microsoft.com/en-us/entra/id-governance/manage-user-access-with-access-reviews
+What is Microsoft Entra Privileged Identity Management? - https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-configure
+
+Windows Defenders
+-----------------
+Windows Defender Application Control - https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/appcontrol
+Windows Defender Firewall - https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/windows-firewall/
+Windows Defender Exploit Guard - https://learn.microsoft.com/en-us/defender-endpoint/exploit-protection
+
+The four components of Windows Defender Exploit Guard are:
+	• Attack Surface Reduction (ASR): A set of controls that enterprises can enable to prevent malware from getting on the machine by blocking Office-, script-, and email-based threats    
+	• Network protection: Protects the endpoint against web-based threats by blocking any outbound process on the device to untrusted hosts/IP through Windows Defender SmartScreen
+	• Controlled folder access: Protects sensitive data from ransomware by blocking untrusted processes from accessing your protected folders
+	• Exploit protection: A set of exploit mitigations (replacing EMET) that can be easily configured to protect your system and applications
+
+Attack surface reduction rules overview - https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction?ocid=cx-blog-mmpc
+Use network protection to help prevent connections to malicious or suspicious sites - https://learn.microsoft.com/en-us/defender-endpoint/network-protection?ocid=cx-blog-mmpc
+Enable controlled folder access - https://learn.microsoft.com/en-us/defender-endpoint/enable-controlled-folders
+Protect devices from exploits - https://learn.microsoft.com/en-us/defender-endpoint/exploit-protection?ocid=cx-blog-mmpc
+
+Windows Defender Credential Guard
+
+Windows Defender System Guard 
+
+https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals
