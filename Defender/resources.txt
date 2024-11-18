@@ -1,5 +1,10 @@
 Source
-    https://github.com/directorcia/general/tree/master/defender
+    https://github.com/directorcia/general/blob/master/Defender/resources.txt
+
+Licensing
+---------
+Microsoft 365 and Office 365 service descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library
+Microsoft 365 licensing - https://m365maps.com/
 
 Entra ID
 --------
@@ -25,8 +30,93 @@ Use network protection to help prevent connections to malicious or suspicious si
 Enable controlled folder access - https://learn.microsoft.com/en-us/defender-endpoint/enable-controlled-folders
 Protect devices from exploits - https://learn.microsoft.com/en-us/defender-endpoint/exploit-protection?ocid=cx-blog-mmpc
 
-Windows Defender Credential Guard
+Credential guard overview - https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/
 
-Windows Defender System Guard 
+System Guard: How a hardware-based root of trust helps protect Windows - https://learn.microsoft.com/en-us/windows/security/hardware-security/how-hardware-based-root-of-trust-helps-protect-windows
 
-https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals
+Windows Defender personal - https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals
+
+Data Loss Prevenetion - DLP
+---------------------------
+Learn about data loss prevention - https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp
+Implement endpoint data loss prevention (DLP) with Microsoft Purview - https://learn.microsoft.com/en-us/training/modules/purview-implement-endpoint-dlp/
+Create and Deploy data loss prevention policies - https://learn.microsoft.com/en-us/purview/dlp-create-deploy-policy?tabs=purview
+Implement Microsoft Purview Data Loss Prevention - https://learn.microsoft.com/en-us/training/modules/implement-data-loss-prevention-policies-microsoft-365/
+
+Microsoft Information Protection - MIP
+--------------------------------------
+Deploy an information protection solution with Microsoft Purview - https://learn.microsoft.com/en-us/purview/information-protection-solution?tabs=phase-one
+Learn about sensitivity labels - https://learn.microsoft.com/en-us/purview/sensitivity-labels
+
+Exchange Online Protection
+--------------------------
+Mail flow best practices for Exchange Online and Office 365 - https://docs.microsoft.com/en-us/exchange/mail-flow-best-practices/mail-flow-best-practices
+Best practices for configuring mail flow rules in Exchange Online - https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/configuration-best-practices
+Best practices for configuring standalone EOP - https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/best-practices-for-configuring-eop?view=o365-worldwide
+Recommended settings for EOP and Defender for Office 365 security - https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/recommended-settings-for-eop-and-office365-atp?view=o365-worldwide
+Microsoft 365 and Office 365 email migration performance and best practices - https://docs.microsoft.com/en-us/Exchange/mailbox-migration/office-365-migration-best-practices
+Best practices for public folder preparation before migrations - https://techcommunity.microsoft.com/t5/exchange-team-blog/best-practices-for-public-folder-preparation-before-migrations/ba-p/1909222
+Order and precedence of email protection - https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/how-policies-and-protections-are-combined?view=o365-worldwide
+
+Investigations
+--------------
+Phishing investigation - https://learn.microsoft.com/en-us/security/compass/incident-response-playbook-phishing
+
+Defender for Office 365
+-----------------------
+Microsoft Defender for Office 365 overview - https://learn.microsoft.com/en-us/defender-office-365/mdo-about
+Microsoft Defender for Office 365 documentation - https://learn.microsoft.com/en-us/defender-office-365/
+
+Defender for Cloud Apps
+-----------------------
+Microsoft Defender for Cloud Apps overview - https://learn.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps
+Protecting cloud apps in Microsoft 365 Defender - https://www.youtube.com/watch?v=B0J4L5LPfDs
+Microsoft Defender for Cloud Apps documentation - https://learn.microsoft.com/en-us/defender-cloud-apps/
+
+Defender for Identity
+---------------------
+Microsoft Defender for Identity documentation - https://learn.microsoft.com/en-us/defender-for-identity/
+
+Defender XDR
+------------
+What is Microsoft Defender XDR? - https://learn.microsoft.com/en-us/defender-xdr/microsoft-365-defender
+What is Microsoft Defender XDR? - https://www.youtube.com/watch?v=eyKXWlZQ8JA
+
+Microsoft Defender XDR helps security teams protect and detect their organizations by using information from other Microsoft security products, including:
+	• Microsoft Defender for Endpoint
+	• Microsoft Defender for Office 365
+	• Microsoft Defender for Identity
+	• Microsoft Defender for Cloud Apps
+	• Microsoft Defender Vulnerability Management
+	• Microsoft Defender for Cloud
+	• Microsoft Entra ID Protection
+	• Microsoft Data Loss Prevention
+	• App Governance
+With the integrated Microsoft Defender XDR solution, security professionals can stitch together the threat signals that each of these products receive and determine the 
+full scope and impact of the threat; how it entered the environment, what it's affected, and how it's currently impacting the organization. Microsoft Defender XDR takes 
+automatic action to prevent or stop the attack and self-heal affected mailboxes, endpoints, and user identities.
+
+Defender for Business
+---------------------
+What is Microsoft Defender for Business? - https://learn.microsoft.com/en-us/defender-business/mdb-overview
+Microsoft Defender for Business - https://learn.microsoft.com/en-us/defender-business/
+
+Defender for Vulnerability Management
+-------------------------------------
+Microsoft Defender Vulnerability Management - https://learn.microsoft.com/en-us/defender-vulnerability-management/
+
+Defender for Cloud
+------------------
+Microsoft Defender for Cloud – (previously Azure Defender) Provides security alerts and advanced threat protection for virtual machines, SQL databases, containers, web applications, your network, and more. It includes:
+
+Microsoft Defender for servers
+Microsoft Defender for App Service
+Microsoft Defender for Storage
+Microsoft Defender for SQL
+Microsoft Defender for Kubernetes
+Microsoft Defender for container registries
+Microsoft Defender for Key Vault
+Microsoft Defender for Resource Manager
+Microsoft Defender for DNS
+
+What is Microsoft Defender for Cloud? - https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction
