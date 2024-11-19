@@ -96,6 +96,10 @@ With the integrated Microsoft Defender XDR solution, security professionals can 
 full scope and impact of the threat; how it entered the environment, what it's affected, and how it's currently impacting the organization. Microsoft Defender XDR takes 
 automatic action to prevent or stop the attack and self-heal affected mailboxes, endpoints, and user identities.
 
+Defender for Endpoint
+---------------------
+Defender for Endpoint - Microsoft Defender for Endpoint
+
 Defender for Business
 ---------------------
 What is Microsoft Defender for Business? - https://learn.microsoft.com/en-us/defender-business/mdb-overview
@@ -120,3 +124,19 @@ Microsoft Defender for Resource Manager
 Microsoft Defender for DNS
 
 What is Microsoft Defender for Cloud? - https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction
+
+Defender Threat INtelligence
+-----------------------------
+What is Microsoft Defender Threat Intelligence (Defender TI)? - https://learn.microsoft.com/en-us/defender/threat-intelligence/what-is-microsoft-defender-threat-intelligence-defender-ti
+
+Sentinel
+--------
+What is Microsoft Sentinel? - https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=azure-portal
+
+DEASM
+-----
+Defender External Attack Surface Management - https://learn.microsoft.com/en-us/azure/external-attack-surface-management/
+
+Copilot for Security
+--------------------
+Get started with Microsoft Security Copilot - https://learn.microsoft.com/en-us/copilot/security/get-started-security-copilot
