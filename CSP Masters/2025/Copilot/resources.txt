@@ -5,6 +5,20 @@ Source
 https://aka.ms/Level-UpTechnicalAssessment - Copilot for Microsoft 365 Technical Badge
 https://aka.ms/Level-UpSalesAssessment - Copilot for Microsoft 365 Sales Badge
 
+Large Language Models
+---------------------
+https://www.youtube.com/watch?v=LPZh9BOjkQs - Large Language Models explained briefly
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi - Neural networks
+
+Retrieval Augmented Generation (RAG)
+------------------------------------
+https://www.youtube.com/watch?v=T-D1OfcDW1M - Retrieval Augmented Generation (RAG) explained
+
+Semantic Index
+--------------
+https://www.youtube.com/watch?v=KtsVRCsdvoU - Semantic Index for Copilot: Explained by Microsoft
+https://www.youtube.com/watch?v=Ii3l13nx9n4 - How Semantic Index for Copilot works in Microsoft 365
+
 https://openai.com/index/sora - Sora
 https://chat.openai.com/ - Chat GPT
 https://www.perplexity.ai/ - Perplexity
@@ -15,6 +29,8 @@ https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-k
 https://youtu.be/DQacCB9tDaw -Introducing ChatGPT-4o
 
 https://au.pcmag.com/ai/100020/ai-on-the-go-how-to-use-chatgpt-from-your-mobile-device- AI on the Go: How to Use ChatGPT From Your Mobile Device
+
+https://code.visualstudio.com/docs/copilot/setup-simplified - Enable Copilot free in VS code
 
 https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot?tab=csp - Sell through CSP
 
@@ -43,19 +59,20 @@ https://microsoft.github.io/copilot-camp/ - Copilot Developer Camp
 https://learn.microsoft.com/en-us/ai/?tabs=developer - AI Learning hub
 
 Copilot
-Data, Privacy, and Security for Microsoft Copilot for Microsoft 365 - https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy
-Privacy and protections - https://learn.microsoft.com/en-us/copilot/privacy-and-protections
-Learn about Copilot prompts - https://support.microsoft.com/en-gb/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5
-Microsoft Copilot - https://copilot.microsoft.com
-Introduction to Copilot for Microsoft 365 - https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot/
-Semantic index for Copilot - https://www.youtube.com/watch?v=KtsVRCsdvoU
-Videos - https://github.com/directorcia/general/tree/master/Presentations/Copilot/Videos
-The Copilot System - https://www.youtube.com/watch?v=E5g20qmeKpg
-Get started with Copilot for Microsoft 365 - https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-365-copilot/
-Copilot in Outlook | Manage your inbox - https://www.youtube.com/watch?v=PSTSOyBccnY
-Copilot in Outlook | Draft effective emails - https://www.youtube.com/watch?v=v83VUTafQ5s
-Learn about Copilot prompts - https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5
-https://insights.cloud.microsoft/#/CopilotDashboard
+-------
+https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy - Data, Privacy, and Security for Microsoft Copilot for Microsoft 365
+https://learn.microsoft.com/en-us/copilot/privacy-and-protections - Privacy and protections
+https://support.microsoft.com/en-gb/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5 - Learn about Copilot prompts
+https://copilot.microsoft.com - Microsoft Copilot
+https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot/ - Introduction to Copilot for Microsoft 365
+https://www.youtube.com/watch?v=KtsVRCsdvoU - Semantic index for Copilot
+https://github.com/directorcia/general/tree/master/Presentations/Copilot/Videos - Videos
+https://www.youtube.com/watch?v=E5g20qmeKpg - The Copilot System
+https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-365-copilot/ - Get started with Copilot for Microsoft 365
+https://www.youtube.com/watch?v=PSTSOyBccnY - Copilot in Outlook | Manage your inbox
+https://www.youtube.com/watch?v=v83VUTafQ5s - Copilot in Outlook | Draft effective emails
+https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5 - Learn about Copilot prompts
+https://insights.cloud.microsoft/#/CopilotDashboard - Copilot dashboard
 
 https://learn.microsoft.com/en-us/purview/audit-log-enable-disable
 https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference#compliance-administrator
@@ -66,17 +83,17 @@ https://learn.microsoft.com/en-us/purview/sensitivity-labels-sharepoint-onedrive
 https://aka.ms/Copilotclickthroughdemoguide
 https://aka.ms/WhatsNewCopilot
 
-Website: https://aka.ms/Copilot/Website
-Video for IT admins: http://aka.ms/Copilot/MechanicsVideo
-Documentation: https://aka.ms/Copilot/Docs 
-FAQ: https://aka.ms/Copilot/FAQ 
-Adoption kit: https://aka.ms/Copilot/StarterKit
-Microsoft Copilot documentation and resources - https://learn.microsoft.com/en-us/copilot/
+https://aka.ms/Copilot/Website - Website
+http://aka.ms/Copilot/MechanicsVideo - Video for IT admins
+https://aka.ms/Copilot/Docs - Documentation
+https://aka.ms/Copilot/FAQ - FAQ
+https://aka.ms/Copilot/StarterKit - Adoption kit
+https://learn.microsoft.com/en-us/copilot/ - Microsoft Copilot documentation and resources
 
 Agents
 ------
-New autonomous agents scale your teams like never before - https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/
-AI agents — what they are, and how they’ll change the way we work - https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/
+https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/ - New autonomous agents scale your teams like never before
+https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/ - AI agents — what they are, and how they’ll change the way we work
 
 Videos
 ------
