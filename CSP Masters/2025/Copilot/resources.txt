@@ -39,6 +39,8 @@ https://learn.microsoft.com/en-us/training/paths/craft-effective-prompts-copilot
 https://www.youtube.com/watch?v=RRWfGrC1fao - Get your small business ready for Copilot for Microsoft 365
 https://www.youtube.com/watch?v=pwz3TFvciGA - Introduction to Copilot for Microsoft 365
 https://copilot.cloud.microsoft/en-AU/prompts - Copilot Lab
+https://microsoft.github.io/copilot-camp/ - Copilot Developer Camp
+https://learn.microsoft.com/en-us/ai/?tabs=developer - AI Learning hub
 
 Copilot
 Data, Privacy, and Security for Microsoft Copilot for Microsoft 365 - https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy
@@ -74,6 +76,7 @@ Microsoft Copilot documentation and resources - https://learn.microsoft.com/en-u
 Agents
 ------
 New autonomous agents scale your teams like never before - https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/
+AI agents — what they are, and how they’ll change the way we work - https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/
 
 Videos
 ------
