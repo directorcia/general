@@ -58,6 +58,10 @@ https://copilot.cloud.microsoft/en-AU/prompts - Copilot Lab
 https://microsoft.github.io/copilot-camp/ - Copilot Developer Camp
 https://learn.microsoft.com/en-us/ai/?tabs=developer - AI Learning hub
 
+Adoption
+--------
+https://techcommunity.microsoft.com/blog/microsoft365copilotblog/the-great-microsoft-365-copilot-journey-empower-your-team-with-copilot/4364094 - The great Microsoft 365 Copilot journey: Empower your team with Copilot
+
 Copilot
 -------
 https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy - Data, Privacy, and Security for Microsoft Copilot for Microsoft 365
