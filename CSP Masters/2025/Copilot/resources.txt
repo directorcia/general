@@ -95,7 +95,6 @@ Microsoft 365 Copilot
 ---------------------
 https://aka.ms/Copilotclickthroughdemoguide
 https://aka.ms/WhatsNewCopilot
-
 https://aka.ms/Copilot/Website - Website
 http://aka.ms/Copilot/MechanicsVideo - Video for IT admins
 https://aka.ms/Copilot/Docs - Documentation
