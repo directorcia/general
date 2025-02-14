@@ -83,6 +83,7 @@ https://www.youtube.com/watch?v=PSTSOyBccnY - Copilot in Outlook | Manage your i
 https://www.youtube.com/watch?v=v83VUTafQ5s - Copilot in Outlook | Draft effective emails
 https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5 - Learn about Copilot prompts
 https://insights.cloud.microsoft/#/CopilotDashboard - Copilot dashboard
+ http://aka.ms/WhatsNewCopilot - What's new wih Copilot
 
 Security
 --------
