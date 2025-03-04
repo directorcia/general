@@ -1,0 +1,11 @@
+https://www.microsoft.com/insidetrack/blog/how-were-tackling-microsoft-365-copilot-governance-internally-at-microsoft/- How we’re tackling Microsoft 365 Copilot governance internally at Microsoft
+https://learn.microsoft.com/en-us/purview/ai-microsoft-purview - Microsoft Purview data security and compliance protections for generative AI apps
+https://learn.microsoft.com/en-us/purview/information-protection - Protect your sensitive data with Microsoft Purview
+
+
+About
+-----
+Robert Crane
+Linkedin - http://www.linkedin.com/in/ciaops
+GitHub - https://www.github.com/directorcia
+Blog - https://blog.ciaops.com
