@@ -84,7 +84,7 @@ https://www.youtube.com/watch?v=PSTSOyBccnY - Copilot in Outlook | Manage your i
 https://www.youtube.com/watch?v=v83VUTafQ5s - Copilot in Outlook | Draft effective emails
 https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5 - Learn about Copilot prompts
 https://insights.cloud.microsoft/#/CopilotDashboard - Copilot dashboard
- http://aka.ms/WhatsNewCopilot - What's new wih Copilot
+http://aka.ms/WhatsNewCopilot - What's new wih Copilot
 
 Security
 --------
@@ -92,6 +92,10 @@ https://learn.microsoft.com/en-us/purview/audit-log-enable-disable
 https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference#compliance-administrator
 https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-audit-logs
 https://learn.microsoft.com/en-us/purview/sensitivity-labels-sharepoint-onedrive-files
+
+compliance
+----------
+Microsoft Purview – Data Security Posture Management (DSPM) for AI - https://techcommunity.microsoft.com/blog/azurepurviewblog/microsoft-purview-%E2%80%93-data-security-posture-management-dspm-for-ai/4394685
 
 Microsoft 365 Copilot
 ---------------------
