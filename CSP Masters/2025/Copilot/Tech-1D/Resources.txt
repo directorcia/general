@@ -43,6 +43,7 @@ https://support.microsoft.com/en-us/copilot-pro - Copilot Pro
 https://adoption.microsoft.com/en-us/copilot/ - Copilot for Microsoft 365
 https://adoption-dev.azurewebsites.net/en-us/copilot/smb/ - Copilot for Microsoft 365 for small and medium businesses
 https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365 - Microsoft Copilot for Microsoft 365
+https://www.youtube.com/watch?v=RKM91qb53qI - Differences between Microsoft 365 Copilot Chat and Copilot
 https://copilot.cloud.microsoft/prompts - Copilot prompt lab
 https://aka.ms/copilot-impact - Microsoft Copilot dashboard
 https://copilot.cloud.microsoft/en-US/prompts?ocid=CopilotLab_M365Chatofficeweb - Copilot lab
