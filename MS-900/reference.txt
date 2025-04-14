@@ -15,8 +15,6 @@ https://learn.microsoft.com/en-us/training/paths/describe-microsoft-365-core-ser
 https://learn.microsoft.com/en-us/training/paths/m365-security-compliance-capabilities/
 https://learn.microsoft.com/en-us/training/paths/m365-licensing-service-support/
 
-Slides - https://ciaops365e1-my.sharepoint.com/:f:/g/personal/admin_ciaops365_com/EidsunNLWKlGg-Hjzr_9NiEBlu8PmscPwpbfRYs7RB9DKg?e=8iJXo2
-
 Videos
 ------
 What is Cloud computing - https://www.microsoft.com/en-us/videoplayer/embed/RE4LyBB?postJsllMsg=true
