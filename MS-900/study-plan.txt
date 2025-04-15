@@ -1,0 +1,94 @@
+Sample 4-week study plan designed to help you prepare for and pass the Microsoft 365 Fundamentals (MS-900) exam. This plan assumes you can dedicate a few hours each week to studying. Adjust the timeline based on your existing knowledge and available study time.
+
+Goal: Pass the MS-900 Microsoft 365 Fundamentals Exam.
+
+Key Resources:
+
+Official Microsoft Learn Path for MS-900: This is your primary study resource. It's free and structured around the exam objectives. https://learn.microsoft.com/en-us/training/paths/m365-fundamentals/
+MS-900 Exam Skills Outline: Download this from the official exam page. Use it as a checklist to ensure you cover all required topics. https://learn.microsoft.com/en-us/certifications/exams/ms-900/
+Practice Exams: Essential for gauging readiness and getting used to question formats. Options include:
+Microsoft Official Practice Tests (MeasureUp)
+Providers like Whizlabs, Udemy, Pluralsight (check for MS-900 specific tests)
+(Optional) Microsoft 365 Free Trial or Developer Tenant: Hands-on exploration can help solidify concepts. You can sign up for trials or a free developer tenant.
+(Optional) Instructor-Led Training: Consider if you prefer a structured classroom environment (virtual or in-person).
+
+Study Approach:
+
+Consistency: Try to study a little bit regularly rather than cramming.
+Active Learning: Take notes, try the knowledge checks in Microsoft Learn, and explain concepts out loud or to someone else.
+Focus on Concepts: This is a fundamentals exam. Understand what the services are, why you'd use them, and their basic features/benefits, rather than deep technical configuration.
+Use the Skills Outline: Constantly refer back to the official skills outline to ensure you're covering all necessary areas.
+
+Week 0: Preparation & Overview (1-2 hours)
+------------------------------------------
+Goal: Understand the exam scope and gather resources.
+Activities:
+Visit the official MS-900 Exam Page. Read the overview, audience profile, and exam details.
+Download and carefully review the Exam Skills Outline. Understand the percentage weighting for each section.
+Bookmark the Microsoft Learn Path for MS-900.
+Explore options for Practice Exams and decide which one(s) you might use later.
+(Optional but Recommended): Schedule your exam a few weeks out. Having a deadline provides motivation.
+(Optional): Sign up for a Microsoft 365 free trial or developer tenant if you want hands-on practice.
+
+Week 1: Cloud Concepts & Core Microsoft 365 Services (Focus: ~25-35% of Exam)
+-----------------------------------------------------------------------------
+Goal: Grasp fundamental cloud principles and the main components of Microsoft 365.
+Topics (Referencing Skills Outline & MS Learn):
+Cloud Concepts: SaaS, PaaS, IaaS, Public/Private/Hybrid models, benefits of cloud services.
+Overview of Microsoft 365: What it includes (Office 365, Windows Enterprise, Enterprise Mobility + Security).
+Core Microsoft 365 Components:
+Productivity/Collaboration: Exchange Online, SharePoint Online, OneDrive for Business, Microsoft Teams, Microsoft 365 Apps (Word, Excel, etc.). Understand their basic purpose and how they integrate.
+Endpoint Management: Windows 10/11 Enterprise features, basic concepts of Microsoft Intune.
+Activities:
+Complete the relevant modules in the Microsoft Learn path focusing on cloud concepts and core services.
+Take notes summarizing the purpose and key benefits of each service.
+(Optional): Log in to a trial/dev tenant and briefly navigate the dashboards for Teams, SharePoint, OneDrive.
+
+Week 2: Security, Compliance, Privacy, and Trust (Focus: ~30-35% of Exam)
+-------------------------------------------------------------------------
+Goal: Understand Microsoft 365's approach to securing data and meeting compliance needs.
+Topics (Referencing Skills Outline & MS Learn):
+Security Principles: Zero Trust model basics.
+Identity and Access Management: Azure Active Directory (Azure AD) basics (now Microsoft Entra ID), concepts like MFA (Multi-Factor Authentication), Conditional Access.
+Threat Protection: Basic understanding of Microsoft 365 Defender capabilities (Defender for Office 365, Defender for Endpoint, etc.).
+Information Protection: Concepts like sensitivity labels, Data Loss Prevention (DLP).
+Compliance Management: Service Trust Portal, Compliance Manager basics, eDiscovery concepts.
+Privacy: Microsoft Priva concepts.
+Activities:
+Complete the Microsoft Learn modules covering security, compliance, privacy, and trust.
+Pay attention to what each security/compliance tool does rather than intricate configuration.
+Visit the Service Trust Portal to understand the resources available.
+
+Week 3: Microsoft 365 Pricing, Licensing, and Support (Focus: ~25-30% of Exam)
+------------------------------------------------------------------------------
+Goal: Understand how Microsoft 365 is licensed, billed, and supported.
+Topics (Referencing Skills Outline & MS Learn):
+Subscriptions and Management: Key differences between major plan families (e.g., Business Basic/Standard/Premium vs. Enterprise E3/E5/F3), managing licenses and billing.
+Support: Support options, Service Level Agreements (SLAs), service health dashboard.
+Service Lifecycle: Public roadmap, message center.
+Activities:
+Complete the Microsoft Learn modules on pricing, licensing, and support.
+Focus on understanding the types of plans and what differentiates them at a high level.
+Know where to find information about service health and support options.
+Start Practice Questions: Begin incorporating practice questions or mini-tests focusing on the topics covered so far.
+
+Week 4: Review, Practice Testing, and Final Prep (Focus: Consolidation)
+-----------------------------------------------------------------------
+Goal: Consolidate knowledge, identify weak areas, and simulate exam conditions.
+Activities:
+Review: Go through your notes from Weeks 1-3. Re-read summaries of key services and concepts.
+Revisit Skills Outline: Use it as a final checklist. Can you explain each point listed?
+Microsoft Learn Review: Retake the knowledge checks within the Microsoft Learn modules.
+Full Practice Exams: Take 1-2 full-length practice exams under timed conditions.
+Analyze Results: Carefully review the answers (both correct and incorrect) from your practice exams. Identify your weak areas.
+Targeted Study: Spend extra time reviewing the specific topics you struggled with on the practice exams. Revisit relevant Microsoft Learn modules or your notes.
+Final Review: The day before the exam, do a light review of key concepts and acronyms. Don't cram heavily.
+Logistics: Confirm your exam time, location (if physical), and test requirements. Ensure your computer meets requirements if taking online. Get a good night's sleep!
+
+Exam Day:
+---------
+Read each question carefully.
+Eliminate obviously incorrect answers first.
+Manage your time – don't spend too long on any single question. Flag difficult ones and return if time permits.
+Trust your preparation!
+Good luck with your studies! Remember to adapt this plan to your learning style and schedule.
