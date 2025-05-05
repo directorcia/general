@@ -16,6 +16,9 @@ Here are some useful links to get started with and learn more about Power Automa
 *   **Microsoft Power Automate YouTube Channel:** Official videos, tutorials, and feature showcases.
     https://www.youtube.com/@MicrosoftPowerAutomate
 
+    ** Microsoft Power Platform Yourtube Channel
+    https://www.youtube.com/@MicrosoftPowerPlatform
+
 ## Community Resources
 
 *   **Power Automate Community Forum:** Ask questions, share solutions, and connect with other users.
