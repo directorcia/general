@@ -124,6 +124,7 @@ https://www.youtube.com/watch?v=QV1Q5X6P8yM - Microsoft Intune and Security Copi
 https://www.youtube.com/watch?v=4atFroJw28I - Microsoft Intune and Security Copilot - Troubleshooting
 https://www.youtube.com/watch?v=psWW3g1CJvY - Microsoft Security Copilot Demo: Defend at Machine Speed 
 https://www.youtube.com/watch?v=0w8f3rE52Lk - How to set up agents and Microsoft 365 Copilot Chat, now included with Microsoft 365
+https://www.youtube.com/watch?v=8nJCt_BSdZQ - Get Microsoft 365 Copilot Chat for your business
 
 Security Copilot
 -----------------
