@@ -82,12 +82,9 @@ auditpol /get /category:*
 
 https://servicetrust.microsoft.com/ViewPage/RegionalAustralia
 
-ASD's Blueprint for Secure Cloud - https://blueprint.asd.gov.au/
-Scuba - https://www.cisa.gov/scuba
 Scuba repo - https://github.com/cisagov/ScubaGear
 Microsoft 365 + the NIST cybersecurity framework - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2x3jO
 https://www.microsoft.com/en-au/business/topic/security/essential-eight/
-https://learn.microsoft.com/en-us/security/benchmark/azure/
 https://github.com/directorcia/Office365/blob/master/best-practices.txt
 
 Robert Crane
