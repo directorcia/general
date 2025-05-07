@@ -7,6 +7,9 @@ Prompt = what is a better cybersecurity framework to use? Essential 8 or the ASD
 
 CISA SCUBA - https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project
 
+Claude - https://claude.ai/
+Prompt = create a new powershell script to secure a M365 environment to best practices from the asd secure cloud blueprint which is here - https://blueprint.asd.gov.au/
+
 ASD's Blueprint for Secure Cloud hardening guide - https://blueprint.asd.gov.au/configuration/intune/devices/configuration-policies/asd-edge-hardening-guidelines/
 
 CIAOPS Best Practices Repo - https://github.com/directorcia/bp/blob/main/Intune/Policies/ASD/windows-hardening.json
