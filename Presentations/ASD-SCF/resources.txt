@@ -1,0 +1,95 @@
+ACSC Essential Eight - https://learn.microsoft.com/en-us/compliance/essential-eight/e8-overview
+M365 Maps - Essential 8 - https://m365maps.com/files/Essential-8.htm
+ASD Blueprint for Secure cloud - https://blueprint.asd.gov.au/
+
+Gemini - https://gemini.google.com/
+Prompt = what is a better cybersecurity framework to use? Essential 8 or the ASD blueprint for secure cloud when it comes to Microsoft 365
+
+CISA SCUBA - https://www.cisa.gov/resources-tools/services/secure-cloud-business-applications-scuba-project
+
+ASD's Blueprint for Secure Cloud hardening guide - https://blueprint.asd.gov.au/configuration/intune/devices/configuration-policies/asd-edge-hardening-guidelines/
+
+CIAOPS Best Practices Repo - https://github.com/directorcia/bp/blob/main/Intune/Policies/ASD/windows-hardening.json
+
+Visual Studio Code - https://code.visualstudio.com/download
+Github Copilot - https://code.visualstudio.com/blogs/2024/12/18/free-github-copilot
+
+Prompt = create a new powershell script to import the following file https://raw.githubusercontent.com/directorcia/bp/refs/heads/main/Intune/Policies/ASD/windows-hardening.json into intune
+
+Copilot in Microsoft 365 admin centers - https://learn.microsoft.com/en-us/copilot/microsoft-365/copilot-for-microsoft-365-admin
+
+Microsoft 365 Security center - https://security.microsoft.com/
+
+Microsoft 365 Audit logs - https://security.microsoft.com/auditlogsearch
+
+Microsoft 365 Secure Score - https://security.microsoft.com/securescore
+
+Microsoft 365 Exposure Management - https://security.microsoft.com/exposure-overview
+
+Microsoft Sentinel - https://www.microsoft.com/en-au/security/business/siem-and-xdr/microsoft-sentinel/
+
+Microsoft Defender External Attack Surface Management - https://www.microsoft.com/en-us/security/business/siem-and-xdr/defender-external-attack-surface-management
+
+Microsoft Security Copilot - https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot
+
+Patch Applications
+------------------
+Use the winget tool to install and manage applications - https://learn.microsoft.com/en-us/windows/package-manager/winget/
+Microsoft Intune Enterprise Application Management - https://learn.microsoft.com/en-us/mem/intune/apps/apps-enterprise-app-management
+
+Patch Operating Systems
+-----------------------
+Manage operating system versions with Microsoft Intune - https://learn.microsoft.com/en-us/mem/intune/fundamentals/manage-os-versions
+
+Multifactor Authentication
+--------------------------
+Set up multifactor authentication for Microsoft 365 - https://learn.microsoft.com/en-us/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication?view=o365-worldwide
+
+Restrict Administrator Priviledges
+----------------------------------
+What is Windows LAPS? - https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-overview
+Microsoft Intune support for Windows LAPS - https://learn.microsoft.com/en-us/mem/intune/protect/windows-laps-overview
+
+Application Control
+-------------------
+Applocker - https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/applocker/applocker-overview
+Manage approved apps for Windows devices with App Control for Business policy and Managed Installers for Microsoft Intune - https://learn.microsoft.com/en-us/mem/intune/protect/endpoint-security-app-control-policy
+Understand Windows Defender Application Control (WDAC) policy rules and file rules - https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/select-types-of-rules-to-create
+
+Restrict Microsoft Office Macros
+--------------------------------
+Understand and use attack surface reduction capabilities - https://learn.microsoft.com/en-us/defender-endpoint/overview-attack-surface-reduction
+Restore deleted files or folders in OneDrive - https://support.microsoft.com/en-us/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f
+
+Regular Backups
+---------------
+Set the OneDrive retention for deleted users - https://learn.microsoft.com/en-us/sharepoint/set-retention
+Learn about retention for Exchange - https://learn.microsoft.com/en-us/purview/retention-policies-exchange
+
+Logging
+-------
+Centralised logging - https://www.cyber.gov.au/acsc/view-all-content/advice/guidelines-system-monitoring
+Auditpol - https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/auditpol
+auditpol /get /category:* 
+
+https://servicetrust.microsoft.com/ViewPage/RegionalAustralia
+
+ASD's Blueprint for Secure Cloud - https://blueprint.asd.gov.au/
+Scuba - https://www.cisa.gov/scuba
+Scuba repo - https://github.com/cisagov/ScubaGear
+Microsoft 365 + the NIST cybersecurity framework - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2x3jO
+https://www.microsoft.com/en-au/business/topic/security/essential-eight/
+https://learn.microsoft.com/en-us/security/benchmark/azure/
+https://github.com/directorcia/Office365/blob/master/best-practices.txt
+
+Robert Crane
+director@ciaops.com
+https://www.twitter.com/directorcia
+Blog – http://blog.ciaops.com
+Free Office 365, Azure video tutorials – http://www.youtube.com/directorciaops
+Free documents, presentations, eBooks – http://slideshare.net/directorcia
+Office 365, Azure, Cloud podcast – http://ciaops.podbean.com
+Office 365, Azure online training courses – http://www.ciaopsacademy.com
+Office 365 and Azure community – http://www.ciaopspatron.com
+CIAOPS Github – https://github.com/directorcia
+CIAOPS Best Practices Github – https://github.com/directorcia/bp
