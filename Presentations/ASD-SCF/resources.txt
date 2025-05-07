@@ -27,6 +27,11 @@ Microsoft 365 Secure Score - https://security.microsoft.com/securescore
 Microsoft 365 Exposure Management - https://security.microsoft.com/exposure-overview
 
 Microsoft Sentinel - https://www.microsoft.com/en-au/security/business/siem-and-xdr/microsoft-sentinel/
+KQL query to report failed sign-ins from Entra ID:
+    SigninLogs
+    | where ResultType != 0
+    | project TimeGenerated, UserPrincipalName, IPAddress, AppDisplayName, ResourceDisplayName, ResultType, ResultDescription, ConditionalAccessStatus, Location
+    | order by TimeGenerated desc
 
 Microsoft Defender External Attack Surface Management - https://www.microsoft.com/en-us/security/business/siem-and-xdr/defender-external-attack-surface-management
 
