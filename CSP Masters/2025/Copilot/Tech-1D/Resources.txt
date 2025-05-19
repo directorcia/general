@@ -116,6 +116,7 @@ https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-th
 
 Videos
 ------
+https://www.youtube.com/watch?v=Z0wfyT1xxqY - Simplify your workday with Microsoft 365 Copilot
 https://www.youtube.com/watch?v=KtsVRCsdvoU - Semantic Index for Copilot: Explained by Microsoft
 https://www.youtube.com/watch?v=E5g20qmeKpg - The Copilot System: Explained by Microsoft
 https://youtube.com/playlist?list=PLXtHYVsvn_b_t2dNsM86jUHpzlL0RlCF8&si=b7Xk3B1adneswatS - How Microsoft Copilot for Microsoft 365 works

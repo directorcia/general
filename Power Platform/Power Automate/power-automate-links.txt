@@ -1,0 +1,41 @@
+# Power Automate Learning Resources
+
+Here are some useful links to get started with and learn more about Power Automate:
+
+## Official Microsoft Resources
+
+*   **Microsoft Learn - Power Automate:** The main hub for documentation, learning paths, and modules.
+    https://learn.microsoft.com/en-us/power-automate/
+
+*   **Power Automate Documentation:** Specific documentation covering various aspects of Power Automate.
+    https://learn.microsoft.com/en-us/power-automate/getting-started
+
+*   **Power Automate Blog:** Official news, updates, and articles from the Power Automate team.
+    https://powerautomate.microsoft.com/en-us/blog/
+
+*   **Microsoft Power Automate YouTube Channel:** Official videos, tutorials, and feature showcases.
+    https://www.youtube.com/@MicrosoftPowerAutomate
+
+    ** Microsoft Power Platform Yourtube Channel
+    https://www.youtube.com/@MicrosoftPowerPlatform
+
+## Community Resources
+
+*   **Power Automate Community Forum:** Ask questions, share solutions, and connect with other users.
+    https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity
+
+## Popular YouTube Channels (Community Experts)
+
+*   **Reza Dorrani:** Excellent tutorials on Power Apps and Power Automate.
+    https://www.youtube.com/@RezaDorrani
+
+*   **Shane Young:** Practical videos covering Power Platform, including Power Automate.
+    https://www.youtube.com/@ShaneYoungCloud
+
+*   **April Dunnam:** Focuses on Power Platform development, including Power Automate tips.
+    https://www.youtube.com/@AprilDunnam
+
+## Other Useful Links
+
+*   **Power Automate Templates:** Get started quickly with pre-built flow templates.
+    https://powerautomate.microsoft.com/en-us/templates/
