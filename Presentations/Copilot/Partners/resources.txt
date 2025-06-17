@@ -34,9 +34,37 @@ https://copilot.cloud.microsoft/en-US/prompts?ocid=CopilotLab_M365Chatofficeweb 
 https://blog.ciaops.com/2024/01/17/adding-copilot-button-to-desktop-applications/ - Adding Copilot button to desktop applications
 https://aka.ms/m365copilotmechanics
 
+
+https://www.youtube.com/watch?v=tU96RtPhQ0k - Microsoft 365 Chat | Generate New Ideas with Copilot
+https://www.youtube.com/watch?v=yWC2XcRvH7E - Microsoft 365 Chat | Manage Your Inbox
+https://www.youtube.com/watch?v=Hj5xpC5_ZJw - Copilot in Microsoft 365 Chat | Uncover Similar Themes
+https://www.youtube.com/watch?v=XA_Mm7yOnZA - Copilot in Microsoft 365 Chat | Update your team faster
+https://www.youtube.com/watch?v=hkS-qS0ClSs - Copilot in Microsoft 365 Chat | Grow your knowledge
 https://www.youtube.com/watch?v=UNQeA2uqNPA - Copilot in Teams | Get meeting overviews
-	
+https://www.youtube.com/watch?v=stqy1aGTDtc - Copilot in Word | Request tailored edits
+https://www.youtube.com/watch?v=Tx0IbvgI4NA - Copilot in Word | Transform a document
+https://www.youtube.com/watch?v=hxc5t3AfpKo - Copilot in Word | Locate key information
+https://www.youtube.com/watch?v=KzOxnZBDbwQ - Copilot in Word | Gain focus time
+https://www.youtube.com/watch?v=H5tDkC2dOj8 - Copilot in Word | Get a head start
+https://www.youtube.com/watch?v=1RPOVocf_5s - Copilot in Word
+https://www.youtube.com/watch?v=9K5EptYm-B4 - Copilot in Excel | Be more analytical
+https://www.youtube.com/watch?v=HRthKyR_POI - Copilot in Excel | Quick Conditional Formatting
+https://www.youtube.com/watch?v=OmbIJv0WY0I - Copilot in Excel | Identify key insights
+https://www.youtube.com/watch?v=gGbCD3JiQwg - Copilot in Excel | Make engaging charts
+https://www.youtube.com/watch?v=0INfUJte9i0 - Copilot in Excel
+https://www.youtube.com/watch?v=PSTSOyBccnY - Copilot in Outlook | Manage your inbox
+https://www.youtube.com/watch?v=v83VUTafQ5s - Copilot in Outlook | Draft effective emails
+https://www.youtube.com/watch?v=FsQU9HoLs-Q - Copilot in Outlook
+https://www.youtube.com/watch?v=a_-tK2Q0E8U - Copilot in PowerPoint | Quickly generate ideas
+https://www.youtube.com/watch?v=TtxSjeh2FDY - Copilot in PowerPoint | Create consistency
+https://www.youtube.com/watch?v=iyWcWkmoFAA - Copilot in PowerPoint | Tell impactful stories
+https://www.youtube.com/watch?v=ksRTwmnrvHI - Copilot in PowerPoint
+https://www.youtube.com/watch?v=LC58G_0SFmA - Copilot in Forms | Create engaging forms
+https://www.youtube.com/watch?v=fD1On2K1DQM - Copilot in Stream | Insights for any video
+
 https://www.youtube.com/watch?v=rLC2frnUasw - Copilot in Teams and Intelligent recap | After the meeting
+
+https://www.youtube.com/watch?v=6_ivkSyo0xY - Data security in Microsoft Copilot for Microsoft 365
 
 https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/12/04/introducing-ai-in-a-minute-a-video-series-on-the-tech-behind-generative-ai/ - AI in a minute series
 https://www.youtube.com/playlist?list=PL8nfc9haGeb5V9srRhkEyAqLvvwsWCXAk - Ai in a minute playlist
