@@ -13,6 +13,7 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi - Neura
 Retrieval Augmented Generation (RAG)
 ------------------------------------
 https://www.youtube.com/watch?v=T-D1OfcDW1M - Retrieval Augmented Generation (RAG) explained
+https://www.youtube.com/watch?v=zYGDpG-pTho - RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models
 
 Semantic Index
 --------------
@@ -22,13 +23,13 @@ https://www.youtube.com/watch?v=Ii3l13nx9n4 - How Semantic Index for Copilot wor
 AI Engines
 ----------
 https://openai.com/index/sora - Sora
-https://chat.openai.com/ - Chat GPT
+https://chatgpt.com/ - Chat GPT
 https://www.perplexity.ai/ - Perplexity
 https://www.anthropic.com/claude - Claude
 https://gemini.google.com/app - Gemini
 https://copilot.microsoft.com - Microsoft Copilot
 https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/ - 10 (more) AI terms everyone should know
-https://youtu.be/DQacCB9tDaw -Introducing ChatGPT-4o
+https://www.youtube.com/watch?v=boJG84Jcf-4 -Introducing ChatGPT-5
 
 Mobile AI
 ---------
