@@ -53,6 +53,7 @@ https://aka.ms/m365copilotmechanics
 https://learn.microsoft.com/en-us/copilot/faq - Frequently asked questions about Copilot
 
 https://aka.ms/CopilotM365assessment - AI Readiness assessment
+https://security-for-ai-assessment.microsoft.com/ - Security for AI Assessment | Microsoft 365 Copilot
 
 Training
 --------
