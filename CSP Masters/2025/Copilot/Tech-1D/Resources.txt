@@ -5,6 +5,8 @@ Source
 https://aka.ms/Level-UpTechnicalAssessment - Copilot for Microsoft 365 Technical Badge
 https://aka.ms/Level-UpSalesAssessment - Copilot for Microsoft 365 Sales Badge
 
+https://news.microsoft.com/source/features/ai/how-to-use-ai-in-3-simple-steps-just-ask/ - How to use AI in 3 simple steps: Just ASK
+
 Large Language Models
 ---------------------
 https://www.youtube.com/watch?v=LPZh9BOjkQs - Large Language Models explained briefly
@@ -13,6 +15,7 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi - Neura
 Retrieval Augmented Generation (RAG)
 ------------------------------------
 https://www.youtube.com/watch?v=T-D1OfcDW1M - Retrieval Augmented Generation (RAG) explained
+https://www.youtube.com/watch?v=zYGDpG-pTho - RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models
 
 Semantic Index
 --------------
@@ -22,13 +25,13 @@ https://www.youtube.com/watch?v=Ii3l13nx9n4 - How Semantic Index for Copilot wor
 AI Engines
 ----------
 https://openai.com/index/sora - Sora
-https://chat.openai.com/ - Chat GPT
+https://chatgpt.com/ - Chat GPT
 https://www.perplexity.ai/ - Perplexity
 https://www.anthropic.com/claude - Claude
 https://gemini.google.com/app - Gemini
 https://copilot.microsoft.com - Microsoft Copilot
 https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/ - 10 (more) AI terms everyone should know
-https://youtu.be/DQacCB9tDaw -Introducing ChatGPT-4o
+https://www.youtube.com/watch?v=boJG84Jcf-4 -Introducing ChatGPT-5
 
 Mobile AI
 ---------
@@ -43,7 +46,6 @@ https://support.microsoft.com/en-us/copilot-pro - Copilot Pro
 https://adoption.microsoft.com/en-us/copilot/ - Copilot for Microsoft 365
 https://adoption-dev.azurewebsites.net/en-us/copilot/smb/ - Copilot for Microsoft 365 for small and medium businesses
 https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365 - Microsoft Copilot for Microsoft 365
-https://www.youtube.com/watch?v=RKM91qb53qI - Differences between Microsoft 365 Copilot Chat and Copilot
 https://copilot.cloud.microsoft/prompts - Copilot prompt lab
 https://aka.ms/copilot-impact - Microsoft Copilot dashboard
 https://copilot.cloud.microsoft/en-US/prompts?ocid=CopilotLab_M365Chatofficeweb - Copilot lab
@@ -84,6 +86,10 @@ https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-365-
 https://www.youtube.com/watch?v=PSTSOyBccnY - Copilot in Outlook | Manage your inbox
 https://www.youtube.com/watch?v=v83VUTafQ5s - Copilot in Outlook | Draft effective emails
 https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5 - Learn about Copilot prompts
+https://support.microsoft.com/en-us/topic/cooking-up-a-great-prompt-getting-the-most-from-copilot-7b614306-d5aa-4b62-8509-e46674a29165?ocid=CopilotLab_SMC_Article_GetTips - Cooking up a great prompt: Getting the most from Copilot
+https://support.microsoft.com/en-us/topic/get-better-results-with-copilot-prompting-77251d6c-e162-479d-b398-9e46cf73da55?ocid=CopilotLab_SMC_Article_BetterResults - Get better results with Copilot prompting
+https://support.microsoft.com/en-us/topic/edit-a-copilot-prompt-to-make-it-your-own-4f766981-dd4c-4038-a025-0f88c67fd9db?ocid=CopilotLab_SMC_Article_EditPrompt - Edit a Copilot prompt to make it your own
+https://support.microsoft.com/en-us/topic/share-your-best-prompts-75402b14-b419-494d-9e58-1709b4f334a2?ocid=CopilotLab_SMC_Article_SharePrompt - Share your best prompts
 https://insights.cloud.microsoft/#/CopilotDashboard - Copilot dashboard
 http://aka.ms/WhatsNewCopilot - What's new wih Copilot
 
@@ -116,7 +122,6 @@ https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-th
 
 Videos
 ------
-https://www.youtube.com/watch?v=Z0wfyT1xxqY - Simplify your workday with Microsoft 365 Copilot
 https://www.youtube.com/watch?v=KtsVRCsdvoU - Semantic Index for Copilot: Explained by Microsoft
 https://www.youtube.com/watch?v=E5g20qmeKpg - The Copilot System: Explained by Microsoft
 https://youtube.com/playlist?list=PLXtHYVsvn_b_t2dNsM86jUHpzlL0RlCF8&si=b7Xk3B1adneswatS - How Microsoft Copilot for Microsoft 365 works
@@ -126,6 +131,7 @@ https://www.youtube.com/watch?v=QV1Q5X6P8yM - Microsoft Intune and Security Copi
 https://www.youtube.com/watch?v=4atFroJw28I - Microsoft Intune and Security Copilot - Troubleshooting
 https://www.youtube.com/watch?v=psWW3g1CJvY - Microsoft Security Copilot Demo: Defend at Machine Speed 
 https://www.youtube.com/watch?v=0w8f3rE52Lk - How to set up agents and Microsoft 365 Copilot Chat, now included with Microsoft 365
+https://www.youtube.com/watch?v=8nJCt_BSdZQ - Get Microsoft 365 Copilot Chat for your business
 
 Security Copilot
 -----------------
