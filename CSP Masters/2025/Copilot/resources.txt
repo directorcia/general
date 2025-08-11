@@ -143,6 +143,7 @@ https://www.youtube.com/watch?v=q1UuDnBHgK8 - Human-operated ransomware (HumOR)
 Sales
 -----
 https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot?tab=csp - Sell through CSP
+https://partner.microsoft.com/en-US/asset/detail/partner-center-ai-assistant-for-upsells-mp4?wt.mc_id=msgy20lubf - Partner Center AI assistant for upsells
 
 About
 -----
