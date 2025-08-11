@@ -5,6 +5,8 @@ Source
 https://aka.ms/Level-UpTechnicalAssessment - Copilot for Microsoft 365 Technical Badge
 https://aka.ms/Level-UpSalesAssessment - Copilot for Microsoft 365 Sales Badge
 
+https://news.microsoft.com/source/features/ai/how-to-use-ai-in-3-simple-steps-just-ask/ - How to use AI in 3 simple steps: Just ASK
+
 Large Language Models
 ---------------------
 https://www.youtube.com/watch?v=LPZh9BOjkQs - Large Language Models explained briefly
@@ -85,6 +87,10 @@ https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-365-
 https://www.youtube.com/watch?v=PSTSOyBccnY - Copilot in Outlook | Manage your inbox
 https://www.youtube.com/watch?v=v83VUTafQ5s - Copilot in Outlook | Draft effective emails
 https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5 - Learn about Copilot prompts
+https://support.microsoft.com/en-us/topic/cooking-up-a-great-prompt-getting-the-most-from-copilot-7b614306-d5aa-4b62-8509-e46674a29165?ocid=CopilotLab_SMC_Article_GetTips - Cooking up a great prompt: Getting the most from Copilot
+https://support.microsoft.com/en-us/topic/get-better-results-with-copilot-prompting-77251d6c-e162-479d-b398-9e46cf73da55?ocid=CopilotLab_SMC_Article_BetterResults - Get better results with Copilot prompting
+https://support.microsoft.com/en-us/topic/edit-a-copilot-prompt-to-make-it-your-own-4f766981-dd4c-4038-a025-0f88c67fd9db?ocid=CopilotLab_SMC_Article_EditPrompt - Edit a Copilot prompt to make it your own
+https://support.microsoft.com/en-us/topic/share-your-best-prompts-75402b14-b419-494d-9e58-1709b4f334a2?ocid=CopilotLab_SMC_Article_SharePrompt - Share your best prompts
 https://insights.cloud.microsoft/#/CopilotDashboard - Copilot dashboard
 http://aka.ms/WhatsNewCopilot - What's new wih Copilot
 
