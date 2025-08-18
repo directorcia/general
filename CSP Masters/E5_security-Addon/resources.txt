@@ -1,1 +1,30 @@
+SMB Security Guide - https://aka.ms/smbsecuritychecklist
+
+Entra ID
+---------
+What is Entra ID? - https://learn.microsoft.com/en-us/entra/fundamentals/whatis
+Microsoft Entra service description - https://learn.microsoft.com/en-us/office365/servicedescriptions/azure-active-directory
+
+Defender for Office 365
+------------------------
+Microsoft Defender for Office 365 setup guide - https://m365accelerator.microsoft.com/defender/office-365-setup-guide
+Microsoft Defender for Office 365 service description - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-advanced-threat-protection-service-description
+
+Microsoft Defender for Endpoint
+--------------------------------
+Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint
+Microsoft Defender service description - https://learn.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-defender-service-description
+
+Microsoft Defender for Identity
+--------------------------------
+What is Microsoft Defender for Identity? - https://learn.microsoft.com/en-us/defender-for-identity/what-is
+Microsoft Defender for Identity documentation - https://learn.microsoft.com/en-us/defender-for-identity/
+Microsoft Defender for Identity frequently asked questions - https://learn.microsoft.com/en-us/defender-for-identity/technical-faq
+
+Microsoft Defender for Cloud Apps
+-----------------------------
+Microsoft Defender for Cloud Apps overview - https://learn.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps
+Microsoft Defender for Cloud Apps documentation - https://learn.microsoft.com/en-us/defender-cloud-apps/
+Microsoft Defender for Cloud Apps setup guide - https://m365accelerator.microsoft.com/defender/cloud-apps-setup-guide
+
 Entra ID: Entitlement management: Access Packages - https://www.youtube.com/watch?v=h01k3xiI6jE
