@@ -4,11 +4,29 @@ Entra ID
 ---------
 What is Entra ID? - https://learn.microsoft.com/en-us/entra/fundamentals/whatis
 Microsoft Entra service description - https://learn.microsoft.com/en-us/office365/servicedescriptions/azure-active-directory
+Risk based policies - https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-policies
+What is Microsoft Entra Privileged Identity Management? - https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-configure
+Plan a Privileged Identity Management deployment - https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-deployment-plan#high-level-overview-of-how-privileged-identity-management-works
+Discovery and Insights (preview) for Microsoft Entra roles (formerly Security Wizard) - https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-security-wizard
+What is Microsoft Entra ID Governance? - https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview
+Entra ID governance Features by license - https://learn.microsoft.com/en-us/entra/id-governance/licensing-fundamentals#features-by-license
+What are access reviews? - https://learn.microsoft.com/en-us/entra/id-governance/access-reviews-overview
+What is entitlement management? - https://learn.microsoft.com/en-us/entra/id-governance/entitlement-management-overview
+How To: Configure the multifactor authentication registration policy - https://learn.microsoft.com/en-us/entra/id-protection/howto-identity-protection-configure-mfa-policy
 
 Defender for Office 365
 ------------------------
 Microsoft Defender for Office 365 setup guide - https://m365accelerator.microsoft.com/defender/office-365-setup-guide
 Microsoft Defender for Office 365 service description - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-advanced-threat-protection-service-description
+Safe Links in Microsoft Defender for Office 365 - https://learn.microsoft.com/en-us/defender-office-365/safe-links-about?view=o365-worldwide
+Safe Attachments in Microsoft Defender for Office 365 - https://learn.microsoft.com/en-us/defender-office-365/safe-attachments-about
+View Defender for Office 365 reports in the Microsoft Defender portal - https://learn.microsoft.com/en-us/defender-office-365/reports-defender-for-office-365?view=o365-worldwide
+Get started using Attack simulation training - https://learn.microsoft.com/en-us/defender-office-365/attack-simulation-training-get-started
+Automated investigation and response (AIR) in Microsoft Defender for Office 365 Plan 2 - https://learn.microsoft.com/en-us/defender-office-365/air-about
+About Threat Explorer and Real-time detections in Microsoft Defender for Office 365 - https://learn.microsoft.com/en-us/defender-office-365/threat-explorer-real-time-detections-about?view=o365-worldwide
+Campaigns in Microsoft Defender for Office 365 - https://learn.microsoft.com/en-us/defender-office-365/campaigns?view=o365-worldwide
+Threat trackers in Microsoft Defender for Office 365 Plan 2 - https://learn.microsoft.com/en-us/defender-office-365/threat-trackers?view=o365-worldwide
+About Threat Explorer and Real-time detections in Microsoft Defender for Office 365 - https://learn.microsoft.com/en-us/defender-office-365/threat-explorer-real-time-detections-about?view=o365-worldwide
 
 Microsoft Defender for Endpoint
 --------------------------------
