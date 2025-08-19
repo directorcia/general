@@ -38,6 +38,7 @@ Microsoft Defender for Identity
 What is Microsoft Defender for Identity? - https://learn.microsoft.com/en-us/defender-for-identity/what-is
 Microsoft Defender for Identity documentation - https://learn.microsoft.com/en-us/defender-for-identity/
 Microsoft Defender for Identity frequently asked questions - https://learn.microsoft.com/en-us/defender-for-identity/technical-faq
+Install a Microsoft Defender for Identity sensor - https://learn.microsoft.com/en-us/defender-for-identity/deploy/install-sensor
 
 Microsoft Defender for Cloud Apps
 -----------------------------
