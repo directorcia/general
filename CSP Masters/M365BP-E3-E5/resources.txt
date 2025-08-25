@@ -1,5 +1,9 @@
 
 Microsoft 365 and Office 365 service descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library 
+Licensing Resources and Documents - https://www.microsoft.com/licensing/docs
+Welcome to the partner Microsoft licensing resources hub - https://partner.microsoft.com/en-US/partnership/licensing-for-partners
+
+Upgrade or change to a different Microsoft 365 for business plan - https://learn.microsoft.com/en-us/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide
 
 Entra ID
 ---------
