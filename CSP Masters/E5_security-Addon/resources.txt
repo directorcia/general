@@ -1,4 +1,11 @@
+ASD Blueprint for secure cloud - https://blueprint.asd.gov.au/
+
 SMB Security Guide - https://aka.ms/smbsecuritychecklist
+
+Licensing
+---------
+Microsoft Service Descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library
+M365 Maps - https://m365maps.com/
 
 Entra ID
 ---------
@@ -41,9 +48,15 @@ Microsoft Defender for Identity frequently asked questions - https://learn.micro
 Install a Microsoft Defender for Identity sensor - https://learn.microsoft.com/en-us/defender-for-identity/deploy/install-sensor
 
 Microsoft Defender for Cloud Apps
------------------------------
+----------------------------------
 Microsoft Defender for Cloud Apps overview - https://learn.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps
 Microsoft Defender for Cloud Apps documentation - https://learn.microsoft.com/en-us/defender-cloud-apps/
 Microsoft Defender for Cloud Apps setup guide - https://m365accelerator.microsoft.com/defender/cloud-apps-setup-guide
 
 Entra ID: Entitlement management: Access Packages - https://www.youtube.com/watch?v=h01k3xiI6jE
+
+Instructor
+    Robert Crane
+    https://www.ciaops.com
+    https://github.com/directorcia
+    https://www.ciaopspatron.com

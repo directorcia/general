@@ -52,3 +52,9 @@ Microsoft Defender for Cloud Apps documentation - https://learn.microsoft.com/en
 Microsoft Defender for Cloud Apps setup guide - https://m365accelerator.microsoft.com/defender/cloud-apps-setup-guide
 
 Entra ID: Entitlement management: Access Packages - https://www.youtube.com/watch?v=h01k3xiI6jE
+
+Instructor
+    Robert Crane
+    https://www.ciaops.com
+    https://github.com/directorcia
+    https://www.ciaopspatron.com
