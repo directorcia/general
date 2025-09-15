@@ -114,6 +114,7 @@ https://aka.ms/Copilot/Docs - Documentation
 https://aka.ms/Copilot/FAQ - FAQ
 https://aka.ms/Copilot/StarterKit - Adoption kit
 https://learn.microsoft.com/en-us/copilot/ - Microsoft Copilot documentation and resources
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-messages-management#copilot-credits-and-events-scenarios - Copilot credits and event scenarios
 
 Agents
 ------
