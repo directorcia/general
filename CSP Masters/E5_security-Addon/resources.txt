@@ -7,6 +7,8 @@ Licensing
 Microsoft Service Descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library
 M365 Maps - https://m365maps.com/
 
+Microsoft 365 E5 Security is now available as an add-on to Microsoft 365 Business Premium - https://techcommunity.microsoft.com/blog/microsoft_365blog/microsoft-365-e5-security-is-now-available-as-an-add-on-to-microsoft-365-busines/4388436
+
 Entra ID
 ---------
 What is Entra ID? - https://learn.microsoft.com/en-us/entra/fundamentals/whatis
