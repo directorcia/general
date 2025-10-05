@@ -1,0 +1,15 @@
+
+
+Use the Speak text-to-speech feature to read text aloud - https://support.microsoft.com/en-us/office/use-the-speak-text-to-speech-feature-to-read-text-aloud-459e7704-a76d-4fe2-ab48-189d6b83333c
+Dictate your documents in Word - https://support.microsoft.com/en-au/office/dictate-your-documents-in-word-3876e05f-3fcc-418f-b8ab-db7ce0d11d3c
+
+Overview of Microsoft 365 Copilot Chat - https://learn.microsoft.com/en-us/copilot/overview
+
+Microsoft 365 Copilot overview - https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview
+
+
+
+Created by
+    Robert Crane
+    https://www.ciaops.com
+    https://github.com/directorcia
