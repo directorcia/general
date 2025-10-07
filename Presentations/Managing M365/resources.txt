@@ -8,6 +8,8 @@ Overview of Microsoft 365 Copilot Chat - https://learn.microsoft.com/en-us/copil
 Microsoft 365 Copilot overview - https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview
 
 
+Microsoft multi-tenant management resource guide - https://techcommunity.microsoft.com/discussions/microsoft-intune/microsoft-multi-tenant-management-resource-guide/4454531
+
 
 Created by
     Robert Crane
