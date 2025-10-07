@@ -54,6 +54,8 @@ What is Microsoft Entra Privileged Identity Management? - https://learn.microsof
 
 What is Global Secure Access? - https://learn.microsoft.com/en-us/entra/global-secure-access/overview-what-is-global-secure-access
 
+Microsoft multi-tenant management resource guide - https://techcommunity.microsoft.com/discussions/microsoft-intune/microsoft-multi-tenant-management-resource-guide/4454531
+
 
 Created by
     Robert Crane
