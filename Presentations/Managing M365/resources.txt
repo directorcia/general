@@ -3,10 +3,56 @@
 Use the Speak text-to-speech feature to read text aloud - https://support.microsoft.com/en-us/office/use-the-speak-text-to-speech-feature-to-read-text-aloud-459e7704-a76d-4fe2-ab48-189d6b83333c
 Dictate your documents in Word - https://support.microsoft.com/en-au/office/dictate-your-documents-in-word-3876e05f-3fcc-418f-b8ab-db7ce0d11d3c
 
+Microsoft 365 Business Premium features map- https://m365maps.com/files/Microsoft-365-Business-Premium.htm
+Microsoft 365 Business Premium features list	- https://m365maps.com/matrix.htm#000001000000000000000
+
 Overview of Microsoft 365 Copilot Chat - https://learn.microsoft.com/en-us/copilot/overview
 
 Microsoft 365 Copilot overview - https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-overview
 
+Get started with Researcher in Microsoft 365 Copilot - https://support.microsoft.com/en-au/topic/get-started-with-researcher-in-microsoft-365-copilot-e63ab760-f3de-4c47-ae87-dad601b0e9c4
+
+Get started with Analyst in Microsoft 365 Copilot - https://support.microsoft.com/en-au/topic/get-started-with-analyst-in-microsoft-365-copilot-ff505b9c-a06c-4be9-b855-69d89b1d25d2
+
+Get started with Copilot in Excel - https://support.microsoft.com/en-au/office/get-started-with-copilot-in-excel-d7110502-0334-4b4f-a175-a73abdfc118a
+
+Copilot in Microsoft 365 admin centers - https://learn.microsoft.com/en-us/copilot/microsoft-365/copilot-for-microsoft-365-admin
+
+Using Copilot Vision with Microsoft Copilot - https://support.microsoft.com/en-au/topic/using-copilot-vision-with-microsoft-copilot-3c67686f-fa97-40f6-8a3e-0e45265d425f
+
+Microsoft Clipchamp - https://learn.microsoft.com/en-us/clipchamp/
+
+Microsoft Copilot Studio - https://adoption.microsoft.com/en-us/ai-agents/copilot-studio/
+
+Get started with GitHub Copilot in VS Code - https://code.visualstudio.com/docs/copilot/getting-started
+
+Github Spark - https://github.com/spark?locale=en-US
+
+Microsoft Defender for Cloud Apps overview - https://learn.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps
+
+Microsoft Defender for Endpoint - https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint
+
+Learn about Data Security Posture Management (DSPM) for AI - https://learn.microsoft.com/en-us/purview/dspm-for-ai?tabs=m365
+
+What is Microsoft Sentinel security information and event management (SIEM)? - https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=defender-portal
+
+KQL Query
+---------
+SigninLogs
+| where ResultType != 0  // Failed sign-ins
+| where TimeGenerated >= ago(14d)
+| summarize FailedLogins = count() by Country = tostring(LocationDetails.countryOrRegion)
+| sort by FailedLogins desc
+
+Microsoft Defender External Attack Surface Management (EASM) - https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-external-attack-surface-management
+
+Microsoft Security Copilot - https://adoption.microsoft.com/en-us/security-copilot/
+
+Use WinGet to install and manage applications - https://learn.microsoft.com/en-us/windows/package-manager/winget/
+
+What is Microsoft Entra Privileged Identity Management? - https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-configure
+
+What is Global Secure Access? - https://learn.microsoft.com/en-us/entra/global-secure-access/overview-what-is-global-secure-access
 
 
 Created by
