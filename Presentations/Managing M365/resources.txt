@@ -56,6 +56,8 @@ What is Global Secure Access? - https://learn.microsoft.com/en-us/entra/global-s
 
 Microsoft multi-tenant management resource guide - https://techcommunity.microsoft.com/discussions/microsoft-intune/microsoft-multi-tenant-management-resource-guide/4454531
 
+Robert.agent@ciaops365.com
+Robert.Agent has been upgraded - https://blog.ciaops.com/2025/09/19/robert-agent-has-been-upgraded/
 
 Created by
     Robert Crane

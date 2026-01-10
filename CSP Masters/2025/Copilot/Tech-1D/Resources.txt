@@ -67,6 +67,7 @@ https://copilot.cloud.microsoft/en-AU/prompts - Copilot Lab
 https://microsoft.github.io/copilot-camp/ - Copilot Developer Camp
 https://learn.microsoft.com/en-us/ai/?tabs=developer - AI Learning hub
 https://microsoft.github.io/AI-For-Beginners/ - AI for beginners
+https://aiskillsnavigator.microsoft.com/ - AI Skills Navigator
 
 Adoption
 --------
