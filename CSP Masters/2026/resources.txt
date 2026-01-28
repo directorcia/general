@@ -1,0 +1,164 @@
+Source
+    https://github.com/directorcia/general/blob/master/CSP%20Masters/2026/
+
+https://aka.ms/Level-UpTechnicalAssessment - Copilot for Microsoft 365 Technical Badge
+https://aka.ms/Level-UpSalesAssessment - Copilot for Microsoft 365 Sales Badge
+
+https://news.microsoft.com/source/features/ai/how-to-use-ai-in-3-simple-steps-just-ask/ - How to use AI in 3 simple steps: Just ASK
+
+Large Language Models
+---------------------
+https://www.youtube.com/watch?v=LPZh9BOjkQs - Large Language Models explained briefly
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi - Neural networks
+
+Retrieval Augmented Generation (RAG)
+------------------------------------
+https://www.youtube.com/watch?v=T-D1OfcDW1M - Retrieval Augmented Generation (RAG) explained
+https://www.youtube.com/watch?v=zYGDpG-pTho - RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models
+
+Semantic Index
+--------------
+https://www.youtube.com/watch?v=KtsVRCsdvoU - Semantic Index for Copilot: Explained by Microsoft
+https://www.youtube.com/watch?v=Ii3l13nx9n4 - How Semantic Index for Copilot works in Microsoft 365
+
+AI Engines
+----------
+https://openai.com/index/sora - Sora
+https://chatgpt.com/ - Chat GPT
+https://www.perplexity.ai/ - Perplexity
+https://www.anthropic.com/claude - Claude
+https://gemini.google.com/app - Gemini
+https://copilot.microsoft.com - Microsoft Copilot
+https://news.microsoft.com/source/features/ai/10-more-ai-terms-everyone-should-know/ - 10 (more) AI terms everyone should know
+https://www.youtube.com/watch?v=boJG84Jcf-4 -Introducing ChatGPT-5
+
+Mobile AI
+---------
+https://au.pcmag.com/ai/100020/ai-on-the-go-how-to-use-chatgpt-from-your-mobile-device- AI on the Go: How to Use ChatGPT From Your Mobile Device
+
+Github Copilot
+--------------
+https://code.visualstudio.com/docs/copilot/setup-simplified - Enable Copilot free in VS code
+
+
+https://support.microsoft.com/en-us/copilot-pro - Copilot Pro
+https://adoption.microsoft.com/en-us/copilot/ - Copilot for Microsoft 365
+https://adoption-dev.azurewebsites.net/en-us/copilot/smb/ - Copilot for Microsoft 365 for small and medium businesses
+https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365 - Microsoft Copilot for Microsoft 365
+https://copilot.cloud.microsoft/prompts - Copilot prompt lab
+https://aka.ms/copilot-impact - Microsoft Copilot dashboard
+https://copilot.cloud.microsoft/en-US/prompts?ocid=CopilotLab_M365Chatofficeweb - Copilot lab
+https://blog.ciaops.com/2024/01/17/adding-copilot-button-to-desktop-applications/ - Adding Copilot button to desktop applications
+https://aka.ms/m365copilotmechanics
+
+https://learn.microsoft.com/en-us/copilot/faq - Frequently asked questions about Copilot
+
+https://aka.ms/CopilotM365assessment - AI Readiness assessment
+https://security-for-ai-assessment.microsoft.com/ - Security for AI Assessment | Microsoft 365 Copilot
+
+Training
+--------
+https://learn.microsoft.com/en-us/training/paths/prepare-your-organization-microsoft-365-copilot/ - MS-012 Prepare your organization for Copilot for Microsoft 365
+https://learn.microsoft.com/en-us/training/paths/craft-effective-prompts-copilot-microsoft-365/ - Craft effective prompts for Microsoft Copilot for Microsoft 365
+https://www.youtube.com/watch?v=RRWfGrC1fao - Get your small business ready for Copilot for Microsoft 365
+https://www.youtube.com/watch?v=pwz3TFvciGA - Introduction to Copilot for Microsoft 365
+https://learn.microsoft.com/en-us/copilot/ - Copilot Learning Hub
+https://copilot.cloud.microsoft/en-AU/prompts - Copilot Lab
+https://microsoft.github.io/copilot-camp/ - Copilot Developer Camp
+https://learn.microsoft.com/en-us/ai/?tabs=developer - AI Learning hub
+https://microsoft.github.io/AI-For-Beginners/ - AI for beginners
+https://aiskillsnavigator.microsoft.com/ - AI Skills Navigator
+
+Adoption
+--------
+https://techcommunity.microsoft.com/blog/microsoft365copilotblog/the-great-microsoft-365-copilot-journey-empower-your-team-with-copilot/4364094 - The great Microsoft 365 Copilot journey: Empower your team with Copilot
+
+Copilot
+-------
+https://support.microsoft.com/en-gb/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5 - Learn about Copilot prompts
+https://copilot.microsoft.com - Microsoft Copilot
+https://www.youtube.com/watch?v=KtsVRCsdvoU - Semantic index for Copilot
+https://github.com/directorcia/general/tree/master/Presentations/Copilot/Videos - Videos
+https://www.youtube.com/watch?v=E5g20qmeKpg - The Copilot System
+https://www.youtube.com/watch?v=PSTSOyBccnY - Copilot in Outlook | Manage your inbox
+https://www.youtube.com/watch?v=v83VUTafQ5s - Copilot in Outlook | Draft effective emails
+https://insights.cloud.microsoft/#/CopilotDashboard - Copilot dashboard
+http://aka.ms/WhatsNewCopilot - What's new wih Copilot
+https://learn.microsoft.com/en-us/sharepoint/knowledge-agent-get-started - Get started with Knowledge Agent (preview)
+
+Security
+--------
+https://learn.microsoft.com/en-us/purview/audit-log-enable-disable
+https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference#compliance-administrator
+https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-audit-logs
+https://learn.microsoft.com/en-us/purview/sensitivity-labels-sharepoint-onedrive-files
+
+Compliance
+----------
+https://techcommunity.microsoft.com/blog/azurepurviewblog/microsoft-purview-%E2%80%93-data-security-posture-management-dspm-for-ai/4394685 - Microsoft Purview – Data Security Posture Management (DSPM) for AI
+https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy - Data, Privacy, and Security for Microsoft Copilot for Microsoft 365
+https://learn.microsoft.com/en-us/copilot/privacy-and-protections - Privacy and protections
+
+Copilot Chat
+------------
+https://techcommunity.microsoft.com/blog/windows-itpro-blog/skilling-snack-get-started-with-microsoft-365-copilot-chat/4454597 - Get started with Microsoft Copilot Chat
+
+Microsoft 365 Copilot
+---------------------
+https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot/ - Introduction to Copilot for Microsoft 365
+https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-365-copilot/ - Get started with Copilot for Microsoft 365
+https://aka.ms/Copilotclickthroughdemoguide
+https://aka.ms/WhatsNewCopilot
+https://aka.ms/Copilot/Website - Website
+http://aka.ms/Copilot/MechanicsVideo - Video for IT admins
+https://aka.ms/Copilot/Docs - Documentation
+https://aka.ms/Copilot/FAQ - FAQ
+https://aka.ms/Copilot/StarterKit - Adoption kit
+https://learn.microsoft.com/en-us/copilot/ - Microsoft Copilot documentation and resources
+
+Prompts
+-------
+https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5 - Learn about Copilot prompts
+https://support.microsoft.com/en-us/topic/cooking-up-a-great-prompt-getting-the-most-from-copilot-7b614306-d5aa-4b62-8509-e46674a29165?ocid=CopilotLab_SMC_Article_GetTips - Cooking up a great prompt: Getting the most from Copilot
+https://support.microsoft.com/en-us/topic/get-better-results-with-copilot-prompting-77251d6c-e162-479d-b398-9e46cf73da55?ocid=CopilotLab_SMC_Article_BetterResults - Get better results with Copilot prompting
+https://support.microsoft.com/en-us/topic/edit-a-copilot-prompt-to-make-it-your-own-4f766981-dd4c-4038-a025-0f88c67fd9db?ocid=CopilotLab_SMC_Article_EditPrompt - Edit a Copilot prompt to make it your own
+https://support.microsoft.com/en-us/topic/share-your-best-prompts-75402b14-b419-494d-9e58-1709b4f334a2?ocid=CopilotLab_SMC_Article_SharePrompt - Share your best prompts
+
+Agents
+------
+https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/agent-builder - Agent Builder in Microsoft 365
+https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/ - New autonomous agents scale your teams like never before
+https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/ - AI agents — what they are, and how they’ll change the way we work
+https://support.microsoft.com/en-us/office/get-started-with-channel-agent-for-teams-channels-b85945cf-deef-4f1e-9db1-66e1a23b6a65?preview=true - Get started with Channel Agent for Teams channels
+
+Videos
+------
+https://www.youtube.com/watch?v=KtsVRCsdvoU - Semantic Index for Copilot: Explained by Microsoft
+https://www.youtube.com/watch?v=E5g20qmeKpg - The Copilot System: Explained by Microsoft
+https://youtube.com/playlist?list=PLXtHYVsvn_b_t2dNsM86jUHpzlL0RlCF8&si=b7Xk3B1adneswatS - How Microsoft Copilot for Microsoft 365 works
+https://www.youtube.com/watch?v=3Nb0FEe3kKw - How Microsoft 365 Copilot works BRK256 Ignite 2023
+https://www.youtube.com/watch?v=_B7hNusXHqI - Watch Security Copilot in action
+https://www.youtube.com/watch?v=QV1Q5X6P8yM - Microsoft Intune and Security Copilot - Policy Generation 
+https://www.youtube.com/watch?v=4atFroJw28I - Microsoft Intune and Security Copilot - Troubleshooting
+https://www.youtube.com/watch?v=psWW3g1CJvY - Microsoft Security Copilot Demo: Defend at Machine Speed 
+https://www.youtube.com/watch?v=0w8f3rE52Lk - How to set up agents and Microsoft 365 Copilot Chat, now included with Microsoft 365
+https://www.youtube.com/watch?v=8nJCt_BSdZQ - Get Microsoft 365 Copilot Chat for your business
+
+Security Copilot
+-----------------
+https://learn.microsoft.com/en-us/security-copilot/ - Microsoft Security Copilot
+https://www.youtube.com/watch?v=Vd_URX7aRbA - Extended user account investigation with Copilot (accelerated)
+https://www.youtube.com/watch?v=iPtb5DZOWg0 - Defender XDR embedded Copilot to standalone Copilot investigation
+https://www.youtube.com/watch?v=q1UuDnBHgK8 - Human-operated ransomware (HumOR)
+
+Sales
+-----
+https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot?tab=csp - Sell through CSP
+https://partner.microsoft.com/en-US/asset/detail/partner-center-ai-assistant-for-upsells-mp4?wt.mc_id=msgy20lubf - Partner Center AI assistant for upsells
+
+About
+-----
+Robert Crane
+Linkedin - http://www.linkedin.com/in/ciaops
+GitHub - https://www.github.com/directorcia
+Blog - https://blog.ciaops.com
