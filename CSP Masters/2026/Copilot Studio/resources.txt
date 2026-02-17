@@ -1,5 +1,5 @@
 Source
-    https://github.com/directorcia/general/blob/master/CSP%20Masters/2026/Copilot%20Studio
+    https://github.com/directorcia/general/blob/master/CSP%20Masters/2026/Copilot%20Studio/resources.txt
 
 https://security-for-ai-assessment.microsoft.com/ - Security for AI Assessment | Microsoft 365 Copilot
 
