@@ -6,22 +6,30 @@ https://security-for-ai-assessment.microsoft.com/ - Security for AI Assessment |
 Copilot Studio Documentation
 -----------------------------
 https://learn.microsoft.com/en-us/microsoft-copilot-studio/ - Copilot Studio – Main Documentation Hub
-https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studiom - What is Microsoft Copilot Studio (Fundamentals) 
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio - What is Microsoft Copilot Studio (Fundamentals) 
 https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio/ - Microsoft Copilot Studio Product Overview (Marketing + Capabilities)  
-https://learn.microsoft.com/en-us/training/paths/work-power-virtual-agents/ - Create and Publish Agents with Copilot Studio (Learning Path)
 
 Training
 --------
+https://learn.microsoft.com/en-us/training/paths/work-power-virtual-agents/ - Create and Publish Agents with Copilot Studio (Learning Path)
 https://learn.microsoft.com/en-us/training/paths/create-extend-custom-copilots-microsoft-copilot-studio/ - Create Agents in Microsoft Copilot Studio (Advanced Learning Path)
 https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-bots/ - Get Started with Copilot Studio (Beginner Module)**  
-https://microsoft.github.io/agent-academy/ - Copilot Studio Agent Academy (Hands‑on, Scenario‑Driven Training)
 https://github.com/MicrosoftDocs/power-platform/blob/main/power-platform/architecture/products/copilot-studio.md - Copilot Studio Reference Architectures & Solution Ideas**  
 https://adoption.microsoft.com/en-us/ai-agents/copilot-studio/ - Microsoft Adoption Hub – Copilot Studio & AI Agents
 https://learn.microsoft.com/en-us/microsoft-copilot-studio/copilot-connectors-in-copilot-studio - Using Connectors in Copilot Studio (Official Guide)
 https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-connectors - Advanced Connectors & Custom APIs
 https://microsoft.github.io/copilot-studio-resources/ - Copilot Studio Resources (Power CAT curated list)
+
+Pricing
+-------
 https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio - Official Copilot Studio Pricing Page (Microsoft)
+
+Licensing
+---------
 https://learn.microsoft.com/en-us/microsoft-copilot-studio/billing-licensing - Copilot Studio Licensing & Billing (Microsoft Learn)
+
+Security
+--------
 https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-and-governance - Copilot Studio Security & Governance Overview  
 https://learn.microsoft.com/en-us/copilot/microsoft-365/copilot-control-system/security-governance - Copilot Control System – Security & Governance (Applies to Copilot Studio Agents)
 https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/ - Microsoft Security Blog – Copilot Studio Agent Risks & Detection
