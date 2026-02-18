@@ -24,6 +24,7 @@ Pricing
 -------
 https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio - Official Copilot Studio Pricing Page (Microsoft)
 
+
 Licensing
 ---------
 https://learn.microsoft.com/en-us/microsoft-copilot-studio/billing-licensing - Copilot Studio Licensing & Billing (Microsoft Learn)
