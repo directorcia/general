@@ -1,0 +1,53 @@
+Source
+    https://github.com/directorcia/general/blob/master/CSP%20Masters/2026/Copilot%20Studio/resources.txt
+
+https://security-for-ai-assessment.microsoft.com/ - Security for AI Assessment | Microsoft 365 Copilot
+
+Copilot Studio Documentation
+-----------------------------
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/ - Copilot Studio – Main Documentation Hub
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio - What is Microsoft Copilot Studio (Fundamentals) 
+https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio/ - Microsoft Copilot Studio Product Overview (Marketing + Capabilities)  
+
+Training
+--------
+https://learn.microsoft.com/en-us/training/paths/work-power-virtual-agents/ - Create and Publish Agents with Copilot Studio (Learning Path)
+https://learn.microsoft.com/en-us/training/paths/create-extend-custom-copilots-microsoft-copilot-studio/ - Create Agents in Microsoft Copilot Studio (Advanced Learning Path)
+https://learn.microsoft.com/en-us/training/modules/power-virtual-agents-bots/ - Get Started with Copilot Studio (Beginner Module)**  
+https://github.com/MicrosoftDocs/power-platform/blob/main/power-platform/architecture/products/copilot-studio.md - Copilot Studio Reference Architectures & Solution Ideas**  
+https://adoption.microsoft.com/en-us/ai-agents/copilot-studio/ - Microsoft Adoption Hub – Copilot Studio & AI Agents
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/copilot-connectors-in-copilot-studio - Using Connectors in Copilot Studio (Official Guide)
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-connectors - Advanced Connectors & Custom APIs
+https://microsoft.github.io/copilot-studio-resources/ - Copilot Studio Resources (Power CAT curated list)
+
+Pricing
+-------
+https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio - Official Copilot Studio Pricing Page (Microsoft)
+
+Licensing
+---------
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/billing-licensing - Copilot Studio Licensing & Billing (Microsoft Learn)
+
+Security
+--------
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-and-governance - Copilot Studio Security & Governance Overview  
+https://learn.microsoft.com/en-us/copilot/microsoft-365/copilot-control-system/security-governance - Copilot Control System – Security & Governance (Applies to Copilot Studio Agents)
+https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/ - Microsoft Security Blog – Copilot Studio Agent Risks & Detection
+https://dev.to/holgerimbery/practical-governance-for-microsoft-copilot-studio-and-the-power-platform-1foi - Practical Governance for Copilot Studio (Power Platform focused)
+https://www.youtube.com/playlist?list=PL8Fw9zgeuDxkbx-j8TEINLqzxElyJ0I8k - Copilot & Copilot Studio Governance (Video Playlist)
+
+Agents
+------
+https://microsoft.github.io/agent-academy/ - Copilot Studio Agent Academy
+https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/agent-builder - Agent Builder in Microsoft 365
+https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/ - New autonomous agents scale your teams like never before
+https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/ - AI agents — what they are, and how they’ll change the way we work
+https://support.microsoft.com/en-us/office/get-started-with-channel-agent-for-teams-channels-b85945cf-deef-4f1e-9db1-66e1a23b6a65?preview=true - Get started with Channel Agent for Teams channels
+
+
+About
+-----
+Robert Crane
+Linkedin - http://www.linkedin.com/in/ciaops
+GitHub - https://www.github.com/directorcia
+Blog - https://blog.ciaops.com
