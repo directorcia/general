@@ -5,6 +5,8 @@ SMB Security Guide - https://aka.ms/smbsecuritychecklist
 Overview
 --------
 Microsoft Defender and Purview Suites for M365 Business Premium – Detailed Breakdown - https://blog.ciaops.com/2025/10/08/microsoft-defender-and-purview-suites-for-m365-business-premium-detailed-breakdown/
+Microsoft 365 Business Premium security benefits - https://learn.microsoft.com/microsoft-365/admin/security-and-compliance/m365bp-security-benefits?view=o365-worldwide
+Microsoft 365 Business Premium security FAQ - https://learn.microsoft.com/microsoft-365/admin/security-and-compliance/m365bp-security-faq?view=o365-worldwide
 
 
 Licensing
@@ -64,6 +66,8 @@ Microsoft Defender for Cloud Apps
 Microsoft Defender for Cloud Apps overview - https://learn.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps
 Microsoft Defender for Cloud Apps documentation - https://learn.microsoft.com/en-us/defender-cloud-apps/
 Microsoft Defender for Cloud Apps setup guide - https://m365accelerator.microsoft.com/defender/cloud-apps-setup-guide
+What is Microsoft Defender for Business? - https://learn.microsoft.com/en-us/defender-business/mdb-overview
+How to get Microsoft Defender for Business - https://learn.microsoft.com/en-us/microsoft-365/security/defender-business/get-defender-business
 
 Purview Suite
 -------------
@@ -72,6 +76,7 @@ Microsoft Purview licensing and service guidance - https://learn.microsoft.com/p
 Microsoft Purview portal - https://purview.microsoft.com
 Learn about Purview Data Loss Prevention - https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp
 Learn about Microsoft Purview Information Protection - https://learn.microsoft.com/purview/information-protection
+Learn about Microsoft Purview Data Security Posture Management (DSPM) - https://learn.microsoft.com/en-us/purview/data-security-posture-management-learn-about
 
 Entra ID: Entitlement management: Access Packages - https://www.youtube.com/watch?v=h01k3xiI6jE
 
