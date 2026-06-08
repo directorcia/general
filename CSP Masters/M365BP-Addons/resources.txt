@@ -2,6 +2,11 @@ ASD Blueprint for secure cloud - https://blueprint.asd.gov.au/
 
 SMB Security Guide - https://aka.ms/smbsecuritychecklist
 
+Overview
+--------
+Microsoft Defender and Purview Suites for M365 Business Premium – Detailed Breakdown - https://blog.ciaops.com/2025/10/08/microsoft-defender-and-purview-suites-for-m365-business-premium-detailed-breakdown/
+
+
 Licensing
 ---------
 Microsoft Service Descriptions - https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-service-descriptions-technet-library
