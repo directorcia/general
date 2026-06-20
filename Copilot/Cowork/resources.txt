@@ -1,0 +1,2 @@
+https://microsoft.github.io/copilot-studio-estimator/ - Copilot Credit estimator
+https://adoption.microsoft.com/en-us/copilot/cowork/ai-user/ - AI User
