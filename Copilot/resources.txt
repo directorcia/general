@@ -37,6 +37,10 @@ Github Copilot
 --------------
 https://code.visualstudio.com/docs/setup/copilot - Enable Copilot free in VS code
 
+Skills
+------
+https://microsoft.github.io/cat-agent-skills/ - The gallery of skills for your AI agents
+
 
 https://support.microsoft.com/en-us/office/introducing-microsoft-365-premium - Copilot Pro
 https://adoption.microsoft.com/en-us/copilot/ - Copilot for Microsoft 365
