@@ -157,6 +157,10 @@ Sales
 https://cloudpartners.transform.microsoft.com/practices/modern-work/copilot?tab=csp - Sell through CSP
 https://partner.microsoft.com/en-US/asset - Partner Center AI assistant for upsells
 
+Pricing
+-------
+https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/bade/documents/products-and-services/en-us/ai/Microsoft-Copilot-Credits-Guide.pdf - Copilot Credits Guide
+
 About
 -----
 Robert Crane
