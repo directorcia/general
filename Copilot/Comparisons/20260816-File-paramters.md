@@ -1,20 +1,20 @@
 # Document Feature Comparison Report
 
-Generated from 16 selected Word documents in the SharePoint **Analysis / Compare** folder.
+Generated from 17 selected Word documents in the SharePoint **Analysis / Compare** folder.
 
 > Note: Word page count isn't exposed by the extracted text stream, so **Total pages** is estimated at ~500 words per page. Section counts are derived from Markdown-style headings extracted from the Word files.
 
-> Update (23 September 2026): `20260923-Cowork-Opus55.docx` has been added to the comparison set and all totals, averages and rankings below have been recalculated to include it.
+> Update (23 September 2026): `20260917-Cowork-GPT6Sol.docx` has been added to the comparison set and all totals, averages and rankings below have been recalculated to include it.
 
 ## Executive summary
 
 | Metric | Value |
 |---|---:|
-| Documents compared | 16 |
-| Total extracted words | 158620 |
-| Average words per document | 9914 |
-| Total file size | 6658960 bytes (6.35 MB) |
-| Average file size | 416185 bytes (406.4 KB) |
+| Documents compared | 17 |
+| Total extracted words | 166413 |
+| Average words per document | 9789 |
+| Total file size | 6836499 bytes (6.52 MB) |
+| Average file size | 402147 bytes (392.7 KB) |
 | Longest document by words | 20260902-Cowork-Fable-51.docx (21129 words) |
 | Smallest document by words | 20270730-Chat-GPT55-Quick.docx (1948 words) |
 | Largest file by size | 20260923-Cowork-Opus55.docx (1739931 bytes) |
@@ -40,6 +40,7 @@ Generated from 16 selected Word documents in the SharePoint **Analysis / Compare
 | 14 | 20270730-Chat-GPT55-Quick.docx | Chat | GPT 5.5 Quick | 24956 | 24.4 | 15869 | 1948 | 4 | 17 | 1 | 4 | 10 | 24 | 86 | 0 | 0 | 32 | 16/08/2026 8:24 AM | 16/08/2026 8:24 AM |
 | 15 | 20260917-Cowork-GPT6Astra.docx | Cowork | GPT 6 Astra | 409648 | 400.0 | 81758 | 11267 | 23 | 47 | 14 | 32 | 1 | 196 | 0 | 175 | 4 | 53 | 17/09/2026 7:28 AM | 17/09/2026 8:46 AM |
 | 16 | 20260923-Cowork-Opus55.docx | Cowork | Opus 5.5 | 1739931 | 1699.2 | 71159 | 11308 | 23 | 73 | 14 | 59 | 0 | 202 | 66 | 512 | 11 | 0 | 23/09/2026 3:36 PM | 23/09/2026 3:23 PM |
+| 17 | 20260917-Cowork-GPT6Sol.docx | Cowork | GPT 6 Sol | 177539 | 173.4 | 55010 | 7793 | 16 | 40 | 14 | 26 | 0 | 114 | 40 | 92 | 0 | 45 | 23/09/2026 3:56 PM | 23/09/2026 4:48 PM |
 
 ## Ranked comparisons
 
@@ -57,12 +58,13 @@ Generated from 16 selected Word documents in the SharePoint **Analysis / Compare
 | 8 | 20260917-Cowork-GPT6Astra.docx | 11267 | 23 | 81758 |
 | 9 | 20260810-Cowork-Opus48.docx | 9662 | 20 | 68221 |
 | 10 | 20260804-Cowork-GPT56Sol.docx | 8344 | 17 | 62212 |
-| 11 | 20260812-Chat-GPT-5.6-Quick.docx | 6130 | 13 | 55843 |
-| 12 | 20260812-Chat-Sonnet.docx | 6130 | 13 | 55843 |
-| 13 | 20260811-Cowork-GPT56Terra.docx | 4832 | 10 | 39119 |
-| 14 | 20260811-Cowork-GPT55.docx | 4567 | 10 | 35716 |
-| 15 | 20260730-Chat-GPT56-Think.docx | 3212 | 7 | 27218 |
-| 16 | 20270730-Chat-GPT55-Quick.docx | 1948 | 4 | 15869 |
+| 11 | 20260917-Cowork-GPT6Sol.docx | 7793 | 16 | 55010 |
+| 12 | 20260812-Chat-GPT-5.6-Quick.docx | 6130 | 13 | 55843 |
+| 13 | 20260812-Chat-Sonnet.docx | 6130 | 13 | 55843 |
+| 14 | 20260811-Cowork-GPT56Terra.docx | 4832 | 10 | 39119 |
+| 15 | 20260811-Cowork-GPT55.docx | 4567 | 10 | 35716 |
+| 16 | 20260730-Chat-GPT56-Think.docx | 3212 | 7 | 27218 |
+| 17 | 20270730-Chat-GPT55-Quick.docx | 1948 | 4 | 15869 |
 
 ### By file size
 
@@ -77,13 +79,14 @@ Generated from 16 selected Word documents in the SharePoint **Analysis / Compare
 | 7 | 20260812-Chat-Sonnet.docx | 370248 | 361.6 | 17.0 |
 | 8 | 20260804-Cowork-GPT56Sol.docx | 252516 | 246.6 | 33.8 |
 | 9 | 20260811-Cowork-GPT56Terra.docx | 240510 | 234.9 | 20.6 |
-| 10 | 20260812-Chat-Opus.docx | 109372 | 106.8 | 171.8 |
-| 11 | 20260809-Cowork-Opus5.docx | 85923 | 83.9 | 188.3 |
-| 12 | 20260808-Cowork-Sonnet5.docx | 75899 | 74.1 | 155.7 |
-| 13 | 20260810-Cowork-Opus48.docx | 72277 | 70.6 | 136.9 |
-| 14 | 20260811-Cowork-GPT55.docx | 59349 | 58.0 | 78.8 |
-| 15 | 20260730-Chat-GPT56-Think.docx | 34081 | 33.3 | 96.5 |
-| 16 | 20270730-Chat-GPT55-Quick.docx | 24956 | 24.4 | 79.9 |
+| 10 | 20260917-Cowork-GPT6Sol.docx | 177539 | 173.4 | 45.0 |
+| 11 | 20260812-Chat-Opus.docx | 109372 | 106.8 | 171.8 |
+| 12 | 20260809-Cowork-Opus5.docx | 85923 | 83.9 | 188.3 |
+| 13 | 20260808-Cowork-Sonnet5.docx | 75899 | 74.1 | 155.7 |
+| 14 | 20260810-Cowork-Opus48.docx | 72277 | 70.6 | 136.9 |
+| 15 | 20260811-Cowork-GPT55.docx | 59349 | 58.0 | 78.8 |
+| 16 | 20260730-Chat-GPT56-Think.docx | 34081 | 33.3 | 96.5 |
+| 17 | 20270730-Chat-GPT55-Quick.docx | 24956 | 24.4 | 79.9 |
 
 ### Structure density
 
@@ -105,6 +108,7 @@ Generated from 16 selected Word documents in the SharePoint **Analysis / Compare
 | 20270730-Chat-GPT55-Quick.docx | 115 | 6.0 | 44.1 |
 | 20260917-Cowork-GPT6Astra.docx | 240 | 8.5 | 0.0 |
 | 20260923-Cowork-Opus55.docx | 155 | 8.8 | 5.8 |
+| 20260917-Cowork-GPT6Sol.docx | 195 | 7.1 | 5.1 |
 
 ## Key differences observed
 
@@ -112,6 +116,7 @@ Generated from 16 selected Word documents in the SharePoint **Analysis / Compare
 - **Most compact by extracted word count:** 20270730-Chat-GPT55-Quick.docx, with 1948 words and an estimated 4 pages.
 - **Largest binary file:** 20260923-Cowork-Opus55.docx, at 1739931 bytes (1699.2 KB), exceeding 20260902-Cowork-Fable-51.docx (1463735 bytes).
 - **Largest text-to-size mismatch:** 20260923-Cowork-Opus55.docx is the least dense file in the set at 6.7 words per KB, so its size comes primarily from embedded formatting and document structure rather than extra prose.
+- **New comparison entry:** 20260917-Cowork-GPT6Sol.docx adds 7793 words across 40 headings, 92 table rows and 45 URL references, with no embedded image markers.
 - **Documents with real table structure:** 20260923-Cowork-Opus55.docx contains 30 tables spanning 512 rows, while 20260902-Cowork-Fable-51.docx contains 24 tables spanning 328 rows and 20260917-Cowork-GPT6Astra.docx contains 24 tables spanning 175 rows; the other documents present comparable material as prose or bullets.
 - **Most heavily sectioned new document:** 20260917-Cowork-GPT6Astra.docx contains 47 headings, including 14 H1 headings and 32 H2 headings, with 175 table rows.
 - **Most table-heavy new document:** 20260923-Cowork-Opus55.docx contains 30 tables spanning 512 rows, with 73 headings and 66 bullets.
@@ -164,6 +169,23 @@ It remains the longest document by extracted word count, with a fully numbered 1
 | File size | 1739931 bytes (1699.2 KB) |
 
 It is now the largest binary file in the set and the most table-heavy document, with 30 tables spanning 512 rows. Its 14-section structure is more deeply subdivided than the other recent Cowork reports, while the 66 bullets and 11 image markers combine a detailed research-report format with a more presentation-oriented summary layer.
+
+### 20260917-Cowork-GPT6Sol.docx at a glance
+
+| Attribute | Value |
+|---|---|
+| Mode / model | Cowork, GPT 6 Sol |
+| Words / characters | 7793 / 55010 |
+| Estimated pages | 16 |
+| Headings (H1 / H2 / H3) | 40 (14 / 26 / 0) |
+| Body paragraphs | 114 |
+| Bullets | 40 |
+| Table lines | 92 |
+| Images | 0 |
+| URL references | 45 |
+| File size | 177539 bytes (173.4 KB) |
+
+It is a moderately sized, highly structured research report, with 14 top-level sections, substantial tabular evidence and a citation-heavy presentation. Its 5.1 bullets per 1,000 words and 7.1 body paragraphs per estimated page place it between the formal table-led Astra report and the more prose-heavy Cowork documents.
 
 ## Methodology
 
