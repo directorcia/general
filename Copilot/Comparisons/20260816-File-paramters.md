@@ -1,6 +1,6 @@
 # Document Feature Comparison Report
 
-Generated from 21 selected Word documents in the SharePoint **Analysis / Compare** folder.
+Generated from 22 Word documents in the `20260816` directory.
 
 > Note: Word page count isn't exposed by the extracted text stream, so **Total pages** is estimated at ~500 words per page. Section counts are derived from Markdown-style headings extracted from the Word files.
 
@@ -8,15 +8,17 @@ Generated from 21 selected Word documents in the SharePoint **Analysis / Compare
 
 > Update (9 October 2026): `20261009-Chat-GPT61Sol.docx` and `2026109-Chat-Opus55.docx` have been added. Totals, averages, rankings and observations below include both files.
 
+> Update (14 October 2026): `20261013-Argon.docx` has been added from the `20260816` directory. Totals, averages and rankings below include all 22 Word documents.
+
 ## Executive summary
 
 | Metric | Value |
 |---|---:|
-| Documents compared | 21 |
-| Total extracted words | 328154 |
-| Average words per document | 15626 |
-| Total file size | 15368390 bytes (14.66 MB) |
-| Average file size | 731828 bytes (714.7 KB) |
+| Documents compared | 22 |
+| Total extracted words | 337320 |
+| Average words per document | 15333 |
+| Total file size | 15440028 bytes (14.72 MB) |
+| Average file size | 701819 bytes (685.4 KB) |
 | Longest document by words | 20261009-Chat-GPT61Sol.docx and 2026109-Chat-Opus55.docx (61324 words each) |
 | Smallest document by words | 20270730-Chat-GPT55-Quick.docx (1948 words) |
 | Largest file by size | 2026109-Chat-Opus55.docx (3197961 bytes) |
@@ -47,6 +49,7 @@ Generated from 21 selected Word documents in the SharePoint **Analysis / Compare
 | 19 | 20260930-Cowork-GPT61Sol.docx | Cowork | GPT 6.1 Sol | 1562116 | 1525.5 | 196361 | 30101 | 60 | 66 | 14 | 49 | 3 | 421 | 0 | 446 | 0 | 62 | 30/09/2026 7:29 PM | 30/09/2026 7:18 PM |
 | 20 | 20261009-Chat-GPT61Sol.docx | Chat | GPT 6.1 Sol | 3186776 | 3112.1 | 415537 | 61324 | 123 | 175 | 18 | 57 | 100 | 1440 | 0 | 668 | 0 | 424 | 9/10/2026 5:42 PM | 9/10/2026 6:59 PM |
 | 21 | 2026109-Chat-Opus55.docx | Chat | Opus 5.5 | 3197961 | 3123.0 | 415537 | 61324 | 123 | 175 | 18 | 57 | 100 | 1440 | 0 | 668 | 0 | 424 | 9/10/2026 5:42 PM | 9/10/2026 6:59 PM |
+| 22 | 20261013-Argon.docx | — | Argon | 71638 | 70.0 | 56932 | 9166 | 19 | 42 | 1 | 14 | 27 | 280 | 60 | 46 | 0 | 33 | 14/10/2026 8:48 AM* | 14/10/2026 8:44 AM* |
 
 ## Ranked comparisons
 
@@ -66,15 +69,16 @@ Generated from 21 selected Word documents in the SharePoint **Analysis / Compare
 | 10 | 20260923-Cowork-Opus55.docx | 11308 | 23 | 71159 |
 | 11 | 20260917-Cowork-GPT6Astra.docx | 11267 | 23 | 81758 |
 | 12 | 20260810-Cowork-Opus48.docx | 9662 | 20 | 68221 |
-| 13 | 20260930-Chat-Advanced-reasoning.docx | 8992 | 18 | 66166 |
-| 14 | 20260804-Cowork-GPT56Sol.docx | 8344 | 17 | 62212 |
-| 15 | 20260917-Cowork-GPT6Sol.docx | 7793 | 16 | 55010 |
-| 16 | 20260812-Chat-GPT-5.6-Quick.docx | 6130 | 13 | 55843 |
-| 16 | 20260812-Chat-Sonnet.docx | 6130 | 13 | 55843 |
-| 18 | 20260811-Cowork-GPT56Terra.docx | 4832 | 10 | 39119 |
-| 19 | 20260811-Cowork-GPT55.docx | 4567 | 10 | 35716 |
-| 20 | 20260730-Chat-GPT56-Think.docx | 3212 | 7 | 27218 |
-| 21 | 20270730-Chat-GPT55-Quick.docx | 1948 | 4 | 15869 |
+| 13 | 20261013-Argon.docx | 9166 | 19 | 56932 |
+| 14 | 20260930-Chat-Advanced-reasoning.docx | 8992 | 18 | 66166 |
+| 15 | 20260804-Cowork-GPT56Sol.docx | 8344 | 17 | 62212 |
+| 16 | 20260917-Cowork-GPT6Sol.docx | 7793 | 16 | 55010 |
+| 17 | 20260812-Chat-GPT-5.6-Quick.docx | 6130 | 13 | 55843 |
+| 17 | 20260812-Chat-Sonnet.docx | 6130 | 13 | 55843 |
+| 19 | 20260811-Cowork-GPT56Terra.docx | 4832 | 10 | 39119 |
+| 20 | 20260811-Cowork-GPT55.docx | 4567 | 10 | 35716 |
+| 21 | 20260730-Chat-GPT56-Think.docx | 3212 | 7 | 27218 |
+| 22 | 20270730-Chat-GPT55-Quick.docx | 1948 | 4 | 15869 |
 
 ### By file size
 
@@ -98,9 +102,10 @@ Generated from 21 selected Word documents in the SharePoint **Analysis / Compare
 | 16 | 20260809-Cowork-Opus5.docx | 85923 | 83.9 | 188.3 |
 | 17 | 20260808-Cowork-Sonnet5.docx | 75899 | 74.1 | 155.7 |
 | 18 | 20260810-Cowork-Opus48.docx | 72277 | 70.6 | 136.9 |
-| 19 | 20260811-Cowork-GPT55.docx | 59349 | 58.0 | 78.8 |
-| 20 | 20260730-Chat-GPT56-Think.docx | 34081 | 33.3 | 96.5 |
-| 21 | 20270730-Chat-GPT55-Quick.docx | 24956 | 24.4 | 79.9 |
+| 19 | 20261013-Argon.docx | 71638 | 70.0 | 131.0 |
+| 20 | 20260811-Cowork-GPT55.docx | 59349 | 58.0 | 78.8 |
+| 21 | 20260730-Chat-GPT56-Think.docx | 34081 | 33.3 | 96.5 |
+| 22 | 20270730-Chat-GPT55-Quick.docx | 24956 | 24.4 | 79.9 |
 
 ### Structure density
 
@@ -127,6 +132,7 @@ Generated from 21 selected Word documents in the SharePoint **Analysis / Compare
 | 20260923-Cowork-Opus55.docx | 155 | 8.8 | 5.8 |
 | 20260930-Chat-Advanced-reasoning.docx | 110 | 23.6 | 14.1 |
 | 20260917-Cowork-GPT6Sol.docx | 195 | 7.1 | 5.1 |
+| 20261013-Argon.docx | 218 | 14.7 | 6.5 |
 
 ## Key differences observed
 
@@ -138,6 +144,7 @@ Generated from 21 selected Word documents in the SharePoint **Analysis / Compare
 - **Documents with real table structure:** The two 9 October Chat documents each contain 66 tables spanning 668 rows. 20260923-Cowork-Opus55.docx contains 30 tables spanning 512 rows, while 20260930-Cowork-GPT61Sol.docx contains 52 tables spanning 446 rows, 20260902-Cowork-Fable-51.docx contains 24 tables spanning 328 rows, 20260917-Cowork-GPT6Astra.docx contains 24 tables spanning 175 rows and 20260930-Chat-Advanced-reasoning.docx contains 81 table rows.
 - **Most heavily sectioned documents:** The two 9 October Chat reports tie at 175 headings (18 H1, 57 H2 and 100 H3), followed by 20260930-Chat-Advanced-reasoning.docx at 82 headings.
 - **Most table-heavy documents:** The two 9 October Chat reports each contain 668 table rows in 66 tables, followed by 20260923-Cowork-Opus55.docx with 30 tables spanning 512 rows.
+- **New inventory entry:** 20261013-Argon.docx adds 9166 words, 42 H1-H3 headings, 60 bullets, 46 table rows and 33 URL references; it is 71638 bytes.
 - **Structure varies materially:** heading counts range from 16 to 175, showing different sectioning styles and report depth.
 
 ### 20260902-Cowork-Fable-51.docx at a glance
@@ -282,3 +289,5 @@ It remains the longest Cowork report by extracted word count, though the two 9 O
 | Headings in 20260902-Cowork-Fable-51.docx | Detected from consistent heading formatting, then classified by section numbering depth | This file applies no built-in Word heading styles, so its heading counts derive from visual formatting rather than style names. |
 | Table lines | Count of table rows in the document body | Earlier files reported 0 because their content was extracted as plain text without table structure. |
 | Headings in the two 9 October Chat reports | Counted from Word Heading 1–3 styles in the document body | These reports use Word heading styles; counts may differ from Markdown-heading counts in other files. |
+| Word count for 20261013-Argon.docx | Microsoft Word document word statistic | Existing extracted-text workflow was unavailable for this file; its count may not be directly comparable to earlier extracted-text word counts. |
+| Created / modified for 20261013-Argon.docx | Local file-system timestamps in the `20260816` directory | These are local timestamps, not SharePoint library metadata. |
