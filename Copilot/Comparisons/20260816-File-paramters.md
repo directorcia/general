@@ -149,6 +149,8 @@ Generated from 23 selected Word documents in the SharePoint **Analysis / Compare
 - **Documents with real table structure:** The two 9 October Chat documents each contain 66 tables spanning 668 rows. 20260923-Cowork-Opus55.docx contains 30 tables spanning 512 rows, while 20260930-Cowork-GPT61Sol.docx contains 52 tables spanning 446 rows, 20260902-Cowork-Fable-51.docx contains 24 tables spanning 328 rows, 20260917-Cowork-GPT6Astra.docx contains 24 tables spanning 175 rows and 20260930-Chat-Advanced-reasoning.docx contains 81 table rows.
 - **Most heavily sectioned documents:** The two 9 October Chat reports tie at 175 headings (18 H1, 57 H2 and 100 H3), followed by 20260930-Chat-Advanced-reasoning.docx at 82 headings.
 - **Most table-heavy documents:** The two 9 October Chat reports each contain 668 table rows in 66 tables, followed by 20260923-Cowork-Opus55.docx with 30 tables spanning 512 rows.
+- **New inventory entry:** 20261013-Argon.docx adds 9166 words, 42 H1-H3 headings, 60 bullets, 46 table rows and 33 URL references; it is 71638 bytes.
+- **New inventory entry:** 20261113-Cowork-Fable52.docx adds 14445 words, 71 Word headings, 190 table rows, 6 images and 139 URL references; it is 471828 bytes.
 - **Structure varies materially:** heading counts range from 16 to 175, showing different sectioning styles and report depth.
 
 ### 20260902-Cowork-Fable-51.docx at a glance
@@ -164,6 +166,23 @@ Generated from 23 selected Word documents in the SharePoint **Analysis / Compare
 | Images | 11 |
 | URL references | 179 |
 | File size | 1463735 bytes (1429.4 KB) |
+
+### 20261113-Cowork-Fable52.docx at a glance
+
+| Attribute | Value |
+|---|---|
+| Mode / model | Cowork, Fable 5.2 |
+| Words / characters | 14445 / 105393 |
+| Estimated pages | 29 |
+| Headings (H1 / H2 / H3) | 71 (14 / 57 / 0) |
+| Non-empty paragraphs, including table cells | 436* |
+| Numbered or bulleted paragraphs with explicit numbering | 69* |
+| Tables / table rows | 24 / 190 |
+| Images | 6 |
+| URL references | 139 |
+| File size | 471828 bytes (460.8 KB) |
+
+The report tests whether conventional labour-priced, generalist MSPs are becoming unsustainable, concluding that the sector is not collapsing but the traditional model faces structural pressure. It combines market and Microsoft analysis, AI and service-line exposure, financial scenarios for an illustrative US$5 million MSP, and staged recommendations. Its clear, owner-facing structure is balanced by caveats around secondary sourcing, market-size variations and some vendor-reported automation figures.
 
 ### 20260917-Cowork-GPT6Astra.docx at a glance
 
